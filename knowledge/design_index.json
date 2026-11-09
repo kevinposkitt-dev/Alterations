@@ -295,6 +295,33 @@
         "fit-check"
       ],
       "status": "draft"
+    },
+    {
+      "category": "Measurement method",
+      "term": "Measure at stated levels (armhole ¾ to 1 inch below the arm hinge, blade width 1 to 1¼ inches above it); record back and front separately",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "82-83"
+      },
+      "affects": [
+        "measurement",
+        "armscye"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Measurement method",
+      "term": "Skirt and trouser length and width: which measurement tells which change (above the hipline, at the hem, side seam or dart)",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "84-86"
+      },
+      "affects": [
+        "skirt-length",
+        "hip-depth",
+        "width"
+      ],
+      "status": "draft"
     }
   ]
 }

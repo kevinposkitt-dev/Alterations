@@ -1436,6 +1436,248 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "finished-fit-checklist",
+      "statement": "A well-fitted garment has centres perpendicular to the floor on the body centres, dartlines aimed at the fullest part of the bulge, horizontal lines level, attractive edges, and smooth fabric with appropriate ease and no tightness.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "79"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "refine-total-then-transfer-to-paper",
+      "statement": "After joining fitted units, refine the whole garment, then transfer every adjustment to the paper pattern if it will be reused.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "79"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "measure-body-plus-ease-for-moving-areas",
+      "statement": "For the measurement method, add ease to the body measurements of areas that move or expand, then compare the total with the pattern.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "80"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "measure-consistent-time-and-stance",
+      "statement": "Body size changes through the day and with stance. Measure at a consistent time, with the person standing erect and relaxed, and recheck any reading that changes when the person turns or bends.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "80"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "measure-lower-torso-first",
+      "statement": "Measure the lower torso before the upper torso, and rest the person between sections so the readings stay accurate.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "80"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "measure-at-stated-level",
+      "statement": "Take each measurement at the level the chart specifies (for example, side seam ¾ to 1 inch below the arm hinge, blade width 1 to 1¼ inches above the arm hinge), because the same measurement at a different level gives a different reading.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "82-83"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "record-back-and-front-separately",
+      "statement": "Record back and front circumferences separately, because the back measures the rib cage and the front includes bust or cup size.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "82-83"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "compare-to-stitching-line-only",
+      "statement": "When comparing to the pattern, exclude seam and hem allowances, darts, stitched pleats and tucks. Allow extra width for gathers, unstitched pleats and flare separately.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "84"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "skirt-length-from-side-minus-hem",
+      "statement": "Skirt length equals the side-seam body length minus the desired hem height from the floor.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "84"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-depth-marked-7-to-9-inches",
+      "statement": "Mark the hip level 7 to 9 inches (18 to 23 cm) below the waist, or 1 to 1½ inches below the point where the side seam becomes straight, and draw the hipline parallel to the hemline.",
+      "applies_to": [
+        "skirted",
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "84"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "length-change-where-difference-lies",
+      "statement": "Where centre length and hip depth differ from the pattern by the same amount, change length above the hipline. Where only the hip depth differs, change above the hipline and restore length at the hem. Where only the side or centre length differs, change at the hem.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "85"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "width-change-even-at-seam-uneven-at-side",
+      "statement": "Equal waist and hip width differences are corrected along the side seamline. Unequal differences are corrected at the side seam, a dart, or a style seam near the side.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "85"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "prominent-front-thigh-raise-waist-curve",
+      "statement": "For prominent front thighs, add width at the side of the pattern, or increase the waistline curve by moving part of the waist dart into the hem.",
+      "applies_to": [
+        "skirted",
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "85"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trouser-hip-depth-allowance",
+      "statement": "For close-fitting trousers, add about 1 to 1⅜ inches (2.5 to 3.5 cm) of length above the back waistline depth measurement.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "85-86"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trouser-kneeline-keep-hem",
+      "statement": "For fitted trouser legs, change the kneeline to fit the knee position and keep the new hem length.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "85"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trouser-hem-moved-parallel",
+      "statement": "Where the inseam measurement ends on the body, mark a new hemline parallel to the original hem.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "85"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
