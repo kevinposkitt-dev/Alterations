@@ -944,13 +944,64 @@
       "fabric_requirement": "Fullness over the spine needs more fabric length and width at the upper centre back. Neck darts are needed to shape the fabric. The longer, more shaped garment area relieves strain and lets back and front lie smoothly; chest and blade fitting lines and waistline become level.",
       "change_required": "Lengthen and widen the upper centre back area.",
       "methods": {
-        "slash": "Slash through the back neck seam allowance at both mid-back areas. Cut at a slight diagonal toward the blade fitting line, then continue over to the armscye seamlines. Insert fabric strips from each armscye to the blade line. Spread each set of cut edges evenly until the armscyes align with the body contour and the blade fitting line becomes level. Slash from one shoulder dart tip to the other following the crossgrain; insert a fabric strip; lift the neckline section evenly until the neckline rises to a comfortable and attractive position; taper to nothing at the dart tips. Near the neckline slashes, form darts of equal widths to remove the excess fabric and create the shaping for the body contour. (Continues on p. 219.)",
+        "slash": "Slash through the back neck seam allowance at both mid-back areas. Cut at a slight diagonal toward the blade fitting line, then continue over to the armscye seamlines. Insert fabric strips from each armscye to the blade line. Spread each set of cut edges evenly until the armscyes align with the body contour and the blade fitting line becomes level. Slash from one shoulder dart tip to the other following the crossgrain; insert a fabric strip; lift the neckline section evenly until the neckline rises to a comfortable and attractive position; taper to nothing at the dart tips. Near the neckline slashes, form darts of equal widths to remove the excess fabric and create the shaping for the body contour.",
         "seam": null,
-        "pivot": null
+        "pivot": "Release the back armscye, the shoulder seams and the back shoulder darts. Smooth the fabric over the blade areas until the blade fitting line is level; retain part of the shoulder dart as ease if needed. Lay the front shoulder seamline over the extended back shoulder seam allowances. The original armscye and neckline lines will no longer match, but the two sets should align similarly on each shoulder. Form new neck darts of equal widths to remove excess fabric from the back neckline. Across centre back, draw a new neckline at an attractive, comfortable position; blend smoothly into the front neckline at the shoulder. If the front neckline is too high, follow 37 Forward Neck. If excess fabric length remains at centre front, see 48 Hollow Chest."
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "218 (continues p. 219)"
+        "pages": "218-219"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-39-broad-shoulders",
+      "area": "shoulder",
+      "number": 39,
+      "name": "Broad shoulders",
+      "figure_analysis": "The collar bones are longer than average. The bone structure of the spine, collar bones and shoulder joints may be heavier also. These factors increase the body width and its circumference at shoulder tip level. The arm structure is not affected.",
+      "fitting_analysis": [
+        "Horizontal wrinkles pull across the armscye seamlines",
+        "Sleeve caps pull upward and toward the body centres; sleeve caps appear too tight and both upper and lower sleeve areas appear too short",
+        "The ends of the chest and blade fitting lines rise"
+      ],
+      "fabric_requirement": "Broad shoulders need longer shoulder seamlines on the garment. The added fabric width at the upper blade and chest areas lets the armscyes align with the body contour and relieves strain on the sleeves; they lower to the correct position on the arm. The fitting lines become level.",
+      "change_required": "Lengthen the shoulder seamlines.",
+      "methods": {
+        "slash": "Release 2 inches (5 cm) of each shoulder seam at the armscye areas. Slash the opened shoulder seam near each armscye and continue diagonally down to the armscye seamline at the arm hinge areas. Insert fabric strips. To increase width, spread the cut edges equally at the shoulder until the armscye seamlines align with the crest of the shoulder curves; taper to nothing at the armscye. True and restitch the shoulder seam using the original slope of the neckline portion as a guide.",
+        "seam": null,
+        "pivot": "If the sleeves are not attached, mark the new armscye seamlines from shoulder to arm hinge areas and set in the sleeves along them. If attached, release the sleeve caps down to the arm hinge areas at front and back; turn under the sleeve cap seam allowance along the eased seamline; move the sleeve cap outward along the shoulderline until the seamline sits comfortably; pin, then stitch the armscye."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "222-223"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-40-narrow-shoulders",
+      "area": "shoulder",
+      "number": 40,
+      "name": "Narrow shoulders",
+      "figure_analysis": "The collar bones are shorter than average. The bone structure of the spine, collar bones and shoulder joints may be lighter also. These factors decrease body width and circumference at shoulder tip level. The arm structure is not affected.",
+      "fitting_analysis": [
+        "Armscye seamlines drop off the crest of the shoulder curves and lie against the arms",
+        "Sleeve caps sag and appear too large",
+        "Garment fabric loose at the chest edges; front armscye cuts against the arm hinge",
+        "Ends of the chest and blade fitting lines droop"
+      ],
+      "fabric_requirement": "Narrow shoulders need shorter shoulder seamlines on the garment. The reduced fabric width at the upper blade and chest areas lets the armscyes align with the body contour; sleeves rise to the correct position on the shoulder without adjustment; fitting lines become level.",
+      "change_required": "Shorten the shoulder seamlines.",
+      "methods": {
+        "slash": "Release 2 inches (5 cm) of each shoulder seam at the armscye areas. Pin tucks of equal widths across the opened seam areas near each armscye seam. Adjust the width of the tucks until the armscye seamlines align with the crest of the shoulder curves. True and restitch the shoulder seam using the original slope of the neckline portion as a guide.",
+        "seam": null,
+        "pivot": "If the sleeves are not attached, mark the new armscye seamlines from shoulder to arm hinge areas, clip widened seam allowances as needed, and set in the sleeves along them. If attached, release the sleeve caps down to the arm hinge areas at front and back; turn under the sleeve cap seam allowance along the eased seamline; move the sleeve inward along the shoulderline until the seamline is comfortable; pin and stitch the armscye."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "226-227"
       },
       "status": "draft",
       "reviewer": null
