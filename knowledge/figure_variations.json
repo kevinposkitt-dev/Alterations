@@ -1392,11 +1392,133 @@
       "methods": {
         "slash": "Below the vertical portion of the armscyes, form vertical tucks of equal widths at the scyeline. Adjust the widths equally until the excess fabric is removed; retain sufficient ease. Taper the tucks to nothing at the armscye and the waistline.",
         "seam": null,
+        "pivot": "Release the side seams and the lower armscye seams to the corresponding blade or chest area. At the scyeline, take in the side garment areas equally until the excess fabric is removed; retain sufficient ease. Restore the armscye seamline from the new side seam position to the original at the blade or chest area. Draw a new side seam in a straight line from the new position at the underarm to the original at the waistline. Repeat on the front as needed."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "268-269"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-57-cylindrical-torso-rib-cage",
+      "area": "rib cage",
+      "number": 57,
+      "name": "Cylindrical-shaped torso (rib cage)",
+      "figure_analysis": "The rib cage is rounder than average. The torso is deeper from centre front through to centre back. The bone structures forming the arm joints may also be larger than average. These factors increase body depth from the front arm hinge to that at the back.",
+      "fitting_analysis": [
+        "Armscye cuts against the arm hinges",
+        "Diagonal wrinkles pull from the blade and chest areas to the underarm; a fold of fabric forms below the scyeline",
+        "Sleeves pull at the underarm and may be too tight around the arm; armscye seamlines pull toward the arm at front and back"
+      ],
+      "fabric_requirement": "Greater profile depth needs more fabric width at the underarm area on both sleeve and garment. More armscye length may also be needed at the shoulder. The wider armscye extensions on the garment and sleeve let the fabric relax underneath the arms and around the torso; armscyes relax and align along the blade and chest.",
+      "change_required": "Widen the armscye extension.",
+      "methods": {
+        "slash": "Near each side seam, slash the garment from the armscye to the waistline on both front and back. Insert fabric strips. To increase width, spread each set of cut edges equally at the scyeline to relax the fabric and restore the ease. Taper to nothing at the waistline. For the sleeve adjustment, see 75 Large Shoulder Joints and 80 Large Upper Arms.",
+        "seam": null,
+        "pivot": "Release the side seams and the lower armscye area if the sleeves are attached. At the scyeline, let out both front and back seam allowances equally to relax the fabric and restore the ease. Taper to nothing at the waistline. For the sleeve adjustment, see 75 Large Shoulder Joints and 80 Large Upper Arms."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "270-271"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-58-oval-torso-rib-cage",
+      "area": "rib cage",
+      "number": 58,
+      "name": "Oval-shaped torso (rib cage)",
+      "figure_analysis": "The rib cage is more oval than average. The torso is narrower from centre front through to centre back. The bone structures forming the arm joints may be smaller than average. These factors decrease body depth from the front arm hinge to that at the back.",
+      "fitting_analysis": [
+        "Garment hangs in loose vertical folds near the underarm on both front and back",
+        "Sleeve appears too large; when the arms are raised, strain pulls the sleeves tightly against the arm and the arms cannot be raised comfortably"
+      ],
+      "fabric_requirement": "Smaller profile depth needs less fabric width at the underarm area on sleeve and garment. Less armscye length may also be needed at the shoulder. The narrower armscye extensions on garment and sleeve bring the fabric closer to the body; arms can be raised easily and comfortably.",
+      "change_required": "Narrow the armscye extension.",
+      "methods": {
+        "slash": "Near each side seam, form a vertical tuck at the scyeline on both front and back. Adjust the widths equally until the excess fabric is removed but the ease is retained. Taper the tucks to nothing at the waistline. For the sleeve adjustment, see 76 Small Shoulder Joints and 79 Thin Arms.",
+        "seam": null,
+        "pivot": "Release the side seams and the lower armscye area if the sleeves are attached. At the scyeline, take in the garment areas equally until the excess fabric is removed; retain sufficient ease. Taper into the original at the waistline. For the sleeve adjustment, see 76 Small Shoulder Joints and 79 Thin Arms."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "272-273"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-59-long-upper-rib-cage",
+      "area": "rib cage",
+      "number": 59,
+      "name": "Long upper rib cage",
+      "figure_analysis": "The bones forming the upper rib cage are heavier than average. The spacing between adjacent ribs may be greater. The length increases from the shoulder to the bustline. This variation may affect the space between the arm hinge or the length of the arm joints.",
+      "fitting_analysis": [
+        "Fabric taut between the shoulder seams and the waistline, may form tight vertical wrinkles",
+        "Darted area too high, creating the illusion of a low bust position",
+        "Midriff and waistline rise onto larger body areas and appear too small; armscye may cut against the arm hinge; chest and blade fitting lines remain level"
+      ],
+      "fabric_requirement": "Longer rib cage areas need more fabric length between the shoulder seams and the bustline. This relieves strain at the chest and upper back. The garment shaping, the midriff and the waistline lower and align with the body contours.",
+      "change_required": "Lengthen the appropriate area between the shoulder area and the bustline.",
+      "methods": {
+        "slash": "If the armscye pulls against the arm hinge, cut across the front and back of the garment through the armscye, following the crosswise grain; insert fabric strips; separate each set of cut edges evenly until the armscye seamline lowers to a comfortable position. The length adjustment may not be equal on front and back. If the armscye length is correct but the garment shaping is too high, slash completely around the garment about 1 inch (2.5 cm) below the scyeline, following the crosswise grain; insert a strip; spread the cut edges evenly until garment shaping and waistline align with the bust and waist. If the armscye and centre front lengths are correct but the shaping is too full and the centre back too short, lengthen only the back: release side seams across the side dart area and the side darts, cut across the back at the bustline, insert a strip, separate evenly until the strain is relieved and the waistline is level; let out dart width as needed; for extra front length let out the front waistline seam evenly; true the side seams. See 66 Small Bust.",
+        "seam": null,
+        "pivot": "If the armscye cuts against the arm hinge: release the shoulder seams; let out back and front seam allowances evenly on each shoulder until the lower armscye seamline lowers to a comfortable position; adjust the length change parallel to the original seamlines until the garment lies smooth but relaxed over chest and blade. Restore the depth of back and front necklines: raise the neckline at centre front and centre back by the length adjustment at the shoulders; blend into the original near the shoulders. If the armscye length is correct but shaping and waistline are too high: release side seam, underarm dart and waistline seam; move the underarm dart down to the fullest part of the bust; shorten back and front waistline darts equal to the side dart adjustment; mark the new waistline parallel to the original; restore waist circumferences; remark and restitch the underarm seamlines. Princess style: release seams across the bust area; reshape the side panel so the greatest curvature is at the bustline; correct the waistline as above. If only the back is too short and the dart shaping too large: release side seams and side darts; narrow the darts until shaping is correct; trace the side seamlines straight across the closed darts; stitch the side seams; mark the new back waistline even with the front. See 66 Small Bust."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "274-275"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-60-short-upper-rib-cage",
+      "area": "rib cage",
+      "number": 60,
+      "name": "Short upper rib cage",
+      "figure_analysis": "The bones forming the upper rib cage are lighter than average; the spacing between adjacent ribs may be closer. The length decreases from the shoulder to the bustline. This variation may affect the length of the joints or the space between the arm hinge and the bustline.",
+      "fitting_analysis": [
+        "Fabric sags into a loose horizontal fold at the bustline or near the waistline",
+        "Armscye may drop too far below the arm hinge; darted area too low, creating the illusion of a high bust; midriff lowers into the smaller body area and appears too large; chest and blade fitting lines remain level"
+      ],
+      "fabric_requirement": "Shorter rib cage areas need less fabric length between the shoulder seams and the bustline. This lets the garment lie smoothly against the chest and upper back; garment shaping, the midriff and the waistline align with the body contours.",
+      "change_required": "Shorten the appropriate area between the shoulder and the bustline.",
+      "methods": {
+        "slash": "If the armscye drops too far below the arm hinge, make a parallel tuck across the garment at the chest and blade lines, following the crosswise grain; adjust the size of each tuck until the armscye seamline rises to a comfortable position; the length adjustment may not be equal on front and back. If the armscye length is correct but the shaping is too low, form a parallel tuck completely around the garment about 1 inch (2.5 cm) below the scyeline, following the crosswise grain; adjust the tuck width evenly to lift the underarm dart into the correct position. If the armscye and centre front lengths are correct but the shaping is too small and the centre back too long, shorten only the back: release side seams; make a parallel tuck completely across the back area at the bustline to remove the excess fabric length; widen the dart equal to the length adjustment; true the side seams with straight lines across the adjustment. See 65 Large Bust.",
+        "seam": null,
+        "pivot": "If the armscye drops too far below the arm hinge: release the shoulder seams; clip the front neck seam allowance across centre front; take up both front and back shoulder seam areas evenly until the lower armscye seamline rises to a comfortable position; adjust the length change parallel to the original seamlines until the garment lies smooth but relaxed over chest and blade. Lower the neckline seam at centre front and centre back by the length adjustment at the shoulders; blend into the original at the shoulder areas. If the armscye length is correct but shaping and waistline are too low: release side seams, underarm darts and waistline; move the underarm darts up to align with the fullest part of the bust; lengthen back and front waistline darts equal to the side dart adjustment; mark the new waistline parallel to the original; restore waistline circumferences; remark and stitch the new underarm seamlines. Princess style: release seams across the bust area; reshape the side panel so the greatest curvature is at the bustline; correct the waistline as above. If only the back is too long but the dart shaping too small: release the side seams and side darts; widen the darts until shaping is correct; mark a new front side seam in a straight line across the closed dart; stitch the side seams; mark the new back waistline even with that of the front. See 65 Large Bust."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "276-277"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bust-61-high-bust-position",
+      "area": "bust",
+      "number": 61,
+      "name": "High bust position",
+      "figure_analysis": "When associated with the youthful figure, the bust level is higher than in the mature figure because breast tissue is still firm, taut and rounded. For other figures the bust contour is higher than average. Erect posture and bras with tight straps or firm support under the cups also raise the crest of the bust fullness. The distance from the shoulders to the bustline is shorter than average; the distance from the bustline to the waist is greater.",
+      "fitting_analysis": [
+        "Fabric taut across the fullest area of the bust but loose underneath, because fabric shaping lies below the bust contour",
+        "Bust fitting line remains level"
+      ],
+      "fabric_requirement": "Changing length above and below the crest of the bust requires raising the tip of the side dart and lengthening the front waist darts. The adjusted dart tips let the fabric shaping align with the bust contour.",
+      "change_required": "Raise the tips of all the bust darts.",
+      "methods": {
+        "slash": "Only the dart stitching line positions are affected. Use the procedure indicated for the pivot method.",
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "268 (pivot continues on p. 269)"
+        "pages": "278 (pivot procedure on p. 279, not yet read)"
       },
       "status": "draft",
       "reviewer": null
