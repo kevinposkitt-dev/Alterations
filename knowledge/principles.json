@@ -1678,6 +1678,291 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "crotch-extension-thirds",
+      "statement": "When the crotch length is still off after the length changes, split the remaining difference into thirds: one third to the front extension, two thirds to the back.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "89"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trouser-close-fit-even-change",
+      "statement": "For close-fitting trousers, change knee, calf and instep measures in even amounts along the inseam and side seam, after checking for slits or plackets at the hem.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "90"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bodice-length-from-max-neckline",
+      "statement": "For a low neckline, take the centre length from the waist up to the maximum neckline depth rather than the neck.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "90"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "full-bodice-length-parallel-to-centre",
+      "statement": "Compare full bodice length parallel to the centre line. For a widened neckline, extend the shoulder line and measure about 2⅜ to 2¾ inches (6 to 7 cm) from the centre, parallel to it.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "90"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "princess-line-near-not-over-bust",
+      "statement": "A princess line passes near but not over the bust point. Use the bust-height marks along the dart fold or the curve of the side panel to locate the bust level.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "90"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "outer-garment-lowers-armscye",
+      "statement": "A jacket, coat, jumper or vest may have a lowered armscye to take a blouse underneath, so compare side seams with the outer garment's ease in mind.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "90-91"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bodice-lengths-change-below-bustline",
+      "statement": "When the bodice lengths (centre, full length, blade and bust heights) all differ by the same amount, change below the bustline.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "91"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-tip-line-square-to-centre",
+      "statement": "Find the shoulder-tip width by squaring across from the extended centre line to the shoulder tip, then draw a line parallel to the centre through the marks. Jacket shoulders run wider than basic-bodice shoulders.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "91"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-pad-added-to-body",
+      "statement": "Add shoulder pad height and shoulder extension to the body measurement before comparing it with the pattern.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "91"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bodice-length-which-measure-agrees",
+      "statement": "Decide which bodice change is needed by seeing which measurements agree. If the shoulder-tip measure agrees but the centre and bust-height measures differ by the same amount, change between scye and shoulder to alter armscye depth. If only the armhole-level measures differ, change at the shoulder and underarm to raise or lower the armhole.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "91-92"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bodice-length-centre-and-slope",
+      "statement": "If the back neck, shoulder and blade measures agree but the centre lengths differ, change at the neck and shoulder to alter centre lengths and the shoulder slope.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "92"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "empire-line-change-at-seam",
+      "statement": "On empire styles, compare the chest and bust contour length from mid-shoulder to the empire seam; change the upper bodice at the empire line. On princess lines change at the bust level of both pieces.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "91-92"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "jacket-ease-in-width",
+      "statement": "Jackets carry more width ease than dresses. The shoulder can be extended ½ to ⅜ inch (1 to 1.5 cm); a wider neckline may shorten the shoulder by ⅛ inch (0.3 cm) or more.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "91-92"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bodice-width-change-place",
+      "statement": "Change bodice width at the place the measurements point to: the centre-to-dart line when all widths agree; the armscye when only the armscye width differs; the dart or princess when only the bust width differs; the side seam when only the waist width differs.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "95"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-length-below-elbow-when-both-differ",
+      "statement": "When the underarm and elbow-position measures both differ by the same amount, change the sleeve below the elbow. If only the underarm differs, change above the elbow. If only the elbow position differs, change below the elbow and restore the underarm length above it.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "98"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-cap-height-from-overarm",
+      "statement": "Adjust sleeve cap height to match the overarm length, after adding shoulder pad height to the body measurement.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "98"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-width-jacket-allowance",
+      "statement": "Jacket sleeves are about 1 inch (2.5 cm) wider than dress sleeves, and coat sleeves about 2 inches (5 cm) wider, measured at the biceps.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "97-98"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-width-change-by-measure",
+      "statement": "When the biceps, elbow and wrist all differ by the same amount, change at the sleeve centre and underarm; if only the biceps differ, change above the elbow; if only the elbow differs, change the back underarm width and dart size.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "98"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "elbow-rotation-forward-swing",
+      "statement": "If elbow rotation is noted, swing the front underarm seam forward until the wristline moves ½ to ¾ inch (1.2 to 1.8 cm), pivoting at elbow level, and keep the dart increase no more than that forward change.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "98"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

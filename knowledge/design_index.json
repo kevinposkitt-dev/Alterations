@@ -322,6 +322,46 @@
         "width"
       ],
       "status": "draft"
+    },
+    {
+      "category": "Pattern comparison",
+      "term": "Bodice: which measurement agrees decides the change (armscye depth, armhole height, centre length, dart size, bust level)",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "91-92"
+      },
+      "affects": [
+        "armscye",
+        "bodice-length",
+        "darts"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Pattern comparison",
+      "term": "Sleeve: underarm and elbow measures decide whether the change goes above or below the elbow",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "95-98"
+      },
+      "affects": [
+        "sleeve-length",
+        "sleeve-width"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Pattern comparison",
+      "term": "Trouser crotch: remaining difference split one third front, two thirds back",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "89"
+      },
+      "affects": [
+        "crotch",
+        "trousers"
+      ],
+      "status": "draft"
     }
   ]
 }
