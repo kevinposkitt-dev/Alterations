@@ -2626,6 +2626,187 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-sleeve-fits-armhole-before-notching",
+      "statement": "Check that the sleeve cap fits the bodice armhole before notching. Notch the front and back armholes to match.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "21"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-sleeve-crown-ease",
+      "statement": "A sleeve crown needs about 1 to 2 cm of ease at its top. A flatter crown needs less ease; a higher crown needs more.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "22"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-jacket-extra-ease",
+      "statement": "Jackets need extra ease at the bust, waist, hip, neck and arms so they can be worn over other garments. Build them from a blouse or dartless shirt foundation.",
+      "applies_to": [
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "23"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-double-breasted-overlap",
+      "statement": "A double-breasted front needs much more centre-front overlap than a single-breasted one.",
+      "applies_to": [
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "23"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-darted-blouse-ease",
+      "statement": "A slim darted blouse has about 10 cm of ease at the bust and 2.5 cm at the waist.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "24"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-dartless-shirt-loose-only",
+      "statement": "A dartless shirt drafted from the hip foundation suits only looser garments or knit fabric.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "25"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-skirt-hip-and-waist-ease",
+      "statement": "A skirt needs about 1.25 cm of ease at the hip and at the waist. An optional small centre-waist dart can replace the waistband ease.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "26"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-skirt-bias-softens-fall",
+      "statement": "Cutting a skirt on the bias softens its fall.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "26"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-multiple-darts-spread-fullness",
+      "statement": "Several smaller back darts spread hip fullness across the hipline for a smoother fit than one dart.",
+      "applies_to": [
+        "skirted",
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "27"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-trouser-hip-and-crotch-ease",
+      "statement": "Trousers need about 2 cm of ease at the hip and crotch depth plus about 2.5 cm.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "28"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-waist-reduction-guideline",
+      "statement": "Waist reduction figures for trousers are guidelines. Check the result against the actual waist measurement.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "28"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-trouser-leg-slimming",
+      "statement": "To slim a trouser leg, take in the seams in steps: more at the hem than at the knee, then blend back to the crotch.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "29"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
