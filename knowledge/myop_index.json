@@ -216,81 +216,6 @@
       ]
     },
     {
-      "pages": "39",
-      "title": "Loose-fitting princess line",
-      "status": "read",
-      "summary": "A princess line can be made loose by moving the panel seams and rounding the side panel at the bust and at the back dart point. Seams are added to all panels.",
-      "principles": []
-    },
-    {
-      "pages": "41",
-      "title": "Necklines: introduction",
-      "status": "read",
-      "summary": "Neckline measurements must stay in proportion with the rest of the style. Necklines that go over the head (boat, V, scoop) need no opening, though this depends on the fit of the garment. A deep scoop is mostly used for vests.",
-      "principles": [
-        "myop-neckline-proportion"
-      ]
-    },
-    {
-      "pages": "42",
-      "title": "Boat, V and deep scoop necklines; facings",
-      "status": "read",
-      "summary": "Each neckline is marked from the armhole or neck and curved to the centre front. Scoop necklines are reduced for a closer fit, and a deep scoop is reduced at the centre front by about 1 cm to avoid gaping. A sleeveless armhole is narrowed at the shoulder and reshaped. Facings run parallel to the neckline, usually 4-6 cm wide, or the edge can be bound on the bias.",
-      "principles": [
-        "myop-scoop-neck-reduce-to-avoid-gaping"
-      ]
-    },
-    {
-      "pages": "44",
-      "title": "Crossover neckline with tucks",
-      "status": "read",
-      "summary": "A wrap top uses a curved neckline reduced at the centre front, with tucks taken from the side seam into the dart. Ties go through an opening in the side seam. The grain is best on the bias.",
-      "principles": []
-    },
-    {
-      "pages": "44",
-      "title": "Cowl with triple drape",
-      "status": "read",
-      "summary": "A soft cowl needs a knitted or very supple fabric. The V-neck is drafted in panels that are spread for drape. The centre front is extended slightly so the hem squares with it. Darts are shortened, and the centre front is cut on the fold with the grain on the bias. Pleats can be made from tucks on the shoulder seam for a deeper drape.",
-      "principles": [
-        "myop-cowl-needs-supple-fabric"
-      ]
-    },
-    {
-      "pages": "45",
-      "title": "Ties and jabot",
-      "status": "read",
-      "summary": "Ties are sized from the neck measure plus an allowance for the knot and length. A firm fabric suits a tie that keeps its shape; a soft flowing fabric suits a jabot, which is drafted on the fold because of its curve.",
-      "principles": [
-        "myop-tie-fabric-choice"
-      ]
-    },
-    {
-      "pages": "46",
-      "title": "Gathered frill",
-      "status": "read",
-      "summary": "A gathered frill at the neck is sized from the neck measure: the frill is about twice the length it is gathered onto. The softer the fabric, the fuller the frill must be. The centre back is left open for the zip.",
-      "principles": [
-        "myop-softer-fabric-fuller-frill"
-      ]
-    },
-    {
-      "pages": "47",
-      "title": "Flared frill",
-      "status": "read",
-      "summary": "A flared frill is cut as a circle by slashing from the outer edge toward the neck and spreading. Flared frills tend to twist, so the hem is kept narrow, bound, or faced; the centre seams are cut on the bias.",
-      "principles": []
-    },
-    {
-      "pages": "48",
-      "title": "Off-the-shoulder neckline",
-      "status": "read",
-      "summary": "A décolleté neckline can be finished with frills, thin straps, or be strapless. It suits the slimmer figure. The front is dropped and the centre front reduced; sleeveless armholes are narrowed at the shoulder and raised, as for other sleeveless armholes.",
-      "principles": [
-        "myop-off-shoulder-suits-slim"
-      ]
-    },
-    {
       "pages": "48",
       "title": "Frill at the off-shoulder neck: strap length method",
       "status": "read",
@@ -362,6 +287,6 @@
       "principles": []
     }
   ],
-  "principle_count": 36,
+  "principle_count": 30,
   "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
 }
