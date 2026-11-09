@@ -502,6 +502,53 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "size-by-bust-with-cup",
+      "statement": "Choose the starting pattern size from bust circumference measured at scye level. A larger cup on a small frame may need the next size up, and the armhole and shoulders then need checking.",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "jackets"
+      ],
+      "operation": null,
+      "check": "starting_size_by_bust",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "41"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "posture-wall-check",
+      "statement": "Check posture against a wall: shoulders alone touching means overly erect, buttocks alone means swayed back, and shoulder blades and buttocks touching with a gap at the waist means slumped.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "39"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "company-defaults-differ",
+      "statement": "Pattern companies draft different default proportions (back length, shoulder slope, dart placement, sleeve cap). Choose the company whose defaults need the fewest alterations for the figure.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "43-45"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
