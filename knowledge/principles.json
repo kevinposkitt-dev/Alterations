@@ -3204,6 +3204,96 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-kimono-sleeve-cut-in-one",
+      "statement": "Kimono and batwing sleeves are cut in one with the bodice, giving a T-shaped silhouette with soft folds.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "68"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-buttonstand-width-from-button",
+      "statement": "A buttonstand is wide enough to leave about 1 cm from the button edge to the stand edge.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "72"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-button-at-bustline",
+      "statement": "Place a button on the bustline so the garment does not gape.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "73"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-first-buttonhole-below-neck",
+      "statement": "The first buttonhole sits about 2.5 cm below the neck seam for a tidy collar.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "73"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-fuller-fit-add-to-side-and-sleeve",
+      "statement": "For a fuller fit, add the same amount to the back and front side seams, and to the sleeve as well.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "75"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-neck-at-least-head-circumference",
+      "statement": "The neck opening of a woven top must be at least the head circumference, or a short zip or half buttonstand is needed.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "77"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

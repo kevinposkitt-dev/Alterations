@@ -2,7 +2,7 @@
   "book": "Make Your Own Patterns (René Bergh)",
   "schema": "Index of the MYOP text: sections with page ranges, short rule summaries, and principle ids. Summaries only; no book text. Source text: 60577b04-Make_Your_Own_Patterns.txt (5,490 lines, pages about 12-126).",
   "status": "in progress",
-  "read_to_line": 3085,
+  "read_to_line": 3565,
   "sections": [
     {
       "pages": "6-20",
@@ -356,8 +356,61 @@
       "principles": [
         "myop-raglan-two-piece-rigid-fabric"
       ]
+    },
+    {
+      "pages": "68",
+      "title": "Kimono and batwing sleeves",
+      "status": "read",
+      "summary": "Kimono and batwing sleeves give an almost T-shaped silhouette with soft folds when the arms relax; they suit T-shirts and sweatshirts. The shoulders are set apart slightly at the armhole for a pad, or meet fully without one. The sleeve crown overlaps the armhole, and the sleeve seam sits about 4 cm down from the existing armhole. Short-sleeved versions omit the sleeve and can replace a dropped shoulder. A batwing is cut in one with the bodice, and its underarm seam may continue into the waistline for more fullness.",
+      "principles": [
+        "myop-kimono-sleeve-cut-in-one"
+      ]
+    },
+    {
+      "pages": "71",
+      "title": "Blouses and tops: introduction",
+      "status": "read",
+      "summary": "Shirts and blouses developed from undergarments to outer wear. This chapter covers buttonstands and button positions; pockets are in the jacket chapter.",
+      "principles": []
+    },
+    {
+      "pages": "72",
+      "title": "Buttonstands (separate, add-on and facing)",
+      "status": "read",
+      "summary": "A separate buttonstand allows bias or striped grainlines in checks and stripes; a built-on buttonstand suits plain fabric. Its width depends on the button, leaving about 1 cm between the button edge and the stand edge; an average button of about 1.25 cm needs a stand of about 3-3.5 cm. Vertical buttonholes sit in the centre; horizontal ones need more width, with at least 7 mm to the edge. A pacing facing hides the stitching and suits open-necked shirts. No back neck facing is needed under a collar.",
+      "principles": [
+        "myop-buttonstand-width-from-button"
+      ]
+    },
+    {
+      "pages": "73",
+      "title": "Button positioning",
+      "status": "read",
+      "summary": "Place a button on the bustline so the garment does not gape. Buttons are about 8 cm apart, depending on style and size. The first buttonhole sits about 2.5 cm below the neck seam for a tidy collar. Collarstand and cuff buttonholes are made across.",
+      "principles": [
+        "myop-button-at-bustline",
+        "myop-first-buttonhole-below-neck"
+      ]
+    },
+    {
+      "pages": "74-75",
+      "title": "Combining details (blouse and shirt)",
+      "status": "read",
+      "summary": "Blouse and shirt variations come from the darted blouse or dartless shirt, combined with earlier chapters' yokes, tucks, sleeves, collars and buttonstands. Blouses suit soft gathers and tucks; shirts suit a tailored look. For a fuller fit, add the same amount to back and front side seams and to the sleeve.",
+      "principles": [
+        "myop-fuller-fit-add-to-side-and-sleeve"
+      ]
+    },
+    {
+      "pages": "76-77",
+      "title": "Basic tops: vest, T-shirt and sweatshirt",
+      "status": "read",
+      "summary": "Basic tops start from the dartless hip foundation. The vest drops the front and back neck, sets the strap, and raises the armhole; it can be bound. The T-shirt sets length and width, uses the kimono sleeve, parts the shoulder seams, and removes material at the neck for ribbing. The sweatshirt closes the sleeve dart, shortens the sleeve for a ribbed cuff, and adds ribbing at the hem. Knit fabric suits these; for wovens a bust dart and opening may be needed. The neck must be at least head circumference, or a short zip or half buttonstand is needed.",
+      "principles": [
+        "myop-neck-at-least-head-circumference"
+      ]
     }
   ],
-  "principle_count": 38,
+  "principle_count": 44,
   "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
 }
