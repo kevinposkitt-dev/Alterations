@@ -245,6 +245,126 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "prepare-pattern-flat",
+      "statement": "Work on a pressed, flat pattern with the printed side up, and mark alteration lines clearly. No puckers or wrinkles may remain after an alteration.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": "pattern_flat",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "99-100"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "adjoining-edges-equal",
+      "statement": "A change to one edge must be matched by equal amounts at the stitching line of each adjoining edge, otherwise the pieces will not join.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": "adjoining_changes_equal",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "99"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "centre-lines-straight-and-square",
+      "statement": "Centre front and centre back stay straight. Seams that meet them meet at right angles, and length changes there are spread evenly about 7.5-10 cm from the centre.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": "edges_square_and_straight",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "100"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "plan-alteration-at-edge",
+      "statement": "Plan the alteration in the area nearest the edge that needs change, which keeps distortion to a minimum.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": "slash_and_spread",
+      "check": "max_turn_deg",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "101,103"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hinge-clips-not-through-stitching",
+      "statement": "Clip into the seam allowance to form hinges, but do not cut through the stitching line.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "101,104"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "even-then-uneven",
+      "statement": "When a change is both even and uneven, make the even part first, then pivot the remaining section so the edges align.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": "pivot_points",
+      "check": "max_turn_deg",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "103-104"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "duplicate-and-retrace",
+      "statement": "The pivot method duplicates the area to be altered, moves the duplicate, and traces the new cutting line, so the new edge keeps the original contour.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": "pivot_points",
+      "check": "max_turn_deg",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "104-106"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "asymmetric-taper-to-centre",
+      "statement": "For an asymmetric figure, the altered half is tapered back to the original at centre back or centre front, so the two halves join at the centre line.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": "taper_side_seam",
+      "check": "max_turn_deg",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "107"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
