@@ -1688,11 +1688,108 @@
       "methods": {
         "slash": "Slash around the entire garment near the waistline. Insert fabric strips. To increase length, separate the cut edges evenly around the garment until the waistline aligns with the waist contour.",
         "seam": null,
+        "pivot": "Release the entire waistline and side seams. Mark the correct waistline position in the seam allowance across centre front. Continue the new waist seamline parallel to the original completely around the garment. Extend each end of the back and front waistlines equally into the side seam allowances to restore the waistline measurements. Mark each new side seamline from the original at the armscyes to the mark on the new waistline. Stitch the side seams and the waist seam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "298-299"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "ribs-69-short-midriff",
+      "area": "rib cage",
+      "number": 69,
+      "name": "Short midriff",
+      "figure_analysis": "The lower ribs and vertebrae may be lighter than average. The spacing between the ribs may be less, or the spine may be shorter than average in the area between the waist and the lower rib cage. These factors decrease body length between the waist and the bust and blade areas.",
+      "fitting_analysis": [
+        "Fabric sags around the waistline area and forms a loose horizontal fold at the waistline",
+        "Lower waistline position on jackets and semi-fitted garments cut in one with the skirt drops below waist level and may create unattractive proportions"
+      ],
+      "fabric_requirement": "The shorter midriff area needs less fabric length between the waistline and the lower edges of the bust and blade contours. The shorter midriff of the garment fits smoothly against the body; the waistline of loosely fitted garments aligns with the body contour at the waist.",
+      "change_required": "Shorten the midriff.",
+      "methods": {
+        "slash": "Form a parallel tuck near the waistline completely around the garment. Adjust the width of the tuck until the waistline seam aligns with the waist contour. When stitching the tuck, place the waistline area of the garment uppermost on the machine.",
+        "seam": null,
+        "pivot": "Release the entire waistline and side seams. Mark the correct waistline position across centre front. Continue the new waist seamline parallel to the original completely around the garment. Mark the ends of the new waist seamline at the side seam areas to restore the waistline measurements. Mark each new side seamline from the original at the armscyes to the mark on the new waistline. Stitch the side seams and the waist seam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "300-301"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "waist-70-large-waist",
+      "area": "waist",
+      "number": 70,
+      "name": "Large waist",
+      "figure_analysis": "The body indents very little at the waist, either because the muscles lack tone, the posture is slumped, or the soft tissue deposits are larger than average in that area. The waist circumference is more nearly equal to that of the rib cage and the hips. The sides of the body are straighter and measure slightly shorter than average from the base of the arm joints to the waist.",
+      "fitting_analysis": [
+        "Fabric pulls into taut horizontal wrinkles near the waist",
+        "Garment waistline may rise; bodice may appear too long",
+        "Lengthwise ease cannot distribute itself properly below the bust level"
+      ],
+      "fabric_requirement": "The larger waist circumference needs more fabric width at the waistline. The wider garment area relaxes; the waistline lowers and aligns with the contour of the body.",
+      "change_required": "Widen the side seam area at the waistline.",
+      "methods": {
+        "slash": "Near the side seams, slash through the waistline on the back and front of the garment. Continue cutting to the armscye seamlines. Insert fabric strips. To increase width, separate each set of cut edges equally at the waistline to relax the garment and restore the ease. Taper to nothing at the armscye.",
+        "seam": null,
+        "pivot": "Release the side seams. Let out equal amounts on the front and back at the waistline on both side seams to relax the fabric and restore the ease. Taper each new side seamline straight from the original at the armscye to the new waistline position. Stitch the new side seams."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "302-303"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "waist-71-small-waist",
+      "area": "waist",
+      "number": 71,
+      "name": "Small waist",
+      "figure_analysis": "The body indents more than average at the waist, either because the muscles are more taut, the posture is overly erect, or the soft tissue deposits are smaller than average. The waist circumference is noticeably less than that of the rib cage or the hips. The indentation defines the hourglass figure type. The sides of the body are more sloped and measure slightly longer than average from the base of the arm joints to the waist.",
+      "fitting_analysis": [
+        "Garment baggy around the waist; fabric at the waistline forms loose vertical folds"
+      ],
+      "fabric_requirement": "The smaller waist circumference needs less fabric width at the waistline. The narrower garment area lies closer to the body.",
+      "change_required": "Narrow the side area at the waistline.",
+      "methods": {
+        "slash": "Form tucks of equal width through the waistline on the back and front near the side seams. Adjust the tucks equally until the excess fabric is removed and the ease is retained. Taper each tuck to nothing at the armscye seamline.",
+        "seam": null,
+        "pivot": "Release the side seams. Take in equal amounts on the front and back at the waistline on both side seams until the fabric is smooth and the ease is retained. Taper each new side seamline straight from the original at the armscye to the new waistline position."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "304-305"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-72-arm-length-variations",
+      "area": "arm",
+      "number": 72,
+      "name": "Arm length variations",
+      "figure_analysis": "The elbow position determines upper and lower arm length variations. The lengths of the upper and lower arm bone areas develop independently. The total arm length may be average while the upper area is shorter and the lower longer, or vice versa. The variation may occur in the upper arm, the lower arm, or both.",
+      "fitting_analysis": [
+        "Centre of the darted or eased sleeve area should align with the elbow point. When the dart shaping rises above the elbow, the narrower lower sleeve lies over the elbow and restricts mobility",
+        "When the shaping drops below the elbow level, the larger upper sleeve lies over the elbow and the sleeve may appear too big",
+        "Long sleeve hemline above the wristbone looks uncomfortably short; hemline below the wristbone makes sleeves drag"
+      ],
+      "fabric_requirement": "A longer upper arm needs more fabric length between the scyeline and the elbow line; a shorter upper arm needs less. A longer lower arm needs more fabric below the elbow; a shorter lower arm needs less. When both areas vary, changes are needed above and below the elbow line. Aligning the centre of the darted area with the elbow permits elbow movement; aligning the hemline with the wristbone gives comfortable proportions.",
+      "change_required": "Adjust the lengths of the upper and lower sleeve areas so that the elbow line crosses the elbow point and the wristline is near the wristbone.",
+      "methods": {
+        "slash": null,
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "298 (pivot on p. 299, not yet read)"
+        "pages": "308 (methods on p. 309, not yet read)"
       },
       "status": "draft",
       "reviewer": null
