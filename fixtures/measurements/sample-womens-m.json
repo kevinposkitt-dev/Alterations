@@ -1,0 +1,11 @@
+{
+  "name": "Sample womens size M (test data)",
+  "units": "cm",
+  "measurements": {
+    "bust": 96,
+    "waist": 76,
+    "hip": 102,
+    "back_waist_length": 42,
+    "shoulder_length": 13.5
+  }
+}

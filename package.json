@@ -1,0 +1,25 @@
+{
+  "name": "sewing-pattern-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "MCP server for generating sewing patterns with Seamly2D",
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "bin": {
+    "sewing-pattern-mcp": "src/server.js"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/*.test.js",
+    "test:unit": "node --test test/measurements.test.js",
+    "test:protocol": "node --test test/protocol.test.js",
+    "test:seamly": "node --test test/seamly.integration.test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.2",
+    "zod": "3.25.76"
+  }
+}
