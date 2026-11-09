@@ -168,11 +168,109 @@
       "methods": {
         "slash": "Fitting garment only. To decrease dart width and centre front length, form a parallel tuck across the centre front below the dart tips. Adjust the width until the hip fitting line is level. Taper to nothing at the side seams. Follow the crosswise grain.",
         "seam": null,
+        "pivot": "Release the front waistline seam and front darts; release side seams above the hipline. To decrease width, narrow the darts to smooth the fabric across the abdomen; take in front areas equally at both side seams to restore waist circumference; if needed, lift the fabric across centre front to remove excess length; trim. Trousers: release front waist seam, centre front seam and darts; narrow darts; take in excess width equally at centre front, tapering to nothing at the hipline; if needed lift evenly across centre front; blend into original side-seam stitching. With a centre-front zipper, remove the excess waist width at the side seam as for the skirt."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "138-139"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-08-sway-back",
+      "area": "hip",
+      "number": 8,
+      "name": "Sway back",
+      "figure_analysis": "The pelvic cradle does not lie plumb. As the top tilts forward, the coccyx tilts outward and upward, so the buttocks protrude and the groin indents more than average. Distance from the fullest buttock to the body's central axis increases; distance from hip to waist at centre back decreases.",
+      "fitting_analysis": [
+        "Skirt: tapering horizontal wrinkle at the back waistline because the garment is too long at centre back; hip fitting line stays level",
+        "Trousers: wrinkle may not form because fabric binds at the crotch; fabric under the buttocks is taut and pulls into wrinkles slanting toward the inseams",
+        "Extreme variation: waistband and hip line pulled down across centre back"
+      ],
+      "fabric_requirement": "Skirt: shorter centre back body measure needs less length. Trousers: increased buttock profile needs a wider back crotch extension. Extreme variation may need length below the hipline, which also increases the dart created by the slanted centre back seam.",
+      "change_required": "Shorten the upper centre back area; widen the back crotch extension.",
+      "methods": {
+        "slash": "Skirt, fitting garment only: form a parallel tuck near the waistline to remove the excess length; taper to nothing at or near the side seams. Trousers, if the waistband pulls down at centre back: widen the back crotch extension by cutting vertically about 2 inches (5 cm) from the inseam through the back crotch extension to the inseams; turn right side out; lay each set of cut edges over a fabric insert and spread equally at the crotch; taper to nothing at the inseams. For an extreme variation, also cut across the whole back just below the hip fitting line, insert a strip, spread evenly across centre back until the hip line is level, and taper at the side seams.",
+        "seam": null,
+        "pivot": "Skirt: release the back waist seam; to reduce centre back length, lift the waistline evenly across centre back until smooth; mark the new waistline; blend near side seams; trim; restore dart widths and check lengths. Trousers: widen the back crotch by releasing the crotch seam across the inseams and the inseams from crotch to kneeline; at the crotch let out the back inseam allowances to relieve strain; blend near the kneeline. If a wrinkle forms across centre back, release the back waist and side seams to the hipline; take up centre back at the waist until smooth; let out side seams equally at the back to restore waist circumference; when allowance is minimal, release the waist seam except at centre back; lift the waistline across centre front until smooth; restore dart widths and lengths. Lower the crotch seam by the waist change (see 1 Long Lower Torso)."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "140-143"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-09-pelvis-tilts-toward-back",
+      "area": "hip",
+      "number": 9,
+      "name": "Pelvis tilts toward back",
+      "figure_analysis": "The pelvic cradle does not lie plumb. As the top tilts backward, the coccyx rotates toward the central axis and the pubic bone moves farther away. Buttocks protrude less than average.",
+      "fitting_analysis": [
+        "Skirt hem hangs against the back of the legs; side seams slant forward at the hem; diagonal wrinkles sag from the side seams toward centre back",
+        "Trousers: fabric sags diagonally under the curve of the buttocks and at back creaselines; front may bind at the crotch; hip fitting line and hemline drop at back and rise at front"
+      ],
+      "fabric_requirement": "Less fabric length and width at centre back. For an extreme variation, the longer front surface may need more garment length across centre front. Adjustments relax and smooth the fabric; side seams hang plumb; hip fitting line becomes level.",
+      "change_required": "Shorten the upper centre back area; lengthen the upper centre front area if necessary.",
+      "methods": {
+        "slash": "Fitting garment only. Across the upper centre back, form a parallel tuck to remove the excess fabric length; adjust the tuck width until the hip fitting line is level; taper to nothing at the side seams or near the front darts. Trousers: if horizontal wrinkles form under the buttocks, also deepen the back crotch curve (see 17 Drooped Buttocks).",
+        "seam": null,
+        "pivot": "Release the back waist seam and the side seams to the hipline. To reduce centre back length, raise the waistline evenly across centre back until the hip fitting line is level; blend into the original stitching near the side seams; narrow the dart widths if needed and check lengths. To restore waist circumference, take up back side seams equally at the waistline; trim. Trousers: deepen the back crotch curve (see 17 Drooped Buttocks)."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "144-145"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-10-prominent-upper-hip-curve",
+      "area": "hip",
+      "number": 10,
+      "name": "Prominent upper hip curve",
+      "figure_analysis": "The upper tips of the pelvic cradle flare wider than average, so the sides of the torso curve out abruptly below the waist. The upper hip may be wider than at the hip joints.",
+      "fitting_analysis": [
+        "Fabric along the side seams taut over the upper hip",
+        "Skirt: horizontal wrinkles across the side seams just below the waistline; hip fitting line bows upward at the sides",
+        "Trousers: diagonal wrinkles from the upper hip to the crotch; hemline rises at the sides"
+      ],
+      "fabric_requirement": "More width and length at the upper side seams, because the most prominent curvature is near the waistline. The larger area relaxes the fabric over the hips; the hip fitting line becomes level.",
+      "change_required": "Widen the upper hip area at the side seams; lengthen the side seams at the waistline if necessary.",
+      "methods": {
+        "slash": "Only the curvature and length of the side seamlines change. Cutting the interior causes unnecessary trueing of curved edges; follow the pivot method.",
+        "seam": null,
+        "pivot": "Release the waistline seam across each side seam area; release the side seams above the hipline. To increase width, let out side seam allowances equally on back and front until the fabric relaxes across the hip curve. To increase length, let out the waistline seam allowance above the side seams until the hip fitting line is level; blend near the darts. This variation may be easier to accommodate by buying the next larger pattern and garment, or by reducing the waistline at the side seams."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "146-147"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-11-sloping-upper-hip-curve",
+      "area": "hip",
+      "number": 11,
+      "name": "Sloping upper hip curve",
+      "figure_analysis": "The upper tips of the pelvic cradle flare less than average, so this part of the hip structure is narrower than at the hip joints. The sides of the torso slope toward the waist instead of curving.",
+      "fitting_analysis": [
+        "Fabric loose along the side seams near the upper hip",
+        "Hip fitting line not affected"
+      ],
+      "fabric_requirement": "Less fabric width and length at the upper side seams. The only curvature along the side contour occurs at the hipline.",
+      "change_required": "Narrow the upper hip area at the side seams; shorten the side seams at the waistline if necessary.",
+      "methods": {
+        "slash": "Pin a tuck along each side seam where the looseness is greatest to flatten the side seam curvature; taper the tuck to nothing toward the waist and hip lines. If a decrease in length is also needed, form a horizontal tuck near the waistline across each side seam to lift the fabric until it lies smooth; taper to nothing near the darts at back and front.",
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "138"
+        "pages": "148"
       },
       "status": "draft",
       "reviewer": null
