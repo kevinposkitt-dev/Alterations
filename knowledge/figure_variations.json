@@ -44,11 +44,135 @@
       "methods": {
         "slash": "Fitting garment only. Form a parallel tuck around the whole garment below the front dart tips. Adjust tuck width evenly until the shape follows the body. Adjust hem.",
         "seam": null,
+        "pivot": "Pants: release the whole waistline seam; lift the garment evenly to the body curve to decrease crotch depth; clip the widened waistline allowance at 2-inch (5 cm) intervals; restore waist circumference by widening darts and taking in side seams front and back; trim; adjust hem. Skirt: release side seams from hipline to waist; let out allowances equally at back and front; blend near waist and hipline; shorten darts. Fitting garment: mark the new hip fitting line."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "128-129"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "waist-03-large-waist",
+      "area": "waist",
+      "number": 3,
+      "name": "Large waist",
+      "figure_analysis": "The waist indents less than average, through more body tissue, flaccid muscles or slumped posture.",
+      "fitting_analysis": [
+        "Closing the garment compresses soft tissue at the waist, lifting the fabric into a horizontal fold around the waistline",
+        "Hip fitting line stays level but the hem rises",
+        "Trousers: the fold is smaller or absent; fabric binds at the crotch, pulling diagonal wrinkles from crotch to hip bones and pulling the hip line down at centre; crotch becomes taut and uncomfortable"
+      ],
+      "fabric_requirement": "More fabric width at the waistline. The wider area relaxes and lowers to the correct position over the body contour. Also affects the bodice waistline (see Upper Torso 70).",
+      "change_required": "Widen the waistline area at the side seams.",
+      "methods": {
+        "slash": "Fitting garment only. Mark each side seam above the hipline where tightness begins. Release the waist seam across each side area. On back and front, cut through the waistline seam allowance near each side seam and continue diagonally to the side seam mark, without cutting the side seam allowance. Insert strips; spread each set equally at the waist for width; taper to nothing at the side seams. Let out waistband or bodice side seams equal to the skirt or trouser change.",
+        "seam": null,
+        "pivot": "Release the waistline seam across each side area. Release the side seams from the waist to near the hipline. Let out allowances equally at the waist, blend near the hipline, and let out waistband or bodice side seams equal to the change."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "130-131"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "waist-04-small-waist",
+      "area": "waist",
+      "number": 4,
+      "name": "Small waist",
+      "figure_analysis": "The waist indents more than average, through less body tissue, taut muscles or an overly erect posture.",
+      "fitting_analysis": [
+        "Garment opening laps past the closure line; waist, hip and hem drop below their body positions",
+        "Fabric near the side seams loose; hip fitting line level",
+        "Trousers: crotch seam sits below body level, causing strain and lowering the hemline"
+      ],
+      "fabric_requirement": "Less fabric width at the waistline. The narrower area aligns with the waist and lifts the shaping to the body.",
+      "change_required": "Narrow the waistline area at the side seams.",
+      "methods": {
+        "slash": "Fitting garment only. Release the waistline seam across each side area. Near each side seam, on back and front, form a tuck through the waistline to remove the excess equally, keeping ease. Taper each tuck to nothing where the looseness ends. Take in waistband or bodice side seams equal to the skirt or trouser change.",
+        "seam": null,
+        "pivot": "Release the waist seam and the side seams from the waist to above the hip where the variation begins. Take in side seam areas equally at the waist, blend near the hipline, trim, and take in waistband or bodice side seams equal to the change."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "132-133"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-05-prominent-hip-bones",
+      "area": "hip",
+      "number": 5,
+      "name": "Prominent hip bones",
+      "figure_analysis": "The upper tips of the pelvic cradle protrude more than average, through larger or more angular bone, or light, taut muscle over the area. The abdomen may look indented.",
+      "fitting_analysis": [
+        "Fabric taut over the hip bones; diagonal wrinkles radiate toward the side seams and centre front",
+        "Hip fitting line may rise toward each hip bone",
+        "Slight horizontal wrinkle may form near the waistline above each bone"
+      ],
+      "fabric_requirement": "More width and length over the hip bones. Wider front darts that may need repositioning and straighter stitching; darts nearest centre front may be unnecessary, or be made very narrow, or converted to ease or gathers. Larger areas relax and lower to the body contour, and the hip fitting line becomes level.",
+      "change_required": "Lengthen and widen the area over the hip bones.",
+      "methods": {
+        "slash": "Fitting garment only. Clip near the waistline halfway between centre front and each side seam. Continue cutting diagonally to the side seam just above the hipline. Insert strips; spread each set equally at the dart tips to gain width and length. Taper to nothing at the side seams and the waist. Reposition the darts if needed.",
+        "seam": null,
+        "pivot": "Release side seams above the hipline and the waist seam above the hip bones. Reposition side darts if needed and widen them to relax the fabric over the hip bones. Let out front side-seam allowances at the waist to restore waist circumference. Blend above the hip; lower the loosened waistline until the fabric relaxes and the hip fitting line is level; blend near centre front and side seams."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "134-135"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "abdomen-06-prominent-abdomen",
+      "area": "abdomen",
+      "number": 6,
+      "name": "Prominent abdomen",
+      "figure_analysis": "Abdominal muscles lack tone, so the abdomen protrudes. Excess fatty tissue and slumped posture intensify the roundness.",
+      "fitting_analysis": [
+        "Fabric taut across the abdomen; side seam above the hip curve bows forward; horizontal fold may form at the front waistline",
+        "Centre front skirt cups under the abdomen: hip line rises and hem protrudes; diagonal wrinkles pull from the abdomen to the side seams, which slant forward at the hem",
+        "Elasticised trouser waistbands curve down at centre front; fitted waistbands bind at the crotch with wrinkles to the hip bones"
+      ],
+      "fabric_requirement": "More width and length along the whole centre front. Wider darts whose stitching lines bow toward each other. The larger area relaxes over the abdomen and eases the trouser crotch; the skirt hangs from the abdominal curve; elastic waistbands align above the curve; side seams hang plumb and the hip fitting line becomes level.",
+      "change_required": "Widen the midfront area; lengthen the upper centre front area.",
+      "methods": {
+        "slash": "Fitting garment only. Release the centre front seam, or slash along the centre front fold and insert a strip. To widen, spread the centre front edges evenly until the fabric relaxes over the abdomen; mark darts in their new position and shape. To increase centre front length, cut across the front just below the dart tips, insert a strip, and spread equally across the centre until the fitting line is level. Taper to nothing at each side seam.",
+        "seam": null,
+        "pivot": "Skirt: release the front waist seam; to gain width release the centre front seam or both side seams for their full lengths; let out front seam allowances equally until the fabric relaxes across the abdomen; stitch new seamlines parallel to the originals; widen darts to restore waist circumference; mark and restitch dart shaping. Trousers: same, but widen only at centre front, letting both edges out evenly from waist to hip, blending back at the crotch curve. For more centre front length, let out the waistline seam allowance evenly across the centre front until the hip fitting line is level, and blend at the side seam. Alternatively lift the back waistline; trousers may then need more back crotch depth (see 17 Drooped Buttocks)."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "136-137"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "abdomen-07-flat-abdomen",
+      "area": "abdomen",
+      "number": 7,
+      "name": "Flat abdomen",
+      "figure_analysis": "The abdominal area is flat, through taut muscles, an overly erect posture or little fat.",
+      "fitting_analysis": [
+        "Fabric loose over the abdomen; vertical folds hang below the darts nearest centre front, which create excess shaping",
+        "Hip fitting line may drop across centre front"
+      ],
+      "fabric_requirement": "Less shaping over the abdomen. Darts nearest centre front may be removed for some figures; occasionally less length is needed at centre front. Very narrow darts stop excess shaping and keep the appearance. The smaller area lies smoothly against the body.",
+      "change_required": "Narrow the midfront area; shorten the upper centre front area.",
+      "methods": {
+        "slash": "Fitting garment only. To decrease dart width and centre front length, form a parallel tuck across the centre front below the dart tips. Adjust the width until the hip fitting line is level. Taper to nothing at the side seams. Follow the crosswise grain.",
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "128"
+        "pages": "138"
       },
       "status": "draft",
       "reviewer": null
