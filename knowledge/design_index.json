@@ -178,6 +178,71 @@
         "ease"
       ],
       "status": "draft"
+    },
+    {
+      "category": "Fitting method",
+      "term": "Work simple to complex and largest area first; fix length before circumference; hem last",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "65-66"
+      },
+      "affects": [
+        "fit-order"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Fitting method",
+      "term": "Wrinkle direction shows the fault: tension means too small or too short; loose folds mean too long or the dart is too wide",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "67"
+      },
+      "affects": [
+        "wrinkles",
+        "ease",
+        "darts"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Fitting method",
+      "term": "Circumference difference divided by four, applied parallel to the side seam",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "65"
+      },
+      "affects": [
+        "ease",
+        "side-seam"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Garment units",
+      "term": "Flare follows the bias; pleats, gathers and drape each need controlled ease and grain",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "59-60"
+      },
+      "affects": [
+        "ease",
+        "grainline"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Garment units",
+      "term": "Collar and pocket fit follow the neckline, shoulder slope and the body contour under them",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "60-61"
+      },
+      "affects": [
+        "collar",
+        "pockets"
+      ],
+      "status": "draft"
     }
   ]
 }

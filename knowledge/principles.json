@@ -700,6 +700,442 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "flare-follows-bias-and-grain",
+      "statement": "Flare appears where the fabric is on the bias. Changing the grain angle on the pattern moves where the flare falls.",
+      "applies_to": [
+        "flared"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "59"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "flare-ripples-equal-and-level",
+      "statement": "On a symmetrical flared garment, the ripples on each side should match in size and start at the same height.",
+      "applies_to": [
+        "flared"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "59"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "pleat-lies-flat-with-ease",
+      "statement": "Stitched pleats and tucks lie smooth without tension. Enough ease is needed so pleats and vents stay closed when standing.",
+      "applies_to": [
+        "pleated"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "59"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "gathers-fall-free-no-tension",
+      "statement": "Gathers that lie on the body fall softly over bulges without tension, and need enough lengthwise ease for movement.",
+      "applies_to": [
+        "gathered"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "59"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "gathers-away-from-body-add-length",
+      "statement": "Gathers that stand away from the body need added length. The amount depends on the edge contour, the ratio of gathered to flat area, and the grain direction of the seam.",
+      "applies_to": [
+        "gathered"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "59-60"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "drape-needs-correct-tension",
+      "statement": "Draped fabric holds its shape only with the right tension. Too little ease in a gathered or folded area produces diagonal folds. Draped edges must be cut and matched accurately and fitted on the body.",
+      "applies_to": [
+        "draped"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "59-60"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "darts-smooth-and-multiple-on-large-curve",
+      "statement": "Darts should form smooth, flowing lines. On a large curve, two or more narrow darts fit better than one large dart. Darts should not emphasise a body variation.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "60"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "collar-stand-fits-smoothly",
+      "statement": "A collar stand fits smoothly at the back of the neck, keeps a continuous roll line, and is in proportion to the neck length.",
+      "applies_to": [
+        "collared"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "60-61"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "collar-follows-neckline-and-shoulder",
+      "statement": "If the neckline curve or shoulder slope changes, the collar must change too. On uneven shoulders the collar point drops on the low side unless the collar is altered.",
+      "applies_to": [
+        "collared"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "61"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rolled-collar-outer-layer-larger",
+      "statement": "The outer layer of a rolled collar or lapel is cut slightly larger than the layers beneath and eased into place, to prevent distortion.",
+      "applies_to": [
+        "collared",
+        "lapelled"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "61"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "pocket-placed-at-first-fitting",
+      "statement": "Pocket position and size are checked at the first fitting, before the pockets are applied.",
+      "applies_to": [
+        "pocketed"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "61"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "pocket-ease-over-curve",
+      "statement": "A pocket over a body curve needs ease to lie flat, and flaps and outer layers are made slightly larger than the layers beneath.",
+      "applies_to": [
+        "pocketed"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "61"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fitting-space-and-mirror",
+      "statement": "Fitting needs a full-length mirror, space to walk several steps from it, good plain lighting, a chair and a standing-height table, so the whole figure and garment are visible.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "63"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fit-with-final-undergarments-and-shoes",
+      "statement": "Wear the same underwear and shoes during fitting as will be worn with the finished garment, so that darts and ease are not changed later.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "63-64"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "standard-seam-allowance-5-8",
+      "statement": "Use the standard 5/8 inch (1.5 cm) seam allowance. Wide allowances on curved edges such as the armscye and neck cause problems.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "64"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fit-begins-with-basic-pattern",
+      "statement": "Start from a basic pattern with a close-fitting neck, standard armscye, waist and straight skirt, so the fabric requirements are determined for all body areas.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "64"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "adjoining-length-change-matches",
+      "statement": "When a stitching line changes in length, the matching line on the adjoining piece must change by the same amount. A position-only change needs no adjoining length change.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "65"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fit-simple-to-complex-and-largest-first",
+      "statement": "Fit the simplest garment part first (skirt, trousers, bodice, sleeves) and start each garment unit at the largest area where fabric touches the body.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "65-66"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "length-before-circumference",
+      "statement": "Once the garment is on, fix length problems before circumference problems, and adjust the hem last.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "66"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "circumference-check-quarter-difference",
+      "statement": "To check the circumference, subtract the chart measurement from the body measurement at waist, hip and bust, divide each difference by four (four seam edges), and apply it parallel to the side seam.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "65"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-check-half-difference",
+      "statement": "To check the sleeve, add 1 to 2 inches (2.5 to 5 cm) to the biceps measurement, subtract from the sleeve pattern about 2 inches below the cap, halve the difference, and apply it parallel to the underarm seam.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "65"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fit-right-side-out-matched-centres",
+      "statement": "Fit the garment right side out with closures pinned accurately and the garment centre lines in line with the body centres. Work side to side in the same area.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "66"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "seamline-move-keeps-total-size",
+      "statement": "A side or shoulder seam can move to change how front and back read without changing total size: let out one side and take up the other by an equal amount.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "66"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "related-variations-counterbalance",
+      "statement": "Body variations often counterbalance each other (for example, a rounded shoulder with a hollow chest). Look for the related variation before altering, and adjust only the distorted side when the difference is slight.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "66"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "wrinkle-direction-diagnosis",
+      "statement": "Wrinkle direction shows the fault: horizontal tension means too small circumference; loose horizontal folds mean too long; vertical tension means too short; loose vertical, diagonal or puffy folds mean the dart is too wide; tight diagonal wrinkles mean the dart is too narrow.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "67"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "no-change-when-garment-matches-body",
+      "statement": "A garment needs no change when its measurements and shape equal the body plus ease. Where the garment differs, change the length or width of that part.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "67"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "dart-size-from-bulge-and-slope",
+      "statement": "A dart-equivalent seam forms along each body slope. The larger the bulge or the steeper the slope, the larger the dart. Asymmetric halves need darts that differ, with tips level and at equal distances from the centre.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "67"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "describe-change-in-body-terms",
+      "statement": "Describe needed changes by the body shape they respond to, in logical sequence, so the pattern alteration is easier to repeat.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "67"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "alteration-method-by-purpose",
+      "statement": "Slash-and-spread (or lap) and pivot-slide are the two common alteration methods. Slash is for trial fitting; pivot moves the stitching line and suits fashion garments.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "67"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
