@@ -266,11 +266,87 @@
       "methods": {
         "slash": "Pin a tuck along each side seam where the looseness is greatest to flatten the side seam curvature; taper the tuck to nothing toward the waist and hip lines. If a decrease in length is also needed, form a horizontal tuck near the waistline across each side seam to lift the fabric until it lies smooth; taper to nothing near the darts at back and front.",
         "seam": null,
+        "pivot": "Release the side seams above the hipline. To flatten the side seam curve, take in the curved area of the side seam equally on back and front until the fabric is smooth. If a decrease in length is needed, release the waistline seam across the side seams and lift the garment until the fabric is smooth. Blend near the darts at back and front; trim the widened seam allowances."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "148-149"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-12-broad-hips",
+      "area": "hip",
+      "number": 12,
+      "name": "Broad hips",
+      "figure_analysis": "The bone structures forming the pelvic cradle and the hip joints are larger and wider than average. Soft tissue may lack tone or be more developed. Hip circumference is larger than average.",
+      "fitting_analysis": [
+        "Fabric pulls taut around the fullest part of the hips",
+        "In motion a skirt rises gradually; a horizontal fold forms around the waist; hip fitting line and hemline stay level",
+        "Trousers: fabric cannot rise at centre front and centre back because it binds at the crotch",
+        "Skirts and trousers bought by hip size are too large at the waist (see 4 Small Waist)"
+      ],
+      "fabric_requirement": "More fabric width and length at the fullest hip level, so the side seams are longer and noticeably curved near the hipline. The larger garment area lets the fabric relax and lower to the correct position.",
+      "change_required": "Widen the side seam areas at the hipline.",
+      "methods": {
+        "slash": "Fitting garment only. Determine the fabric needed: subtract the total body hip measurement plus ease from the garment measurement and divide by four (four side seam areas). Release the waist seam across the side seam areas. On back and front near each side seam, cut through the waist seam allowance downward to the hem (skirt) or to the kneeline (trousers), following the lengthwise grain; insert fabric strips. To increase width, spread the cut edges evenly along the slash (on trousers, from waist to crotchline), tapering to nothing at the kneeline. At the waistline take in the side seam areas equally to restore waist circumference; taper to nothing at the hip.",
+        "seam": null,
+        "pivot": "Determine the amount as above. Skirt: restitch a new side seam to release the calculated amount evenly from the hem edge to the hipline, and blend gradually back to the original seamline at the waistline. Trousers: mark a new side seam across the hipline area to release the width, curve back to the original near the waistline and below the thighline; for a wider leg, continue the new line parallel to the original to the hem. Six-gore skirt: let out the centre panel edges by one quarter of the adjustment and the side seams by three quarters."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "150-153"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-13-narrow-hips",
+      "area": "hip",
+      "number": 13,
+      "name": "Narrow hips",
+      "figure_analysis": "The bone structures forming the pelvic cradle and the hip joints are smaller and narrower than average. There may be less soft tissue, or more taut muscle. Hip circumference is smaller than average.",
+      "fitting_analysis": [
+        "Fabric along the side seams loose at the fullest part of the hips",
+        "Hip fitting line and hemline unaffected",
+        "Skirts and trousers bought by hip size are too small at the waist (see 3 Large Waist)"
+      ],
+      "fabric_requirement": "Less fabric width at the fullest hip level, so the side seams are shorter and less curved than usual at the hipline. The smaller garment area smooths the fabric against the body.",
+      "change_required": "Narrow the side seam areas at the hipline.",
+      "methods": {
+        "slash": "Fitting garment only. Determine the excess fabric: subtract the total body hip measurement plus ease from the garment measurement and divide by four (four side seam areas). Release the waistline seam across the side seam areas. On back and front near each side seam, form a parallel tuck from the waist seam allowance down to the hem, following the lengthwise grain. On skirts, continue the tuck through the hem edge; on trousers, continue it evenly to the crotchline, then taper to nothing at the kneeline. Let out the side seams equally at the waistline to restore waist circumference; blend near the hipline.",
+        "seam": null,
+        "pivot": "Determine the amount as above. Skirt: restitch a new side seam taking in the calculated amount evenly from the hem edge to the hipline, blend gradually back to the original seamline at the waistline, and trim. Trousers: mark a new side seam across the hipline area to take in the excess; blend back into the original near the waistline and at the thighline; for a narrower leg, continue the new line parallel to the original to the hem. Six-gore skirt: take in the centre panel edges by one quarter of the adjustment and the side seams by three quarters."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "154-156"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-14-cylindrical-torso-hip-area",
+      "area": "hip",
+      "number": 14,
+      "name": "Cylindrical-shaped torso (hip area)",
+      "figure_analysis": "The bone structure forming the pelvic cradle is less oval than average. The torso is narrower from side to side and deeper from centre front through to centre back. Torso circumference does not change.",
+      "fitting_analysis": [
+        "Usually affects the fit only of trousers",
+        "Tight diagonal wrinkles pull through the crotch area; more apparent from the back",
+        "Fabric may pull into the crotch crevice when the wearer walks, sits or stoops; the strain pulls the waistline and hip fitting line down across centre back"
+      ],
+      "fabric_requirement": "Greater body profile depth requires wider crotch extensions. The larger garment area lets the fabric relax and hang smoothly between the legs.",
+      "change_required": "Widen the back and front crotch extensions.",
+      "methods": {
+        "slash": "Place one trouser leg inside the other so the garment is wrong side out; match and pin the inseams together from the crotch to the knee line. About 2 inches (5 cm) from the inseam, cut vertically through the back crotch extension and follow the grain to the inseams. Turn right side out and separate the legs. To increase width, lay each set of cut edges over a fabric insert and spread equally at the crotch to relax the fabric; taper to nothing at the inseams. On the trouser pattern, follow the same process but add one third of the adjustment at the front inseam and two thirds at the back inseam.",
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "148"
+        "pages": "158"
       },
       "status": "draft",
       "reviewer": null
