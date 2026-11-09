@@ -549,6 +549,157 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "grainline-perpendicular-at-centre",
+      "statement": "Centre back and centre front seams should hang perpendicular to the floor and sit centred on the body. Use this as a visual check after making up.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "side-seam-slopes-forward",
+      "statement": "The side seam should slope slightly forward from the underarm. A side seam that drops straight, or slopes back, is a fit sign to check.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "dart-ends-short-of-fullest",
+      "statement": "A dart should point toward the crown of the curve it shapes and end about 1 inch (2.5 cm) short of the fullest part of that curve.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "waistline-parallel-to-floor",
+      "statement": "The waistline should be parallel to the floor and follow the body contour. A waistline that tilts or floats away from the body is a fit sign.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "neckline-crosses-at-vertebra",
+      "statement": "The back neckline should cross through the most prominent vertebra at the base of the neck. Check this point when setting the back neck.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-seam-close-and-straight",
+      "statement": "The shoulder seam should lie close to the body and look visually straight from the neck to the armscye.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "armscye-half-inch-from-arm",
+      "statement": "The armscye should sit about ½ inch (1.25 cm) from the outer surface of the arm and line up with the back and front arm creases.",
+      "applies_to": [
+        "sleeveless",
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-edge-half-inch-beyond-armscye",
+      "statement": "The outer edge of a sleeve should extend about ½ inch beyond the armscye, to give movement at the top of the arm.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "underarm-seam-over-wrist",
+      "statement": "The sleeve underarm seam should line up with the centre of the wrist when the arm is hanging.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "ease-depends-on-style",
+      "statement": "The basic ease a garment needs depends on its style. Strapless and sleeveless designs need little; sportswear needs more than business wear.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "54"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

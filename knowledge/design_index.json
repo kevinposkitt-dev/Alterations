@@ -1,16 +1,183 @@
 {
   "description": "Index of design principles from the source books, in our own words, with page references. Each entry links to any construction or fit rule it affects. Draft until reviewed.",
   "entries": [
-    {"category": "Elements: colour", "term": "Warm, light, bright colours advance and enlarge; cool, dark, dull colours recede and reduce", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "9-10"}, "affects": ["fit-perception"], "status": "draft"},
-    {"category": "Elements: colour", "term": "Colour changes break the body into areas, which can shorten or lengthen a visual division", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "10"}, "affects": ["fit-perception"], "status": "draft"},
-    {"category": "Elements: texture", "term": "Texture changes how size and weight read; heavy or matt textures add bulk, shiny or drapey ones show contour", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "11-13"}, "affects": ["fit-perception", "ease"], "status": "draft"},
-    {"category": "Elements: texture", "term": "Fabric characteristics decide whether a design works; stretch and drape change fit as well as look", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "12"}, "affects": ["ease-depends-on-fabric"], "status": "draft"},
-    {"category": "Principles: balance", "term": "Balance is the equal distribution of visual weight about a centre line, side to side and top to bottom", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "14"}, "affects": ["balance-both-sides"], "status": "draft"},
-    {"category": "Principles: proportion", "term": "Uneven ratios such as 1:3, 2:3 and 3:5 read as the most interesting divisions of a garment", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "15"}, "affects": ["fit-perception"], "status": "draft"},
-    {"category": "Principles: rhythm", "term": "Repetition, alternation, progression and continuous lines lead the eye through a garment", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "15-16"}, "affects": [], "status": "draft"},
-    {"category": "Principles: emphasis", "term": "One area should dominate; others are subordinate, and detail can move attention away from a figure variation", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "17"}, "affects": ["single-dominant-emphasis"], "status": "draft"},
-    {"category": "Principles: harmony", "term": "All lines, shapes, colours and textures must relate to one another and to the purpose of the garment", "source": {"book": "Fitting & Pattern Alteration (Liechty et al.)", "pages": "17-18"}, "affects": [], "status": "draft"},
-    {"category": "Garment: knit tops", "term": "Knit tops are generally started from a dartless foundation; the waist is not shaped with darts", "source": {"book": "Make Your Own Patterns (Bergh)", "pages": "76"}, "affects": ["knit-tops-dartless"], "status": "draft"},
-    {"category": "Garment: knit tops", "term": "Neck and waist ribbing are cut a set amount smaller than the neck or hem they sit on", "source": {"book": "Make Your Own Patterns (Bergh)", "pages": "76-77"}, "affects": [], "status": "draft"}
+    {
+      "category": "Elements: colour",
+      "term": "Warm, light, bright colours advance and enlarge; cool, dark, dull colours recede and reduce",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "9-10"
+      },
+      "affects": [
+        "fit-perception"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Elements: colour",
+      "term": "Colour changes break the body into areas, which can shorten or lengthen a visual division",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "10"
+      },
+      "affects": [
+        "fit-perception"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Elements: texture",
+      "term": "Texture changes how size and weight read; heavy or matt textures add bulk, shiny or drapey ones show contour",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "11-13"
+      },
+      "affects": [
+        "fit-perception",
+        "ease"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Elements: texture",
+      "term": "Fabric characteristics decide whether a design works; stretch and drape change fit as well as look",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "12"
+      },
+      "affects": [
+        "ease-depends-on-fabric"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Principles: balance",
+      "term": "Balance is the equal distribution of visual weight about a centre line, side to side and top to bottom",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "14"
+      },
+      "affects": [
+        "balance-both-sides"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Principles: proportion",
+      "term": "Uneven ratios such as 1:3, 2:3 and 3:5 read as the most interesting divisions of a garment",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "15"
+      },
+      "affects": [
+        "fit-perception"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Principles: rhythm",
+      "term": "Repetition, alternation, progression and continuous lines lead the eye through a garment",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "15-16"
+      },
+      "affects": [],
+      "status": "draft"
+    },
+    {
+      "category": "Principles: emphasis",
+      "term": "One area should dominate; others are subordinate, and detail can move attention away from a figure variation",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "17"
+      },
+      "affects": [
+        "single-dominant-emphasis"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Principles: harmony",
+      "term": "All lines, shapes, colours and textures must relate to one another and to the purpose of the garment",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "17-18"
+      },
+      "affects": [],
+      "status": "draft"
+    },
+    {
+      "category": "Garment: knit tops",
+      "term": "Knit tops are generally started from a dartless foundation; the waist is not shaped with darts",
+      "source": {
+        "book": "Make Your Own Patterns (Bergh)",
+        "pages": "76"
+      },
+      "affects": [
+        "knit-tops-dartless"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Garment: knit tops",
+      "term": "Neck and waist ribbing are cut a set amount smaller than the neck or hem they sit on",
+      "source": {
+        "book": "Make Your Own Patterns (Bergh)",
+        "pages": "76-77"
+      },
+      "affects": [],
+      "status": "draft"
+    },
+    {
+      "category": "Fitting standards",
+      "term": "Centre seams hang perpendicular to the floor and are centred on the body",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "affects": [
+        "fit-perception",
+        "grainline"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Fitting standards",
+      "term": "Side seams slope forward from the underarm; darts point to the crown of the curve and end about 1 inch short of the fullest part",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "affects": [
+        "side-seam",
+        "darts"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Fitting standards",
+      "term": "Armscye sits about ½ inch from the arm surface; sleeve edge extends about ½ inch from the armscye",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "55-58"
+      },
+      "affects": [
+        "armscye",
+        "sleeve-cap-ease"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Basic ease",
+      "term": "Basic ease depends on style: strapless and sleeveless need little; sportswear needs more than business wear",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "54"
+      },
+      "affects": [
+        "ease"
+      ],
+      "status": "draft"
+    }
   ]
 }
