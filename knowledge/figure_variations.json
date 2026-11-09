@@ -1859,11 +1859,131 @@
       "methods": {
         "slash": "Before attaching the sleeves, adjust the cap to correspond to the change made in the garment; see the pivot method. If the sleeves are attached, release the armscye seam across the shoulder area; increase the armscye length by slashing from the armscye to, but not through, the neckline near the shoulder seamline; insert fabric strips and spread each set of cut edges equally until the fabric relaxes. Slash the sleeve cap vertically through the centre down to the capline; insert a fabric strip; spread the cut edges to equal the shoulder adjustment; taper to nothing at the capline; stitch the sleeve across the top. If the underarm area is tight, see 57 Cylindrical-shaped Torso (rib cage) and 80 Large Upper Arms.",
         "seam": null,
+        "pivot": "Before attaching the sleeves, increase each side of the cap halfway between the notch and shoulder by an amount equal to the change made in the garment. Blend into the original seamline at the shoulder mark and notches. If the sleeves are attached and lack cap ease, release the armscye seam from the notch to within ½ inch (1.2 cm) of the shoulder; increase each side of the sleeve cap until the sleeve lies smooth across the upper cap and the ease has been restored; blend into the original at the shoulder and arm hinge. If the garment was not fitted properly, increase the armscye length at the shoulder seam and taper to nothing at the neckline; adjust sleeves as directed above. When the underarm area is tight, see 57 Cylindrical-shaped Torso (rib cage) and 80 Large Upper Arms."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "318-319"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-76-small-shoulder-joints",
+      "area": "arm",
+      "number": 76,
+      "name": "Small shoulder joints",
+      "figure_analysis": "The bones forming the joint structure are smaller than average. The surrounding muscles and other soft tissues may be lighter. These factors decrease the circumference of the shoulder joint. A more oval rib cage may accompany this figure variation.",
+      "fitting_analysis": [
+        "The sleeve cap is too wide at the sides; the fabric forms loose vertical folds at the armscye"
+      ],
+      "fabric_requirement": "The smaller joint circumference requires a sleeve cap with less width above the arm hinge. When this variation is combined with an oval rib cage, narrow armscye extensions are required on the garment and sleeve. See 58 Oval-shaped Torso (rib cage) and 79 Thin Arms.",
+      "change_required": "Narrow the upper sleeve cap area.",
+      "methods": {
+        "slash": "Before attaching the sleeves, adjust the cap to correspond to the change made in the shoulder area. Remove the excess armscye length equally with a tuck near the shoulder on both back and front; taper to nothing at the neckline. At the top of the sleeve cap, form a lengthwise tuck equal to the amount removed at the shoulder; taper to nothing at the capline. Stitch the sleeve across the top. If there is excess width at the underarm, see 58 Oval-shaped Torso (rib cage) and 79 Thin Arms.",
+        "seam": null,
+        "pivot": "Before attaching the sleeves, decrease each side of the cap halfway between the notch and shoulder by an amount equal to the change made in the garment. Blend into the original seamline at the shoulder mark and notches. If the sleeves are attached and have excess ease, release the armscye seam from the notch to within ½ inch (1.2 cm) of the shoulder; decrease each side of the sleeve cap until the sleeve lies smooth across the upper cap; blend into the original at shoulder and arm hinge. If the garment was not fitted properly, remove the excess armscye length at the shoulder seam and taper to nothing at the neckline; adjust sleeves as directed above. When there is excess width at the underarm, see 58 Oval-shaped Torso (rib cage) and 79 Thin Arms."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "320-321"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-77-forward-arm-joints-sleeves",
+      "area": "shoulder",
+      "number": 77,
+      "name": "Forward arm joints (sleeves)",
+      "figure_analysis": "The bones forming the shoulder line bow forward, which places the shoulder joints in front of the central body axis. The joint is noticeably rounded in the front; the back is more sloped. When the arms are relaxed, the elbow may lie more toward the back to counterbalance the forward position of the joint.",
+      "fitting_analysis": [
+        "The front of the sleeve cap is taut near the crest of the joint; the strain causes diagonal wrinkles to radiate toward the back of the sleeve",
+        "The back of the cap is loose along the upper armscye area",
+        "The horizontal cap fitting line rises at the front of the sleeve; the lengthwise cap fitting line bows forward over the centre of the joint"
+      ],
+      "fabric_requirement": "The shape of the shoulder joint requires a corresponding change in the shape of the sleeve cap. The curve near the top of the cap must be made rounder at the front to relieve the strain and more sloped at the back to remove the excess fabric. The cap fitting lines become level and plumb. This variation also affects the shape of the armscye; see 45 Forward Arm Joints (bodice).",
+      "change_required": "Widen the upper front cap area; narrow the central back cap area.",
+      "methods": {
+        "slash": "Only the edges of the cap are affected. See the pivot method.",
+        "seam": null,
+        "pivot": "Release the front area of the sleeve cap from the shoulder mark to the arm joint area. Let out the cap seam allowance near the curve of the joint until the fabric relaxes and the fitting lines become level and plumb. Turn under the remaining seam allowance and align the fold with the adjusted armscye line on the bodice. Release the back cap area from the shoulder mark to the arm hinge area. Fold the arms in front of the body. Take in the cap area until the looseness is removed. Align the fold with the adjusted armscye line. Mark the new shoulder and balance points on the sleeves."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "322-323"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-78-large-arms",
+      "area": "arm",
+      "number": 78,
+      "name": "Large arms",
+      "figure_analysis": "The bone and muscle development is heavier than average. The arm joints may be larger also. These factors increase the arm circumference at any point along the entire arm.",
+      "fitting_analysis": [
+        "The entire sleeve pulls taut around the arm; tight horizontal wrinkles form across the armscye seamlines and the sleeves",
+        "The strained fabric pulls both the front and back armscye seamlines toward the arm and prevents the elbow from bending comfortably",
+        "Both the upper and lower sleeve areas may appear too short; the tightness emphasises the largeness of the arms"
+      ],
+      "fabric_requirement": "The larger arm girth requires more fabric width from the capline to the wristline. This variation may also affect the size of the armscye. See 14 Cylindrical-shaped Torso (hip area) and 75 Large Shoulder Joints. (Note: the book's cross-reference reads '14'; the torso entry with this title is 57 Cylindrical-shaped Torso (rib cage). Confirm before relying on it.) The increased width relieves strain on the garment and sleeves; the fabric slides freely over the arm and the elbows bend easily.",
+      "change_required": "Widen the entire sleeve.",
+      "methods": {
+        "slash": "If the garment armscye was increased at the underarm or shoulder, adjust the sleeve width to correspond to this alteration before attaching sleeves; follow the pivot method. If the sleeves are attached and the armscye size is correct, adjust only the sleeve: release the top of the cap and slash from the cap edge to the wrist, following the lengthwise grain; insert fabric strips and separate the cut edges equally at the scyeline until the ease and comfort are restored and the arm moves freely; taper as needed at the top of the cap and at the wrist. As an alternative, keep the insert parallel along the entire sleeve length; form a tuck in the insert at the top of the cap and at the wrist to remove the excess width; taper each to nothing at the scyeline and the elbow respectively. These procedures shorten and widen the cap; if more cap height is needed to restore the armscye size, raise the cap seamline across the shoulder area.",
+        "seam": null,
+        "pivot": "If the garment armscye was increased at the underarm or shoulder, adjust the sleeve width evenly to correspond to this alteration before attaching sleeves to the garment. If the sleeves are attached and the armscye size is correct, adjust only the sleeve: remove the sleeves, release the underarm seam and the darts, let out the underarm seam allowances equally at the scyeline to restore the ease and comfort and to permit the arm to move freely; taper toward the original at the wrist as needed; restore the width and length of the darts. To restore the sleeve armscye size, decrease the cap height equal to one-half the total width adjustment; widen each side of the cap equal to one-fourth of the total width increase; blend into the original near the top of the cap and near the ends of the armscye extensions."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "324-325"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-79-thin-arms",
+      "area": "arm",
+      "number": 79,
+      "name": "Thin arms",
+      "figure_analysis": "The bone and muscle development is lighter than average. The arm joints may be smaller also. The concentration of soft tissues is minimal. These factors decrease the circumference of the arm at any point along the entire arm.",
+      "fitting_analysis": [
+        "The fabric of the sleeves hangs in loose vertical folds from the capline to the wristline; the looseness gives a baggy appearance and emphasises the thinness of the arm"
+      ],
+      "fabric_requirement": "The smaller arm girth requires less fabric width from the capline to the wristline. This variation may also affect the size of the armscye. See 58 Oval-shaped Torso (rib cage) and 76 Small Shoulder Joints. The decreased width brings the fabric closer to the arm surface and creates a more pleasing proportion between the arm and sleeve.",
+      "change_required": "Narrow the entire sleeve.",
+      "methods": {
+        "slash": "If the garment armscye was decreased at the underarm or shoulder, adjust the sleeve width to correspond to this alteration before attaching sleeves; follow the pivot method. If the sleeves are attached and the armscye size is correct, adjust only the sleeves: release the top of the cap; form a tuck along the lengthwise centre of the sleeve to remove the excess fabric and retain the ease; taper the tuck to a narrower width, as needed, at the top of the cap and at the wrist. This procedure lengthens and narrows the sleeve cap. If less cap height is needed, lower the cap seamline across the shoulder area.",
+        "seam": null,
+        "pivot": "If the garment armscye was decreased at the underarm or shoulder, adjust the sleeve width to correspond to this alteration before attaching sleeves. If the sleeves are attached and the armscye size is correct, adjust only the sleeves: remove the sleeves; release the underarm seams and the darts; take up enough of the sleeve at each underarm seam to remove the excess looseness; mark parallel to the original seamline from the scyeline to the elbow line; taper toward the original at the wrist as needed; restore the width and length of the darts. To restore the sleeve armscye size, increase the cap height equal to one-half the total width adjustment; narrow each side of the cap equal to one-fourth of the total width decrease; blend into the original near the top of the cap and near the ends of the armscye extensions."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "326-327"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-80-large-upper-arms",
+      "area": "arm",
+      "number": 80,
+      "name": "Large upper arms",
+      "figure_analysis": "Heavier muscle development, bone, and excess soft tissue affect only the upper arm area. The arm joint may be larger also. The fullness may be evenly distributed or may occur mostly at the front, the back, or underneath. It may be at the biceps area only or continue to the elbow. When the connective tissue deteriorates and the muscles lose tone, the soft tissues sag when the arm is lifted.",
+      "fitting_analysis": [
+        "The sleeve is taut from the capline to the elbow line; horizontal wrinkles form around the upper sleeve area",
+        "The strain across the armscye pulls the entire seamline toward the arm and may pull the sleeve shaping above the elbow tip; the tightness restricts arm mobility and the sleeve may appear too short"
+      ],
+      "fabric_requirement": "The larger arm girth requires more sleeve width at the capline and perhaps at the elbow level. This variation may also require a larger armscye. See 57 Cylindrical-shaped Torso (rib cage) and 75 Large Shoulder Joints. The added width relieves the strain on both garment and sleeve; each aligns with the body structure, and the sleeve slides freely over the upper arm.",
+      "change_required": "Widen the sleeve at the capline.",
+      "methods": {
+        "slash": "If the garment armscye was increased at the underarm or shoulder, adjust the upper sleeve width to correspond to this alteration before attaching sleeves to the garment; follow the pivot method. If the sleeves are attached and the armscye size is correct, adjust only the sleeve: release the top of the cap and slash from the cap edge to the elbow line over the affected area, following the lengthwise grain; insert fabric strips; separate the cut edges enough at the capline to relax the fabric and restore the ease; taper as needed at the top of the cap.",
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "318 (pivot on p. 319, not yet read)"
+        "pages": "328 (pivot on p. 329, not yet read)"
       },
       "status": "draft",
       "reviewer": null
