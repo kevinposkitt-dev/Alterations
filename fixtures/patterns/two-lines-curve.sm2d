@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <!--Pattern created with Seamly2D v2026.11.9.131 (https://seamly.io).-->
+    <version>0.7.6</version>
+    <unit>cm</unit>
+    <description/>
+    <notes/>
+    <measurements/>
+    <variables/>
+    <draftBlock name="Draft block 1">
+        <calculation>
+            <point id="1" mx="0.132292" my="0.264583" name="A" showPointName="true" type="single" x="0.687917" y="0.767288"/>
+            <point angle="271.804" basePoint="1" id="2" length="6.72375" lineColor="black" lineType="solidLine" lineWeight="0.35" mx="0.132292" my="0.264583" name="A1" showPointName="true" type="endLine"/>
+            <point angle="0.255992" basePoint="2" id="3" length="6.35696" lineColor="black" lineType="solidLine" lineWeight="0.35" mx="0.132292" my="0.264583" name="A2" showPointName="true" type="endLine"/>
+            <spline angle1="36.7269" angle2="36.6959" color="black" id="4" length1="3.99228" length2="3.93049" lineWeight="0.35" penStyle="solidLine" point1="3" point4="1" type="simpleInteractive"/>
+        </calculation>
+        <modeling/>
+        <pieces/>
+        <groups/>
+        <images/>
+    </draftBlock>
+</pattern>
