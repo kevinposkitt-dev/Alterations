@@ -1,0 +1,1773 @@
+{
+  "source": "Fashionpedia ontology (validation split), supplied by the user as an upload.",
+  "licence": "PENDING. Not confirmed. Do not download or redistribute Fashionpedia images until the licence is confirmed.",
+  "counts": {
+    "categories": 46,
+    "attributes": 294
+  },
+  "categories_by_supercategory": {
+    "arms and hands": [
+      {
+        "name": "glove",
+        "id": 17,
+        "taxonomy_id": "obj000032_00"
+      },
+      {
+        "name": "watch",
+        "id": 18,
+        "taxonomy_id": "obj000033_00"
+      }
+    ],
+    "closures": [
+      {
+        "name": "buckle",
+        "id": 34,
+        "taxonomy_id": "obj000058_00"
+      },
+      {
+        "name": "zipper",
+        "id": 35,
+        "taxonomy_id": "obj000059_00"
+      }
+    ],
+    "decorations": [
+      {
+        "name": "applique",
+        "id": 36,
+        "taxonomy_id": "obj000061_00"
+      },
+      {
+        "name": "bead",
+        "id": 37,
+        "taxonomy_id": "obj000062_00"
+      },
+      {
+        "name": "bow",
+        "id": 38,
+        "taxonomy_id": "obj000063_00"
+      },
+      {
+        "name": "flower",
+        "id": 39,
+        "taxonomy_id": "obj000064_00"
+      },
+      {
+        "name": "fringe",
+        "id": 40,
+        "taxonomy_id": "obj000065_00"
+      },
+      {
+        "name": "ribbon",
+        "id": 41,
+        "taxonomy_id": "obj000066_00"
+      },
+      {
+        "name": "rivet",
+        "id": 42,
+        "taxonomy_id": "obj000067_00"
+      },
+      {
+        "name": "ruffle",
+        "id": 43,
+        "taxonomy_id": "obj000068_00"
+      },
+      {
+        "name": "sequin",
+        "id": 44,
+        "taxonomy_id": "obj000069_00"
+      },
+      {
+        "name": "tassel",
+        "id": 45,
+        "taxonomy_id": "obj000070_00"
+      }
+    ],
+    "garment parts": [
+      {
+        "name": "hood",
+        "id": 27,
+        "taxonomy_id": "obj000049_00"
+      },
+      {
+        "name": "collar",
+        "id": 28,
+        "taxonomy_id": "obj000050_00"
+      },
+      {
+        "name": "lapel",
+        "id": 29,
+        "taxonomy_id": "obj000051_00"
+      },
+      {
+        "name": "epaulette",
+        "id": 30,
+        "taxonomy_id": "obj000052_00"
+      },
+      {
+        "name": "sleeve",
+        "id": 31,
+        "taxonomy_id": "obj000053_00"
+      },
+      {
+        "name": "pocket",
+        "id": 32,
+        "taxonomy_id": "obj000055_00"
+      },
+      {
+        "name": "neckline",
+        "id": 33,
+        "taxonomy_id": "obj000056_00"
+      }
+    ],
+    "head": [
+      {
+        "name": "glasses",
+        "id": 13,
+        "taxonomy_id": "obj000023_00"
+      },
+      {
+        "name": "hat",
+        "id": 14,
+        "taxonomy_id": "obj000025_00"
+      },
+      {
+        "name": "headband, head covering, hair accessory",
+        "id": 15,
+        "taxonomy_id": "combo000002"
+      }
+    ],
+    "legs and feet": [
+      {
+        "name": "leg warmer",
+        "id": 20,
+        "taxonomy_id": "obj000037_00"
+      },
+      {
+        "name": "tights, stockings",
+        "id": 21,
+        "taxonomy_id": "combo000003"
+      },
+      {
+        "name": "sock",
+        "id": 22,
+        "taxonomy_id": "obj000040_00"
+      },
+      {
+        "name": "shoe",
+        "id": 23,
+        "taxonomy_id": "obj000041_00"
+      }
+    ],
+    "lowerbody": [
+      {
+        "name": "pants",
+        "id": 6,
+        "taxonomy_id": "obj000013_00"
+      },
+      {
+        "name": "shorts",
+        "id": 7,
+        "taxonomy_id": "obj000014_00"
+      },
+      {
+        "name": "skirt",
+        "id": 8,
+        "taxonomy_id": "obj000015_00"
+      }
+    ],
+    "neck": [
+      {
+        "name": "tie",
+        "id": 16,
+        "taxonomy_id": "obj000030_00"
+      }
+    ],
+    "others": [
+      {
+        "name": "bag, wallet",
+        "id": 24,
+        "taxonomy_id": "combo000004"
+      },
+      {
+        "name": "scarf",
+        "id": 25,
+        "taxonomy_id": "obj000045_00"
+      },
+      {
+        "name": "umbrella",
+        "id": 26,
+        "taxonomy_id": "obj000046_00"
+      }
+    ],
+    "upperbody": [
+      {
+        "name": "shirt, blouse",
+        "id": 0,
+        "taxonomy_id": "combo000000"
+      },
+      {
+        "name": "top, t-shirt, sweatshirt",
+        "id": 1,
+        "taxonomy_id": "combo000001"
+      },
+      {
+        "name": "sweater",
+        "id": 2,
+        "taxonomy_id": "obj000008_00"
+      },
+      {
+        "name": "cardigan",
+        "id": 3,
+        "taxonomy_id": "obj000009_00"
+      },
+      {
+        "name": "jacket",
+        "id": 4,
+        "taxonomy_id": "obj000010_00"
+      },
+      {
+        "name": "vest",
+        "id": 5,
+        "taxonomy_id": "obj000011_00"
+      }
+    ],
+    "waist": [
+      {
+        "name": "belt",
+        "id": 19,
+        "taxonomy_id": "obj000035_00"
+      }
+    ],
+    "wholebody": [
+      {
+        "name": "coat",
+        "id": 9,
+        "taxonomy_id": "obj000017_00"
+      },
+      {
+        "name": "dress",
+        "id": 10,
+        "taxonomy_id": "obj000018_00"
+      },
+      {
+        "name": "jumpsuit",
+        "id": 11,
+        "taxonomy_id": "obj000019_00"
+      },
+      {
+        "name": "cape",
+        "id": 12,
+        "taxonomy_id": "obj000020_00"
+      }
+    ]
+  },
+  "attributes_by_supercategory": {
+    "animal": [
+      {
+        "name": "leopard",
+        "id": 333,
+        "taxonomy_id": "att000356_00"
+      },
+      {
+        "name": "snakeskin (pattern)",
+        "id": 334,
+        "taxonomy_id": "att000357_00"
+      },
+      {
+        "name": "cheetah",
+        "id": 335,
+        "taxonomy_id": "att000358_00"
+      },
+      {
+        "name": "peacock",
+        "id": 336,
+        "taxonomy_id": "att000359_00"
+      },
+      {
+        "name": "zebra",
+        "id": 337,
+        "taxonomy_id": "att000360_00"
+      },
+      {
+        "name": "giraffe",
+        "id": 338,
+        "taxonomy_id": "att000361_00"
+      }
+    ],
+    "leather": [
+      {
+        "name": "suede",
+        "id": 290,
+        "taxonomy_id": "att000308_00"
+      },
+      {
+        "name": "shearling",
+        "id": 291,
+        "taxonomy_id": "att000309_00"
+      },
+      {
+        "name": "crocodile",
+        "id": 292,
+        "taxonomy_id": "att000310_00"
+      },
+      {
+        "name": "snakeskin",
+        "id": 293,
+        "taxonomy_id": "att000311_00"
+      }
+    ],
+    "length": [
+      {
+        "name": "above-the-hip (length)",
+        "id": 146,
+        "taxonomy_id": "att000151_00"
+      },
+      {
+        "name": "hip (length)",
+        "id": 147,
+        "taxonomy_id": "att000152_00"
+      },
+      {
+        "name": "micro (length)",
+        "id": 148,
+        "taxonomy_id": "att000153_00"
+      },
+      {
+        "name": "mini (length)",
+        "id": 149,
+        "taxonomy_id": "att000154_00"
+      },
+      {
+        "name": "above-the-knee (length)",
+        "id": 150,
+        "taxonomy_id": "att000155_00"
+      },
+      {
+        "name": "knee (length)",
+        "id": 151,
+        "taxonomy_id": "att000156_00"
+      },
+      {
+        "name": "below the knee (length)",
+        "id": 152,
+        "taxonomy_id": "att000157_00"
+      },
+      {
+        "name": "midi",
+        "id": 153,
+        "taxonomy_id": "att000158_00"
+      },
+      {
+        "name": "maxi (length)",
+        "id": 154,
+        "taxonomy_id": "att000159_00"
+      },
+      {
+        "name": "floor (length)",
+        "id": 155,
+        "taxonomy_id": "att000160_00"
+      },
+      {
+        "name": "sleeveless",
+        "id": 156,
+        "taxonomy_id": "att000161_00"
+      },
+      {
+        "name": "short (length)",
+        "id": 157,
+        "taxonomy_id": "att000162_00"
+      },
+      {
+        "name": "elbow-length",
+        "id": 158,
+        "taxonomy_id": "att000163_00"
+      },
+      {
+        "name": "three quarter (length)",
+        "id": 159,
+        "taxonomy_id": "att000164_00"
+      },
+      {
+        "name": "wrist-length",
+        "id": 160,
+        "taxonomy_id": "att000165_00"
+      }
+    ],
+    "neckline type": [
+      {
+        "name": "collarless",
+        "id": 179,
+        "taxonomy_id": "att000185_00"
+      },
+      {
+        "name": "asymmetric (neckline)",
+        "id": 180,
+        "taxonomy_id": "att000186_00"
+      },
+      {
+        "name": "crew (neck)",
+        "id": 181,
+        "taxonomy_id": "att000187_00"
+      },
+      {
+        "name": "round (neck)",
+        "id": 182,
+        "taxonomy_id": "att000188_00"
+      },
+      {
+        "name": "v-neck",
+        "id": 183,
+        "taxonomy_id": "att000189_00"
+      },
+      {
+        "name": "surplice (neck)",
+        "id": 184,
+        "taxonomy_id": "att000190_00"
+      },
+      {
+        "name": "oval (neck)",
+        "id": 185,
+        "taxonomy_id": "att000191_00"
+      },
+      {
+        "name": "u-neck",
+        "id": 186,
+        "taxonomy_id": "att000192_00"
+      },
+      {
+        "name": "sweetheart (neckline)",
+        "id": 187,
+        "taxonomy_id": "att000193_00"
+      },
+      {
+        "name": "queen anne (neck)",
+        "id": 188,
+        "taxonomy_id": "att000194_00"
+      },
+      {
+        "name": "boat (neck)",
+        "id": 189,
+        "taxonomy_id": "att000195_00"
+      },
+      {
+        "name": "scoop (neck)",
+        "id": 190,
+        "taxonomy_id": "att000196_00"
+      },
+      {
+        "name": "square (neckline)",
+        "id": 191,
+        "taxonomy_id": "att000197_00"
+      },
+      {
+        "name": "plunging (neckline)",
+        "id": 192,
+        "taxonomy_id": "att000198_00"
+      },
+      {
+        "name": "keyhole (neck)",
+        "id": 193,
+        "taxonomy_id": "att000199_00"
+      },
+      {
+        "name": "halter (neck)",
+        "id": 194,
+        "taxonomy_id": "att000200_00"
+      },
+      {
+        "name": "crossover (neck)",
+        "id": 195,
+        "taxonomy_id": "att000201_00"
+      },
+      {
+        "name": "choker (neck)",
+        "id": 196,
+        "taxonomy_id": "att000202_00"
+      },
+      {
+        "name": "high (neck)",
+        "id": 197,
+        "taxonomy_id": "att000203_00"
+      },
+      {
+        "name": "turtle (neck)",
+        "id": 198,
+        "taxonomy_id": "att000204_00"
+      },
+      {
+        "name": "cowl (neck)",
+        "id": 199,
+        "taxonomy_id": "att000205_00"
+      },
+      {
+        "name": "straight across (neck)",
+        "id": 200,
+        "taxonomy_id": "att000206_00"
+      },
+      {
+        "name": "illusion (neck)",
+        "id": 201,
+        "taxonomy_id": "att000207_00"
+      },
+      {
+        "name": "off-the-shoulder",
+        "id": 202,
+        "taxonomy_id": "att000208_00"
+      },
+      {
+        "name": "one shoulder",
+        "id": 203,
+        "taxonomy_id": "att000209_00"
+      }
+    ],
+    "nickname": [
+      {
+        "name": "classic (t-shirt)",
+        "id": 0,
+        "taxonomy_id": "att000002_00"
+      },
+      {
+        "name": "polo (shirt)",
+        "id": 1,
+        "taxonomy_id": "att000003_00"
+      },
+      {
+        "name": "undershirt",
+        "id": 2,
+        "taxonomy_id": "att000004_00"
+      },
+      {
+        "name": "henley (shirt)",
+        "id": 3,
+        "taxonomy_id": "att000005_00"
+      },
+      {
+        "name": "ringer (t-shirt)",
+        "id": 4,
+        "taxonomy_id": "att000006_00"
+      },
+      {
+        "name": "raglan (t-shirt)",
+        "id": 5,
+        "taxonomy_id": "att000007_00"
+      },
+      {
+        "name": "rugby (shirt)",
+        "id": 6,
+        "taxonomy_id": "att000008_00"
+      },
+      {
+        "name": "sailor (shirt)",
+        "id": 7,
+        "taxonomy_id": "att000009_00"
+      },
+      {
+        "name": "crop (top)",
+        "id": 8,
+        "taxonomy_id": "att000010_00"
+      },
+      {
+        "name": "halter (top)",
+        "id": 9,
+        "taxonomy_id": "att000011_00"
+      },
+      {
+        "name": "camisole",
+        "id": 10,
+        "taxonomy_id": "att000012_00"
+      },
+      {
+        "name": "tank (top)",
+        "id": 11,
+        "taxonomy_id": "att000013_00"
+      },
+      {
+        "name": "peasant (top)",
+        "id": 12,
+        "taxonomy_id": "att000014_00"
+      },
+      {
+        "name": "tube (top)",
+        "id": 13,
+        "taxonomy_id": "att000015_00"
+      },
+      {
+        "name": "tunic (top)",
+        "id": 14,
+        "taxonomy_id": "att000016_00"
+      },
+      {
+        "name": "smock (top)",
+        "id": 15,
+        "taxonomy_id": "att000017_00"
+      },
+      {
+        "name": "hoodie",
+        "id": 16,
+        "taxonomy_id": "att000018_00"
+      },
+      {
+        "name": "blazer",
+        "id": 17,
+        "taxonomy_id": "att000019_00"
+      },
+      {
+        "name": "pea (jacket)",
+        "id": 18,
+        "taxonomy_id": "att000020_00"
+      },
+      {
+        "name": "puffer (jacket)",
+        "id": 19,
+        "taxonomy_id": "att000021_00"
+      },
+      {
+        "name": "biker (jacket)",
+        "id": 20,
+        "taxonomy_id": "att000022_00"
+      },
+      {
+        "name": "trucker (jacket)",
+        "id": 21,
+        "taxonomy_id": "att000023_00"
+      },
+      {
+        "name": "bomber (jacket)",
+        "id": 22,
+        "taxonomy_id": "att000024_00"
+      },
+      {
+        "name": "anorak",
+        "id": 23,
+        "taxonomy_id": "att000025_00"
+      },
+      {
+        "name": "safari (jacket)",
+        "id": 24,
+        "taxonomy_id": "att000026_00"
+      },
+      {
+        "name": "mao (jacket)",
+        "id": 25,
+        "taxonomy_id": "att000027_00"
+      },
+      {
+        "name": "nehru (jacket)",
+        "id": 26,
+        "taxonomy_id": "att000028_00"
+      },
+      {
+        "name": "norfolk (jacket)",
+        "id": 27,
+        "taxonomy_id": "att000029_00"
+      },
+      {
+        "name": "classic military (jacket)",
+        "id": 28,
+        "taxonomy_id": "att000030_00"
+      },
+      {
+        "name": "track (jacket)",
+        "id": 29,
+        "taxonomy_id": "att000031_00"
+      },
+      {
+        "name": "windbreaker",
+        "id": 30,
+        "taxonomy_id": "att000032_00"
+      },
+      {
+        "name": "chanel (jacket)",
+        "id": 31,
+        "taxonomy_id": "att000033_00"
+      },
+      {
+        "name": "bolero",
+        "id": 32,
+        "taxonomy_id": "att000034_00"
+      },
+      {
+        "name": "tuxedo (jacket)",
+        "id": 33,
+        "taxonomy_id": "att000035_00"
+      },
+      {
+        "name": "varsity (jacket)",
+        "id": 34,
+        "taxonomy_id": "att000036_00"
+      },
+      {
+        "name": "crop (jacket)",
+        "id": 35,
+        "taxonomy_id": "att000037_00"
+      },
+      {
+        "name": "jeans",
+        "id": 36,
+        "taxonomy_id": "att000038_00"
+      },
+      {
+        "name": "sweatpants",
+        "id": 37,
+        "taxonomy_id": "att000039_00"
+      },
+      {
+        "name": "leggings",
+        "id": 38,
+        "taxonomy_id": "att000040_00"
+      },
+      {
+        "name": "hip-huggers (pants)",
+        "id": 39,
+        "taxonomy_id": "att000041_00"
+      },
+      {
+        "name": "cargo (pants)",
+        "id": 40,
+        "taxonomy_id": "att000042_00"
+      },
+      {
+        "name": "culottes",
+        "id": 41,
+        "taxonomy_id": "att000043_00"
+      },
+      {
+        "name": "capri (pants)",
+        "id": 42,
+        "taxonomy_id": "att000044_00"
+      },
+      {
+        "name": "harem (pants)",
+        "id": 43,
+        "taxonomy_id": "att000045_00"
+      },
+      {
+        "name": "sailor (pants)",
+        "id": 44,
+        "taxonomy_id": "att000046_00"
+      },
+      {
+        "name": "jodhpur",
+        "id": 45,
+        "taxonomy_id": "att000047_00"
+      },
+      {
+        "name": "peg (pants)",
+        "id": 46,
+        "taxonomy_id": "att000048_00"
+      },
+      {
+        "name": "camo (pants)",
+        "id": 47,
+        "taxonomy_id": "att000049_00"
+      },
+      {
+        "name": "track (pants)",
+        "id": 48,
+        "taxonomy_id": "att000050_00"
+      },
+      {
+        "name": "crop (pants)",
+        "id": 49,
+        "taxonomy_id": "att000051_00"
+      },
+      {
+        "name": "short (shorts)",
+        "id": 50,
+        "taxonomy_id": "att000052_00"
+      },
+      {
+        "name": "booty (shorts)",
+        "id": 51,
+        "taxonomy_id": "att000053_00"
+      },
+      {
+        "name": "bermuda (shorts)",
+        "id": 52,
+        "taxonomy_id": "att000054_00"
+      },
+      {
+        "name": "cargo (shorts)",
+        "id": 53,
+        "taxonomy_id": "att000055_00"
+      },
+      {
+        "name": "trunks",
+        "id": 54,
+        "taxonomy_id": "att000056_00"
+      },
+      {
+        "name": "boardshorts",
+        "id": 55,
+        "taxonomy_id": "att000057_00"
+      },
+      {
+        "name": "skort",
+        "id": 56,
+        "taxonomy_id": "att000058_00"
+      },
+      {
+        "name": "roll-up (shorts)",
+        "id": 57,
+        "taxonomy_id": "att000059_00"
+      },
+      {
+        "name": "tie-up (shorts)",
+        "id": 58,
+        "taxonomy_id": "att000060_00"
+      },
+      {
+        "name": "culotte (shorts)",
+        "id": 59,
+        "taxonomy_id": "att000061_00"
+      },
+      {
+        "name": "lounge (shorts)",
+        "id": 60,
+        "taxonomy_id": "att000062_00"
+      },
+      {
+        "name": "bloomers",
+        "id": 61,
+        "taxonomy_id": "att000063_00"
+      },
+      {
+        "name": "tutu (skirt)",
+        "id": 62,
+        "taxonomy_id": "att000064_00"
+      },
+      {
+        "name": "kilt",
+        "id": 63,
+        "taxonomy_id": "att000065_00"
+      },
+      {
+        "name": "wrap (skirt)",
+        "id": 64,
+        "taxonomy_id": "att000066_00"
+      },
+      {
+        "name": "skater (skirt)",
+        "id": 65,
+        "taxonomy_id": "att000067_00"
+      },
+      {
+        "name": "cargo (skirt)",
+        "id": 66,
+        "taxonomy_id": "att000068_00"
+      },
+      {
+        "name": "hobble (skirt)",
+        "id": 67,
+        "taxonomy_id": "att000069_00"
+      },
+      {
+        "name": "sheath (skirt)",
+        "id": 68,
+        "taxonomy_id": "att000070_00"
+      },
+      {
+        "name": "ball gown (skirt)",
+        "id": 69,
+        "taxonomy_id": "att000071_00"
+      },
+      {
+        "name": "gypsy (skirt)",
+        "id": 70,
+        "taxonomy_id": "att000072_00"
+      },
+      {
+        "name": "rah-rah (skirt)",
+        "id": 71,
+        "taxonomy_id": "att000073_00"
+      },
+      {
+        "name": "prairie (skirt)",
+        "id": 72,
+        "taxonomy_id": "att000074_00"
+      },
+      {
+        "name": "flamenco (skirt)",
+        "id": 73,
+        "taxonomy_id": "att000075_00"
+      },
+      {
+        "name": "accordion (skirt)",
+        "id": 74,
+        "taxonomy_id": "att000076_00"
+      },
+      {
+        "name": "sarong (skirt)",
+        "id": 75,
+        "taxonomy_id": "att000077_00"
+      },
+      {
+        "name": "tulip (skirt)",
+        "id": 76,
+        "taxonomy_id": "att000078_00"
+      },
+      {
+        "name": "dirndl (skirt)",
+        "id": 77,
+        "taxonomy_id": "att000079_00"
+      },
+      {
+        "name": "godet (skirt)",
+        "id": 78,
+        "taxonomy_id": "att000080_00"
+      },
+      {
+        "name": "blanket (coat)",
+        "id": 79,
+        "taxonomy_id": "att000081_00"
+      },
+      {
+        "name": "parka",
+        "id": 80,
+        "taxonomy_id": "att000082_00"
+      },
+      {
+        "name": "trench (coat)",
+        "id": 81,
+        "taxonomy_id": "att000083_00"
+      },
+      {
+        "name": "pea (coat)",
+        "id": 82,
+        "taxonomy_id": "att000084_00"
+      },
+      {
+        "name": "shearling (coat)",
+        "id": 83,
+        "taxonomy_id": "att000085_00"
+      },
+      {
+        "name": "teddy bear (coat)",
+        "id": 84,
+        "taxonomy_id": "att000086_00"
+      },
+      {
+        "name": "puffer (coat)",
+        "id": 85,
+        "taxonomy_id": "att000087_00"
+      },
+      {
+        "name": "duster (coat)",
+        "id": 86,
+        "taxonomy_id": "att000088_00"
+      },
+      {
+        "name": "raincoat",
+        "id": 87,
+        "taxonomy_id": "att000089_00"
+      },
+      {
+        "name": "kimono",
+        "id": 88,
+        "taxonomy_id": "att000090_00"
+      },
+      {
+        "name": "robe",
+        "id": 89,
+        "taxonomy_id": "att000091_00"
+      },
+      {
+        "name": "dress (coat )",
+        "id": 90,
+        "taxonomy_id": "att000092_00"
+      },
+      {
+        "name": "duffle (coat)",
+        "id": 91,
+        "taxonomy_id": "att000093_00"
+      },
+      {
+        "name": "wrap (coat)",
+        "id": 92,
+        "taxonomy_id": "att000094_00"
+      },
+      {
+        "name": "military (coat)",
+        "id": 93,
+        "taxonomy_id": "att000095_00"
+      },
+      {
+        "name": "swing (coat)",
+        "id": 94,
+        "taxonomy_id": "att000096_00"
+      },
+      {
+        "name": "halter (dress)",
+        "id": 95,
+        "taxonomy_id": "att000097_00"
+      },
+      {
+        "name": "wrap (dress)",
+        "id": 96,
+        "taxonomy_id": "att000098_00"
+      },
+      {
+        "name": "chemise (dress)",
+        "id": 97,
+        "taxonomy_id": "att000099_00"
+      },
+      {
+        "name": "slip (dress)",
+        "id": 98,
+        "taxonomy_id": "att000100_00"
+      },
+      {
+        "name": "cheongsams",
+        "id": 99,
+        "taxonomy_id": "att000101_00"
+      },
+      {
+        "name": "jumper (dress)",
+        "id": 100,
+        "taxonomy_id": "att000102_00"
+      },
+      {
+        "name": "shift (dress)",
+        "id": 101,
+        "taxonomy_id": "att000103_00"
+      },
+      {
+        "name": "sheath (dress)",
+        "id": 102,
+        "taxonomy_id": "att000104_00"
+      },
+      {
+        "name": "shirt (dress)",
+        "id": 103,
+        "taxonomy_id": "att000105_00"
+      },
+      {
+        "name": "sundress",
+        "id": 104,
+        "taxonomy_id": "att000106_00"
+      },
+      {
+        "name": "kaftan",
+        "id": 105,
+        "taxonomy_id": "att000107_00"
+      },
+      {
+        "name": "bodycon (dress)",
+        "id": 106,
+        "taxonomy_id": "att000108_00"
+      },
+      {
+        "name": "nightgown",
+        "id": 107,
+        "taxonomy_id": "att000109_00"
+      },
+      {
+        "name": "gown",
+        "id": 108,
+        "taxonomy_id": "att000110_00"
+      },
+      {
+        "name": "sweater (dress)",
+        "id": 109,
+        "taxonomy_id": "att000111_00"
+      },
+      {
+        "name": "tea (dress)",
+        "id": 110,
+        "taxonomy_id": "att000112_00"
+      },
+      {
+        "name": "blouson (dress)",
+        "id": 111,
+        "taxonomy_id": "att000113_00"
+      },
+      {
+        "name": "tunic (dress)",
+        "id": 112,
+        "taxonomy_id": "att000114_00"
+      },
+      {
+        "name": "skater (dress)",
+        "id": 113,
+        "taxonomy_id": "att000115_00"
+      },
+      {
+        "name": "asymmetric (collar)",
+        "id": 161,
+        "taxonomy_id": "att000166_00"
+      },
+      {
+        "name": "regular (collar)",
+        "id": 162,
+        "taxonomy_id": "att000167_00"
+      },
+      {
+        "name": "shirt (collar)",
+        "id": 163,
+        "taxonomy_id": "att000168_00"
+      },
+      {
+        "name": "polo (collar)",
+        "id": 164,
+        "taxonomy_id": "att000169_00"
+      },
+      {
+        "name": "chelsea (collar)",
+        "id": 165,
+        "taxonomy_id": "att000170_00"
+      },
+      {
+        "name": "banded (collar)",
+        "id": 166,
+        "taxonomy_id": "att000171_00"
+      },
+      {
+        "name": "mandarin (collar)",
+        "id": 167,
+        "taxonomy_id": "att000172_00"
+      },
+      {
+        "name": "peter pan (collar)",
+        "id": 168,
+        "taxonomy_id": "att000173_00"
+      },
+      {
+        "name": "bow (collar)",
+        "id": 169,
+        "taxonomy_id": "att000174_00"
+      },
+      {
+        "name": "stand-away (collar)",
+        "id": 170,
+        "taxonomy_id": "att000175_00"
+      },
+      {
+        "name": "jabot (collar)",
+        "id": 171,
+        "taxonomy_id": "att000176_00"
+      },
+      {
+        "name": "sailor (collar)",
+        "id": 172,
+        "taxonomy_id": "att000177_00"
+      },
+      {
+        "name": "oversized (collar)",
+        "id": 173,
+        "taxonomy_id": "att000178_00"
+      },
+      {
+        "name": "notched (lapel)",
+        "id": 174,
+        "taxonomy_id": "att000179_00"
+      },
+      {
+        "name": "peak (lapel)",
+        "id": 175,
+        "taxonomy_id": "att000180_00"
+      },
+      {
+        "name": "shawl (lapel)",
+        "id": 176,
+        "taxonomy_id": "att000181_00"
+      },
+      {
+        "name": "napoleon (lapel)",
+        "id": 177,
+        "taxonomy_id": "att000182_00"
+      },
+      {
+        "name": "oversized (lapel)",
+        "id": 178,
+        "taxonomy_id": "att000183_00"
+      },
+      {
+        "name": "set-in sleeve",
+        "id": 204,
+        "taxonomy_id": "att000210_00"
+      },
+      {
+        "name": "dropped-shoulder sleeve",
+        "id": 205,
+        "taxonomy_id": "att000211_00"
+      },
+      {
+        "name": "raglan (sleeve)",
+        "id": 206,
+        "taxonomy_id": "att000212_00"
+      },
+      {
+        "name": "cap (sleeve)",
+        "id": 207,
+        "taxonomy_id": "att000213_00"
+      },
+      {
+        "name": "tulip (sleeve)",
+        "id": 208,
+        "taxonomy_id": "att000214_00"
+      },
+      {
+        "name": "puff (sleeve)",
+        "id": 209,
+        "taxonomy_id": "att000215_00"
+      },
+      {
+        "name": "bell (sleeve)",
+        "id": 210,
+        "taxonomy_id": "att000216_00"
+      },
+      {
+        "name": "circular flounce (sleeve)",
+        "id": 211,
+        "taxonomy_id": "att000217_00"
+      },
+      {
+        "name": "poet (sleeve)",
+        "id": 212,
+        "taxonomy_id": "att000218_00"
+      },
+      {
+        "name": "dolman (sleeve), batwing (sleeve)",
+        "id": 213,
+        "taxonomy_id": "combo000005"
+      },
+      {
+        "name": "bishop (sleeve)",
+        "id": 214,
+        "taxonomy_id": "att000221_00"
+      },
+      {
+        "name": "leg of mutton (sleeve)",
+        "id": 215,
+        "taxonomy_id": "att000222_00"
+      },
+      {
+        "name": "kimono (sleeve)",
+        "id": 216,
+        "taxonomy_id": "att000223_00"
+      },
+      {
+        "name": "cargo (pocket)",
+        "id": 217,
+        "taxonomy_id": "att000224_00"
+      },
+      {
+        "name": "patch (pocket)",
+        "id": 218,
+        "taxonomy_id": "att000225_00"
+      },
+      {
+        "name": "welt (pocket)",
+        "id": 219,
+        "taxonomy_id": "att000226_00"
+      },
+      {
+        "name": "kangaroo (pocket)",
+        "id": 220,
+        "taxonomy_id": "att000227_00"
+      },
+      {
+        "name": "seam (pocket)",
+        "id": 221,
+        "taxonomy_id": "att000228_00"
+      },
+      {
+        "name": "slash (pocket)",
+        "id": 222,
+        "taxonomy_id": "att000229_00"
+      },
+      {
+        "name": "curved (pocket)",
+        "id": 223,
+        "taxonomy_id": "att000230_00"
+      },
+      {
+        "name": "flap (pocket)",
+        "id": 224,
+        "taxonomy_id": "att000231_00"
+      }
+    ],
+    "non-textile material type": [
+      {
+        "name": "plastic",
+        "id": 281,
+        "taxonomy_id": "att000298_00"
+      },
+      {
+        "name": "rubber",
+        "id": 282,
+        "taxonomy_id": "att000299_00"
+      },
+      {
+        "name": "metal",
+        "id": 283,
+        "taxonomy_id": "att000300_00"
+      },
+      {
+        "name": "feather",
+        "id": 285,
+        "taxonomy_id": "att000302_00"
+      },
+      {
+        "name": "gem",
+        "id": 286,
+        "taxonomy_id": "att000303_00"
+      },
+      {
+        "name": "bone",
+        "id": 287,
+        "taxonomy_id": "att000304_00"
+      },
+      {
+        "name": "ivory",
+        "id": 288,
+        "taxonomy_id": "att000305_00"
+      },
+      {
+        "name": "fur",
+        "id": 289,
+        "taxonomy_id": "att000306_00"
+      },
+      {
+        "name": "wood",
+        "id": 294,
+        "taxonomy_id": "att000312_00"
+      },
+      {
+        "name": "no non-textile material",
+        "id": 295,
+        "taxonomy_id": "att000313_00"
+      }
+    ],
+    "opening type": [
+      {
+        "name": "single breasted",
+        "id": 225,
+        "taxonomy_id": "att000233_00"
+      },
+      {
+        "name": "double breasted",
+        "id": 226,
+        "taxonomy_id": "att000234_00"
+      },
+      {
+        "name": "lace up",
+        "id": 227,
+        "taxonomy_id": "att000235_00"
+      },
+      {
+        "name": "wrapping",
+        "id": 228,
+        "taxonomy_id": "att000236_00"
+      },
+      {
+        "name": "zip-up",
+        "id": 229,
+        "taxonomy_id": "att000237_00"
+      },
+      {
+        "name": "fly (opening)",
+        "id": 230,
+        "taxonomy_id": "att000238_00"
+      },
+      {
+        "name": "chained (opening)",
+        "id": 231,
+        "taxonomy_id": "att000239_00"
+      },
+      {
+        "name": "buckled (opening)",
+        "id": 232,
+        "taxonomy_id": "att000240_00"
+      },
+      {
+        "name": "toggled (opening)",
+        "id": 233,
+        "taxonomy_id": "att000241_00"
+      },
+      {
+        "name": "no opening",
+        "id": 234,
+        "taxonomy_id": "att000242_00"
+      }
+    ],
+    "silhouette": [
+      {
+        "name": "asymmetrical",
+        "id": 114,
+        "taxonomy_id": "att000117_00"
+      },
+      {
+        "name": "symmetrical",
+        "id": 115,
+        "taxonomy_id": "att000118_00"
+      },
+      {
+        "name": "peplum",
+        "id": 116,
+        "taxonomy_id": "att000119_00"
+      },
+      {
+        "name": "circle",
+        "id": 117,
+        "taxonomy_id": "att000120_00"
+      },
+      {
+        "name": "flare",
+        "id": 118,
+        "taxonomy_id": "att000121_00"
+      },
+      {
+        "name": "fit and flare",
+        "id": 119,
+        "taxonomy_id": "att000122_00"
+      },
+      {
+        "name": "trumpet",
+        "id": 120,
+        "taxonomy_id": "att000123_00"
+      },
+      {
+        "name": "mermaid",
+        "id": 121,
+        "taxonomy_id": "att000124_00"
+      },
+      {
+        "name": "balloon",
+        "id": 122,
+        "taxonomy_id": "att000125_00"
+      },
+      {
+        "name": "bell",
+        "id": 123,
+        "taxonomy_id": "att000126_00"
+      },
+      {
+        "name": "bell bottom",
+        "id": 124,
+        "taxonomy_id": "att000127_00"
+      },
+      {
+        "name": "bootcut",
+        "id": 125,
+        "taxonomy_id": "att000128_00"
+      },
+      {
+        "name": "peg",
+        "id": 126,
+        "taxonomy_id": "att000129_00"
+      },
+      {
+        "name": "pencil",
+        "id": 127,
+        "taxonomy_id": "att000130_00"
+      },
+      {
+        "name": "straight",
+        "id": 128,
+        "taxonomy_id": "att000131_00"
+      },
+      {
+        "name": "a-line",
+        "id": 129,
+        "taxonomy_id": "att000132_00"
+      },
+      {
+        "name": "tent",
+        "id": 130,
+        "taxonomy_id": "att000133_00"
+      },
+      {
+        "name": "baggy",
+        "id": 131,
+        "taxonomy_id": "att000134_00"
+      },
+      {
+        "name": "wide leg",
+        "id": 132,
+        "taxonomy_id": "att000135_00"
+      },
+      {
+        "name": "high low",
+        "id": 133,
+        "taxonomy_id": "att000136_00"
+      },
+      {
+        "name": "curved (fit)",
+        "id": 134,
+        "taxonomy_id": "att000137_00"
+      },
+      {
+        "name": "tight (fit)",
+        "id": 135,
+        "taxonomy_id": "att000138_00"
+      },
+      {
+        "name": "regular (fit)",
+        "id": 136,
+        "taxonomy_id": "att000139_00"
+      },
+      {
+        "name": "loose (fit)",
+        "id": 137,
+        "taxonomy_id": "att000140_00"
+      },
+      {
+        "name": "oversized",
+        "id": 138,
+        "taxonomy_id": "att000141_00"
+      }
+    ],
+    "textile finishing, manufacturing techniques": [
+      {
+        "name": "burnout",
+        "id": 296,
+        "taxonomy_id": "att000316_00"
+      },
+      {
+        "name": "distressed",
+        "id": 297,
+        "taxonomy_id": "att000317_00"
+      },
+      {
+        "name": "washed",
+        "id": 298,
+        "taxonomy_id": "att000318_00"
+      },
+      {
+        "name": "embossed",
+        "id": 299,
+        "taxonomy_id": "att000319_00"
+      },
+      {
+        "name": "frayed",
+        "id": 300,
+        "taxonomy_id": "att000320_00"
+      },
+      {
+        "name": "printed",
+        "id": 301,
+        "taxonomy_id": "att000321_00"
+      },
+      {
+        "name": "ruched",
+        "id": 302,
+        "taxonomy_id": "att000322_00"
+      },
+      {
+        "name": "quilted",
+        "id": 303,
+        "taxonomy_id": "att000323_00"
+      },
+      {
+        "name": "pleat",
+        "id": 304,
+        "taxonomy_id": "att000324_00"
+      },
+      {
+        "name": "gathering",
+        "id": 305,
+        "taxonomy_id": "att000325_00"
+      },
+      {
+        "name": "smocking",
+        "id": 306,
+        "taxonomy_id": "att000326_00"
+      },
+      {
+        "name": "tiered",
+        "id": 307,
+        "taxonomy_id": "att000327_00"
+      },
+      {
+        "name": "cutout",
+        "id": 308,
+        "taxonomy_id": "att000328_00"
+      },
+      {
+        "name": "slit",
+        "id": 309,
+        "taxonomy_id": "att000329_00"
+      },
+      {
+        "name": "perforated",
+        "id": 310,
+        "taxonomy_id": "att000330_00"
+      },
+      {
+        "name": "lining",
+        "id": 311,
+        "taxonomy_id": "att000331_00"
+      },
+      {
+        "name": "applique(a)",
+        "id": 312,
+        "taxonomy_id": "att000332_00"
+      },
+      {
+        "name": "bead(a)",
+        "id": 313,
+        "taxonomy_id": "att000333_00"
+      },
+      {
+        "name": "rivet(a)",
+        "id": 314,
+        "taxonomy_id": "att000334_00"
+      },
+      {
+        "name": "sequin(a)",
+        "id": 315,
+        "taxonomy_id": "att000335_00"
+      },
+      {
+        "name": "no special manufacturing technique",
+        "id": 316,
+        "taxonomy_id": "att000336_00"
+      }
+    ],
+    "textile pattern": [
+      {
+        "name": "plain (pattern)",
+        "id": 317,
+        "taxonomy_id": "att000338_00"
+      },
+      {
+        "name": "abstract",
+        "id": 318,
+        "taxonomy_id": "att000339_00"
+      },
+      {
+        "name": "cartoon",
+        "id": 319,
+        "taxonomy_id": "att000340_00"
+      },
+      {
+        "name": "letters, numbers",
+        "id": 320,
+        "taxonomy_id": "combo000009"
+      },
+      {
+        "name": "camouflage",
+        "id": 321,
+        "taxonomy_id": "att000343_00"
+      },
+      {
+        "name": "check",
+        "id": 322,
+        "taxonomy_id": "att000344_00"
+      },
+      {
+        "name": "dot",
+        "id": 323,
+        "taxonomy_id": "att000345_00"
+      },
+      {
+        "name": "fair isle",
+        "id": 324,
+        "taxonomy_id": "att000346_00"
+      },
+      {
+        "name": "floral",
+        "id": 325,
+        "taxonomy_id": "att000347_00"
+      },
+      {
+        "name": "geometric",
+        "id": 326,
+        "taxonomy_id": "att000348_00"
+      },
+      {
+        "name": "paisley",
+        "id": 327,
+        "taxonomy_id": "att000349_00"
+      },
+      {
+        "name": "stripe",
+        "id": 328,
+        "taxonomy_id": "att000350_00"
+      },
+      {
+        "name": "houndstooth (pattern)",
+        "id": 329,
+        "taxonomy_id": "att000351_00"
+      },
+      {
+        "name": "herringbone (pattern)",
+        "id": 330,
+        "taxonomy_id": "att000352_00"
+      },
+      {
+        "name": "chevron",
+        "id": 331,
+        "taxonomy_id": "att000353_00"
+      },
+      {
+        "name": "argyle",
+        "id": 332,
+        "taxonomy_id": "att000354_00"
+      },
+      {
+        "name": "toile de jouy",
+        "id": 339,
+        "taxonomy_id": "att000362_00"
+      },
+      {
+        "name": "plant",
+        "id": 340,
+        "taxonomy_id": "att000363_00"
+      }
+    ],
+    "waistline": [
+      {
+        "name": "empire waistline",
+        "id": 139,
+        "taxonomy_id": "att000143_00"
+      },
+      {
+        "name": "dropped waistline",
+        "id": 140,
+        "taxonomy_id": "att000144_00"
+      },
+      {
+        "name": "high waist",
+        "id": 141,
+        "taxonomy_id": "att000145_00"
+      },
+      {
+        "name": "normal waist",
+        "id": 142,
+        "taxonomy_id": "att000146_00"
+      },
+      {
+        "name": "low waist",
+        "id": 143,
+        "taxonomy_id": "att000147_00"
+      },
+      {
+        "name": "basque (wasitline)",
+        "id": 144,
+        "taxonomy_id": "att000148_00"
+      },
+      {
+        "name": "no waistline",
+        "id": 145,
+        "taxonomy_id": "att000149_00"
+      }
+    ]
+  },
+  "mapping_to_knowledge_base": {
+    "top, t-shirt, sweatshirt": "tank top / knit top (dartless knit tops; principle knit-tops-dartless)",
+    "shirt, blouse": "woven top (needs bust darts or opening, per Make Your Own Patterns notes)",
+    "vest": "sleeveless vest (armscye and strap rules in fitting book p. 76)",
+    "cardigan": "layer over a tank; layers-nest principle",
+    "skirt": "skirt length and width rules (fitting book pp. 84-85)",
+    "pants": "trouser rules (crotch, inseam, hip depth)",
+    "dress": "bodice and skirt rules together",
+    "sleeve": "sleeve cap and armscye rules (fitting book pp. 95-98, 314-329)",
+    "collar": "collar and neckline rules (fitting book pp. 60-61)",
+    "neckline": "neckline and neck-base rules (fitting book pp. 204-217)",
+    "pocket": "pocket placement rules (fitting book p. 61)",
+    "zipper": "closure rules (hinge clips, centre opening)"
+  },
+  "note": "Only names, ids and taxonomy ids are stored. The raw upload is not committed to the repo."
+}
