@@ -1512,13 +1512,113 @@
       "fabric_requirement": "Changing length above and below the crest of the bust requires raising the tip of the side dart and lengthening the front waist darts. The adjusted dart tips let the fabric shaping align with the bust contour.",
       "change_required": "Raise the tips of all the bust darts.",
       "methods": {
+        "slash": "Only the dart stitching line positions are affected. Use the pivot procedure.",
+        "seam": null,
+        "pivot": "Mark the position for the new underarm dart tips directly above those of the original darts. Release the side seams and the underarm darts. Form new dart centre folds between the new dart tip mark and the place where the original fold meets the side seamline. Stitch each new dart straight from the new tip to the original dartline marking at the side seamline. True the distorted side seamline in a straight line across the closed dart; draw from the original side seam markings at the armscye and waistline; stitch the side seams. Lengthen each waist dart by an amount equal to the adjustment at the underarm dart tip. Princess style: release the seamline across the bust area; let out the side panel seam allowance at the bust level enough to relax the fabric and restore the ease; take in the side panel below bust level to remove the excess; blend into the original seamline above and below the bust area; stitch."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "278-279"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bust-62-low-pendulous-bust-position",
+      "area": "bust",
+      "number": 62,
+      "name": "Low or pendulous bust position",
+      "figure_analysis": "When associated with the mature figure, the fullness of the breast tissues rests below the area of origin because the connective tissues have lost tone. For other figures, the bust contour is lower than average. Slumped posture emphasises and contributes to a lowered bust contour. The distance from the shoulders to the bustline is greater than average; the distance from the bustline to the waist is less. Properly fitted bras with adequate support minimise the variation.",
+      "fitting_analysis": [
+        "Fabric taut across the fullest area of the bust but loose above it, because fabric shaping is above the crest of the bust contour",
+        "Tight horizontal wrinkles pull across the waist dartlines; bust fitting line remains level"
+      ],
+      "fabric_requirement": "The change in length above and below the crest of the bust requires lowering the side darts and shortening the waistline darts so the fabric shaping aligns with the bust contour.",
+      "change_required": "Lower the side bust darts parallel to the original; lower the tips of the waistline darts.",
+      "methods": {
         "slash": "Only the dart stitching line positions are affected. Use the procedure indicated for the pivot method.",
+        "seam": null,
+        "pivot": "Mark the position for new underarm dart tips directly below those of the original darts. Release the side seams across the underarm darts; release the underarm darts. To form the new centre folds, begin at the new tip mark and fold the fabric parallel to the original folds. At the side seamlines, mark the dart width equal to the original width of the folded dart; stitch the new darts; true the distorted side seamline in a straight line across the closed dart; stitch the side seams. Release the waistline seam across the waistline darts; shorten each waistline dart by an amount equal to the adjustment at the underarm dart tips; retain the dart width; stitch the new darts; remove the original dart stitching; stitch the waistline seam. Princess style: release the seamline across the bust area; at bust level let out the side panel enough to relax the fabric and restore the ease; take in the side panel enough above bust level to remove the excess; blend smoothly into the original seamline above and below the bust area; stitch."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "280-281"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bust-63-wide-bust-point-span",
+      "area": "bust",
+      "number": 63,
+      "name": "Wide bust point span",
+      "figure_analysis": "The breast contours develop further from the sternum than average. This increases the span between the bust points and decreases the measurement from the bust points to the sides of the body.",
+      "fitting_analysis": [
+        "Waistline dart tips point toward the centre edges of the bust, so fabric shaping is too near centre front; horizontal wrinkles may form across centre front at bust level",
+        "Underarm dartlines extend onto the bust curvature instead of ending along the side edges; this causes tight vertical wrinkles across these darts",
+        "Bust fitting line remains level"
+      ],
+      "fabric_requirement": "The wider space between bust points needs waist dart tips to end farther from centre front. The figure may need the slope of the waist darts changed, or the entire dart moved farther from centre front. The narrow side areas need shorter underarm darts.",
+      "change_required": "Reposition the waistline darts to align the dart tips with the bust points; shorten the underarm darts.",
+      "methods": {
+        "slash": "Only the dart stitching line positions are affected. Use the procedure indicated for the pivot method.",
+        "seam": null,
+        "pivot": "Mark the new dart tip positions in the correct location toward the side of the original dart tips. Release the waist and side seamlines across the dart areas; release the waistline darts. For each waistline dart, form a new centre fold from the new tip mark to the place where the original centre fold meets the waistline; stitch the new darts from the tip to the waistline; the waistline edges will no longer be even. The entire dart position may be moved toward the side instead. Shorten the underarm darts: retain the original centre folds and stitch straight from the new tip mark to the original dart stitching lines at the side seam. True the side seamlines with a straight line across the closed darts; stitch the side seams and the waist seam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "282-283"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bust-64-prominent-bust",
+      "area": "bust",
+      "number": 64,
+      "name": "Prominent bust",
+      "figure_analysis": "The person assumes an erect stance with an upward, forward thrust to the rib cage. Breast tissues form a lifted, conical contour. The bust contour may be prominent regardless of cup size. If the cup size is a C or larger, the front measurements at bust level increase in length, width and depth.",
+      "fitting_analysis": [
+        "Fabric taut across the fullest area of the bust because fabric shaping is too low",
+        "If the cup size is C or larger, the front of the garment is too short and too narrow",
+        "Diagonal wrinkles radiate from the bust curves to the garment edges; buttoned front closures gap at bust level; bust fitting line rises across the centre front area",
+        "Lower edges of an unfastened front closure overlap; waist and hemlines on loosely fitted garments rise at centre front"
+      ],
+      "fabric_requirement": "The lift of the bust contour requires raising the front dart tip positions. Figures with a cup size larger than B need more width and length at bust level, which means wider, longer darts. The adjusted garment lies smooth but relaxed and aligns with the body; the lower edges become level and the closure edges lie plumb.",
+      "change_required": "Widen and lengthen the front at the bustline as necessary; lengthen the front darts.",
+      "methods": {
+        "slash": "To add width, slash the garment front from the armscye to the waistline near each side seam. Insert fabric strips. Separate each set of cut edges evenly to relax the fabric and restore the ease at the bustline. True the armscye seamline across the adjustment. Restore the armscye size with a dart in each lower armscye area; taper to nothing at the underarm dart tips. To add length, slash across the front just below the underarm dartlines, following the crosswise grain; insert fabric strips; between the waist dart tips, separate the cut edges evenly until the waistline becomes level; taper to nothing at the side seams; mark the new position for the waist dart tips if they require lengthening. To restore the waistline size, release the waistline from the dart to the side insert; remove the waist dart stitching; widen each dart at the side dartline to absorb the width adjustment at the side seam; move the dart tip toward the side by one half of this amount; stitch the new darts from the tip to the waistline. True the distorted seamline contour in the lower armscye area and across the waist dart areas; stitch the waistline.",
+        "seam": null,
+        "pivot": "Adjust for width first. Release the side seams. Let out the front seam allowances equally at the bustline as needed to relax the fabric and restore the ease over the bust. Mark the new side seamline position at each underarm dart. Widen the underarm darts equally until the fabric lies smooth but relaxed at the edge of the bust area; retain the original dart centre folds. Draw each new side seamline parallel to the original from the waistline through the armscye seam allowance; restore the length of the side seamline by measuring equal distances into the armscye and waistline seam allowances; mark the ends of the seamline at the waistline and armscyes. Draw new armscye seamlines from the original seamline at the arm hinge area to the end of the new side seamline. To restore the waistline size, release the front waistline and the waistline darts; widen each waist dart at the side dartline to absorb the width adjustment at the side seam; move the dart tip toward the side by one half the dart width adjustment; stitch the darts. Draw the new waistline parallel to the original at centre front and side seam areas, in a smooth curve across the darts; stitch the side seamlines and the waistline seam. Length is added by the slash method above."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "284-287"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bust-65-large-bust",
+      "area": "bust",
+      "number": 65,
+      "name": "Large bust",
+      "figure_analysis": "The bust development is larger than average (a B cup); the circumference at the bustline is greater. There is no relationship between muscle and frame size and bust development, but excess fatty tissue may accumulate in the breast tissues also.",
+      "fitting_analysis": [
+        "Fabric taut at the bustline, which draws attention to the amount of bust development",
+        "Diagonal wrinkles radiate from the bust curves to the garment edges and centre front; deep ripples form at the armscyes making them appear too large",
+        "Buttoned front closures gap at bust level; underarm dart pulls onto the bust curvature; front waist and hemlines raise the lower edges of unfastened closures; bust fitting line remains level"
+      ],
+      "fabric_requirement": "The larger bust circumference needs more fabric width at the bustline, so front darts become wider. The larger garment area and fuller shaping relax over the bust; lower edges become level and the centre front edges lie plumb. Armscye size does not increase even though the shape changes; the armscye size is set by the arm joint structure and rib cage depth.",
+      "change_required": "Widen the front at the bustline.",
+      "methods": {
+        "slash": "Near each side seam, slash the garment front from the armscye to the waistline. Insert fabric strips. To increase width, separate each set of cut edges evenly to relax the fabric and restore the ease at the bustline. Mark new underarm dart tip positions, if necessary. Restore the armscye size with a dart in each lower armscye area; taper to nothing at the new underarm dart tip positions; true the armscye across the adjustment.",
         "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "278 (pivot procedure on p. 279, not yet read)"
+        "pages": "288 (pivot continues on p. 289, not yet read)"
       },
       "status": "draft",
       "reviewer": null
