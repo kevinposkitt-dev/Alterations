@@ -1071,12 +1071,87 @@
       "methods": {
         "slash": "If sleeves are attached, see 73 Long Arm Joints (sleeves) and follow that procedure. If sleeves have not been attached, use the pivot method below.",
         "seam": null,
-        "pivot": null,
-        "pivot_note": "Pivot procedure is on p. 239, not yet read. Do not fill from cross-references."
+        "pivot": "Clip the seam allowance at ½ inch (1.2 cm) intervals across the underarm area to relieve strain. Mark a new seamline below the original that is a comfortable distance below the arm hinge. Across the side seams, draw a line parallel to the original armscye seamline. Blend into the original seamline at the arm hinge areas on front and back. Trim the excess fabric beyond the new seam allowance."
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "238 (pivot on p. 239 pending)"
+        "pages": "238-239"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-44-short-arm-joints-bodice",
+      "area": "arm",
+      "number": 44,
+      "name": "Short arm joints (bodice)",
+      "figure_analysis": "The bones forming the joint structure may be shorter than average, or the hinge flesh separating the arm from the rib cage may form nearer the joint than average. Either factor decreases the length from the shoulder to the scyeline.",
+      "fitting_analysis": [
+        "The seamline at the lower armscye is too far below the arm hinges",
+        "Lifting the arm pulls the sleeves tightly against the arm; the arms cannot be raised comfortably",
+        "Blade and chest fitting lines are not affected"
+      ],
+      "fabric_requirement": "A shorter shoulder joint area needs a shorter armscye. This raises the armscye seamline nearer the arm and lengthens the side seamline. The strain is relieved on the sleeve. The sleeve cap height must be shortened (see 74 Short Arm Joints, sleeves).",
+      "change_required": "Shorten the depth of the armscye.",
+      "methods": {
+        "slash": "If sleeves are attached, see 74 Short Arm Joints (sleeves) and follow that procedure. If sleeves have not been attached, use the pivot method below.",
+        "seam": null,
+        "pivot": "At the underarm, mark a new seamline above the original to lift the armscye to a comfortable position. Across the side seams, draw a line parallel to the original armscye seamline. Blend into the original seamline at the arm hinge areas on front and back."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "240-241"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-45-forward-arm-joints-bodice",
+      "area": "arm",
+      "number": 45,
+      "name": "Forward arm joints (bodice)",
+      "figure_analysis": "The collar bones bow forward more than average. This makes the arm joint more rounded in front and flatter at the back; the chest becomes narrower and the blade area broader. Thin muscles and smaller deposits of soft tissue cause indented areas next to the front edges of the arm joints.",
+      "fitting_analysis": [
+        "At the armscye, shoulder seams lie behind the shoulder tips",
+        "Garment front forms vertical folds against the arm joints",
+        "Back armscye seams pull toward the blade areas",
+        "Front sleeve caps are taut near the front of the shoulder crest and loose at the back"
+      ],
+      "fabric_requirement": "Forward curvature of the collar bones means the armscye ends of the shoulder seamlines move toward the front. This shortens the front armscye depth and lengthens the back armscye. The narrow chest needs less width in front of the armscyes; the broader upper back needs more width at the upper armscye areas. This variation also changes the contour of the sleeve cap (see 77 Forward Arm Joints, sleeves).",
+      "change_required": "Widen the blade area and raise the back shoulder seam at the armscye; narrow the chest area and lower the front shoulder seam at the armscye.",
+      "methods": {
+        "slash": "Release the sleeve above the arm hinge areas. Slash across the back armscye seam allowances at the arm hinge areas and cut diagonally toward the point of each neckline extension. Insert fabric strips. To increase armscye length, separate the cut edges at the armscye until the shoulderline is in the correct position. Across each front armscye seam allowance at the arm hinge areas, form a diagonal tuck to remove the excess fabric. Adjust the back and front changes until the shoulder seamlines divide the shoulder area evenly. Taper the tucks and slashes to nothing at the neckline extensions. Correct back armscye distortions with a new, straighter seamline from the shoulder tip to the arm hinge area. Correct the front distortion with a curved line through the centre of the distortion. Blend into the original seamline at the lower armscye. For the sleeve cap adjustment, see 77 Forward Arm Joints (sleeves).",
+        "seam": null,
+        "pivot": "Remove the sleeve cap above the arm hinge areas. Release the shoulder seams for the armscye to the neckline. Extend the seam allowance of the back shoulder toward the front. Turn under the front shoulder seam allowance at the armscye until the fold divides the shoulder and arm evenly; secure the fold to the back shoulder seam allowance. Clip the seam allowance of the front armscye at ½ inch (1.2 cm) intervals along the mid-chest area to relieve strain. Draw a new front armscye seamline even with the crease in the flesh at the arm hinge areas; blend into the original at the shoulder and lower armscye. Let out the back armscye seam allowance at the blade area to form a straighter line; blend into the original seamlines at the shoulder and arm hinge area. For the sleeve cap adjustment, see 77 Forward Arm Joints (sleeves)."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "242-243"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "neck-46-prominent-collar-bones",
+      "area": "neck",
+      "number": 46,
+      "name": "Prominent collar bones",
+      "figure_analysis": "The collar bone endings near centre front are larger than average. A bulged area forms at the base of the front neck.",
+      "fitting_analysis": [
+        "Centre front lines on a front closure do not meet",
+        "Fabric near the neckline is taut across centre front when the closure is forced to stay closed; extreme variation pulls the vertical fitting lines toward each other at the upper chest and makes the front armscye edges ripple",
+        "Neckline and chest fitting lines may rise at centre front"
+      ],
+      "fabric_requirement": "The enlarged bone structure below the throat needs more fabric width at the upper centre front. The wider garment area relieves strain and lets the neckline close comfortably and align with the base of the neck; fitting lines become plumb and level.",
+      "change_required": "Widen and lengthen the upper centre front area.",
+      "methods": {
+        "slash": "If the fitting garment has no centre front seam: slash along the centre front line from the neckline seam allowance to the waistline; insert a fabric strip; to increase width, spread the cut edges enough at the neckline to relieve strain and relax the vertical fitting lines; draw a new centre front line down the centre of the fabric insert.",
+        "seam": null,
+        "pivot": "If the garment has a centre front seamline: let out the seam allowances equally at the neckline to relieve strain and let the centre front lines meet; taper the new centre front lines to nothing at the waistline. If the garment has no centre front seamline: release the shoulder seams and the front of the armscyes from the shoulders down to the point where the strain no longer pulls the sleeve away from the armscye; fold the back shoulder seam allowance under along the shoulder seamline; lay the fold onto the extended front seam allowances, so the front neckline edges move toward the neck; clip as needed to remove strain at the neckline; restitch the shoulder seams; continue the back neckline and armscye seamlines into the original seamlines on the front at the chest area."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "246-247"
       },
       "status": "draft",
       "reviewer": null
