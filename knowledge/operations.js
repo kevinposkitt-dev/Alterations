@@ -42,3 +42,30 @@ export function allOk(results) {
 }
 
 export { frontBackSplitCheck };
+
+// Principle: pivot method. Rotate a set of points about a pivot point, so the
+// piece is re-hung without stretching its edges (lengths are preserved).
+export function pivotPoints(points, { pivot, angleDeg, select }) {
+  const a = (angleDeg * Math.PI) / 180;
+  const c = Math.cos(a), s = Math.sin(a);
+  return points.map((p, i) => {
+    if (!select(p, i)) return p;
+    const dx = p[0] - pivot[0], dy = p[1] - pivot[1];
+    return [pivot[0] + dx * c - dy * s, pivot[1] + dx * s + dy * c];
+  });
+}
+
+// Principle: slash and spread. Cut along a horizontal line and open it by a
+// set amount. Points below the slash move by the spread; points above stay.
+// Taper and blending are handled by a separate taper operation.
+export function slashAndSpread(points, { slashY, spreadCm, sideSign = 1 }) {
+  return points.map(([x, y]) => (y > slashY ? [x + sideSign * spreadCm, y] : [x, y]));
+}
+
+// Each operation's principle IDs, so a run can say which rules it relied on.
+export const OPERATION_PRINCIPLES = {
+  split_side_change: ['uneven-side-split'],
+  taper_side_seam: ['taper-to-nothing', 'armhole-drafted-from-points'],
+  pivot_points: ['taper-to-nothing'],
+  slash_and_spread: ['taper-to-nothing', 'side-seams-match'],
+};
