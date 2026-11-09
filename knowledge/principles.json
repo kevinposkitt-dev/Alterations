@@ -442,6 +442,21 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "choose-style-to-solve-fit",
+      "statement": "Some fit problems are solved by choosing or modifying the style, such as omitting a shoulder pad on a square shoulder, rather than altering the pattern.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "19"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
