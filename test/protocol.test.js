@@ -63,7 +63,7 @@ test('seamly_export reports a clear error when SEAMLY_BIN is unset', async () =>
   try {
     const result = await client.callTool({
       name: 'seamly_export',
-      arguments: { pattern: 'x.val', output: 'out.pdf', format: 'pdf' },
+      arguments: { pattern: 'x.sm2d', outputDir: 'out', basename: 'x', format: 'pdf' },
     });
     assert.equal(result.isError, true);
     assert.match(result.content[0].text, /SEAMLY_BIN is not set/);

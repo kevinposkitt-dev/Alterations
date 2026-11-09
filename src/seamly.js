@@ -1,18 +1,30 @@
-// Adapter for the Seamly2D command-line program.
+// Adapter for the Seamly2D command-line program (export mode).
 //
 // Seamly2D is a desktop app, installed separately on each machine. Its location
 // comes from the SEAMLY_BIN environment variable so the same code runs on a Mac
 // and on Windows.
 //
-// NOTE: the export arguments below are a placeholder. They must be confirmed
-// against the Seamly2D version installed on the test machine before the
-// integration test is trusted.
+// Flags come from `seamly2d --help` (Seamly2D on macOS):
+//   <pattern.sm2d>  pattern file (positional)
+//   -b <basename>   enables console export mode and sets the output file name
+//   -d <dir>        output folder
+//   -m <file.vit>   custom measurement file, so the pattern is re-measured
+//   -f <number>     output format number
 
 import { execFile } from 'node:child_process';
 import { access, constants } from 'node:fs/promises';
 import { promisify } from 'node:util';
 
 const execFileAsync = promisify(execFile);
+
+// Format numbers from the --help output.
+export const FORMATS = {
+  svg: 0,
+  pdf: 1,
+  'pdf-tiled': 2,
+  png: 3,
+  dxf: 13, // AutoCAD DXF R14 (flat)
+};
 
 export async function resolveSeamlyBinary(env = process.env) {
   const bin = env.SEAMLY_BIN;
@@ -27,13 +39,19 @@ export async function resolveSeamlyBinary(env = process.env) {
   return { ok: true, path: bin };
 }
 
-// UNVERIFIED: argument layout for exporting a pattern. Confirm with the real CLI.
-export function buildExportArgs({ patternPath, outputPath, format }) {
-  return [patternPath, '--export', format, '--output', outputPath];
+export function buildExportArgs({ patternPath, outputDir, basename, format, measurementPath }) {
+  if (!Object.prototype.hasOwnProperty.call(FORMATS, format)) {
+    throw new Error(`unsupported export format: ${format}`);
+  }
+  const args = [patternPath, '-b', basename, '-d', outputDir, '-f', String(FORMATS[format])];
+  if (measurementPath) {
+    args.push('-m', measurementPath);
+  }
+  return args;
 }
 
-export async function exportPattern({ bin, patternPath, outputPath, format, timeoutMs = 120_000 }) {
-  const args = buildExportArgs({ patternPath, outputPath, format });
+export async function exportPattern({ bin, timeoutMs = 120_000, ...options }) {
+  const args = buildExportArgs(options);
   try {
     const { stdout, stderr } = await execFileAsync(bin, args, { timeout: timeoutMs });
     return { ok: true, stdout, stderr };

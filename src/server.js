@@ -71,14 +71,18 @@ export function createServer({ workspace = process.env.SEWING_WORKSPACE || proce
   server.registerTool(
     'seamly_export',
     {
-      description: 'Export a Seamly2D pattern file (PDF or DXF) using the locally installed Seamly2D.',
+      description:
+        'Export a Seamly2D pattern (.sm2d) to PDF, DXF, SVG or PNG with the locally installed Seamly2D. ' +
+        'Optionally re-measure it with a SeamlyMe measurement file (.vit).',
       inputSchema: {
-        pattern: z.string().describe('Seamly2D pattern file, relative to the workspace'),
-        output: z.string().describe('Output file, relative to the workspace'),
-        format: z.enum(['pdf', 'dxf']).describe('Export format'),
+        pattern: z.string().describe('Seamly2D pattern file (.sm2d), relative to the workspace'),
+        outputDir: z.string().describe('Output folder, relative to the workspace'),
+        basename: z.string().regex(/^[\w-]+$/).describe('Output file name without extension'),
+        format: z.enum(['pdf', 'pdf-tiled', 'dxf', 'svg', 'png']).describe('Export format'),
+        measurements: z.string().optional().describe('Optional measurement file (.vit), relative to the workspace'),
       },
     },
-    async ({ pattern, output, format }) => {
+    async ({ pattern, outputDir, basename, format, measurements }) => {
       const found = await resolveSeamlyBinary(env);
       if (!found.ok) {
         return textResult(found.reason, true);
@@ -87,13 +91,15 @@ export function createServer({ workspace = process.env.SEWING_WORKSPACE || proce
         const result = await exportPattern({
           bin: found.path,
           patternPath: resolveInWorkspace(workspace, pattern),
-          outputPath: resolveInWorkspace(workspace, output),
+          outputDir: resolveInWorkspace(workspace, outputDir),
+          basename,
           format,
+          measurementPath: measurements ? resolveInWorkspace(workspace, measurements) : undefined,
         });
         if (!result.ok) {
           return textResult(`Seamly2D export failed: ${result.reason}\n${result.stderr}`, true);
         }
-        return textResult(`exported ${output}`);
+        return textResult(`exported to ${outputDir} (basename ${basename}, format ${format})`);
       } catch (err) {
         return textResult(err.message, true);
       }

@@ -6,7 +6,7 @@ MCP server that reads measurement sets and exports Seamly2D patterns. Status: ea
 
 - `list_measurements(file)`: names and units in a measurement JSON file.
 - `get_measurement(file, key)`: one value from that file.
-- `seamly_export(pattern, output, format)`: export a `.val` pattern to PDF or DXF using a local Seamly2D install.
+- `seamly_export(pattern, output, format)`: export a `.sm2d` pattern to PDF or DXF using a local Seamly2D install.
 
 Paths are relative to `SEWING_WORKSPACE` (default: current folder) and cannot leave it.
 
@@ -20,7 +20,7 @@ npm test                       # unit + protocol tests, no Seamly needed
 Seamly integration tests run only when Seamly2D is installed:
 
 ```bash
-SEAMLY_BIN="/path/to/Seamly2D" SEAMLY_TEST_PATTERN="/path/to/test.val" npm run test:seamly
+SEAMLY_BIN="/path/to/Seamly2D" SEAMLY_TEST_PATTERN="/path/to/test.sm2d" npm run test:seamly
 ```
 
 `SEAMLY_BIN` must point to the executable on that machine. The Seamly export arguments in
