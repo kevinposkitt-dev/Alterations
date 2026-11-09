@@ -2,7 +2,7 @@
   "book": "Make Your Own Patterns (René Bergh)",
   "schema": "Index of the MYOP text: sections with page ranges, short rule summaries, and principle ids. Summaries only; no book text. Source text: 60577b04-Make_Your_Own_Patterns.txt (5,490 lines, pages about 12-126).",
   "status": "in progress",
-  "read_to_line": 2125,
+  "read_to_line": 2604,
   "sections": [
     {
       "pages": "6-20",
@@ -214,8 +214,154 @@
       "principles": [
         "myop-off-shoulder-suits-slim"
       ]
+    },
+    {
+      "pages": "39",
+      "title": "Loose-fitting princess line",
+      "status": "read",
+      "summary": "A princess line can be made loose by moving the panel seams and rounding the side panel at the bust and at the back dart point. Seams are added to all panels.",
+      "principles": []
+    },
+    {
+      "pages": "41",
+      "title": "Necklines: introduction",
+      "status": "read",
+      "summary": "Neckline measurements must stay in proportion with the rest of the style. Necklines that go over the head (boat, V, scoop) need no opening, though this depends on the fit of the garment. A deep scoop is mostly used for vests.",
+      "principles": [
+        "myop-neckline-proportion"
+      ]
+    },
+    {
+      "pages": "42",
+      "title": "Boat, V and deep scoop necklines; facings",
+      "status": "read",
+      "summary": "Each neckline is marked from the armhole or neck and curved to the centre front. Scoop necklines are reduced for a closer fit, and a deep scoop is reduced at the centre front by about 1 cm to avoid gaping. A sleeveless armhole is narrowed at the shoulder and reshaped. Facings run parallel to the neckline, usually 4-6 cm wide, or the edge can be bound on the bias.",
+      "principles": [
+        "myop-scoop-neck-reduce-to-avoid-gaping"
+      ]
+    },
+    {
+      "pages": "44",
+      "title": "Crossover neckline with tucks",
+      "status": "read",
+      "summary": "A wrap top uses a curved neckline reduced at the centre front, with tucks taken from the side seam into the dart. Ties go through an opening in the side seam. The grain is best on the bias.",
+      "principles": []
+    },
+    {
+      "pages": "44",
+      "title": "Cowl with triple drape",
+      "status": "read",
+      "summary": "A soft cowl needs a knitted or very supple fabric. The V-neck is drafted in panels that are spread for drape. The centre front is extended slightly so the hem squares with it. Darts are shortened, and the centre front is cut on the fold with the grain on the bias. Pleats can be made from tucks on the shoulder seam for a deeper drape.",
+      "principles": [
+        "myop-cowl-needs-supple-fabric"
+      ]
+    },
+    {
+      "pages": "45",
+      "title": "Ties and jabot",
+      "status": "read",
+      "summary": "Ties are sized from the neck measure plus an allowance for the knot and length. A firm fabric suits a tie that keeps its shape; a soft flowing fabric suits a jabot, which is drafted on the fold because of its curve.",
+      "principles": [
+        "myop-tie-fabric-choice"
+      ]
+    },
+    {
+      "pages": "46",
+      "title": "Gathered frill",
+      "status": "read",
+      "summary": "A gathered frill at the neck is sized from the neck measure: the frill is about twice the length it is gathered onto. The softer the fabric, the fuller the frill must be. The centre back is left open for the zip.",
+      "principles": [
+        "myop-softer-fabric-fuller-frill"
+      ]
+    },
+    {
+      "pages": "47",
+      "title": "Flared frill",
+      "status": "read",
+      "summary": "A flared frill is cut as a circle by slashing from the outer edge toward the neck and spreading. Flared frills tend to twist, so the hem is kept narrow, bound, or faced; the centre seams are cut on the bias.",
+      "principles": []
+    },
+    {
+      "pages": "48",
+      "title": "Off-the-shoulder neckline",
+      "status": "read",
+      "summary": "A décolleté neckline can be finished with frills, thin straps, or be strapless. It suits the slimmer figure. The front is dropped and the centre front reduced; sleeveless armholes are narrowed at the shoulder and raised, as for other sleeveless armholes.",
+      "principles": [
+        "myop-off-shoulder-suits-slim"
+      ]
+    },
+    {
+      "pages": "48",
+      "title": "Frill at the off-shoulder neck: strap length method",
+      "status": "read",
+      "summary": "The frill is sized from the centre front, centre back and strap lengths added together, then multiplied by about 2 to 3 for the fullness wanted. The frill is elasticated so it can be worn on or off the shoulder.",
+      "principles": []
+    },
+    {
+      "pages": "49",
+      "title": "Wide V-neck and crossover frills; high neck frill",
+      "status": "read",
+      "summary": "A frill on a V-neck or crossover is sized from the neckline multiplied by 2 to 3, and may use a centre-back seam to save fabric. A high-neck frill is cut on the lengthwise fold to stand up, and is faced at the neck and buttonstand.",
+      "principles": []
+    },
+    {
+      "pages": "50",
+      "title": "Halter neck",
+      "status": "read",
+      "summary": "A halter is a band fixed at the front that runs around the neck, giving a backless effect. The front neck is dropped and the armhole reduced for a sleeveless shape, as for other halters. Waist darts are replaced by ease, and the centre front is cut on the fold.",
+      "principles": [
+        "myop-halter-replace-waist-darts"
+      ]
+    },
+    {
+      "pages": "51",
+      "title": "Collars: classification",
+      "status": "read",
+      "summary": "Collars fall into three groups: flat-fitting (rolls over from the neckline seam and ripples or lies flat), rolled (has a collarstand), and stand-up.",
+      "principles": []
+    },
+    {
+      "pages": "51",
+      "title": "Peter Pan and sailor collars",
+      "status": "read",
+      "summary": "A flat collar starts from overlapping the shoulder seams by about 1 cm so a small roll hides the neck seam, with the front neck dropped slightly. The collar is cut twice on the fold at the centre back. A sailor collar is set from a V-neck depth and width.",
+      "principles": [
+        "myop-flat-collar-shoulder-overlap"
+      ]
+    },
+    {
+      "pages": "53",
+      "title": "One-piece shirt collar",
+      "status": "read",
+      "summary": "An average one-piece collar is about 6-9 cm at the centre back; a wider collar forms a higher stand. The neckline is dropped slightly at the centre front and the collar drawn to suit it.",
+      "principles": []
+    },
+    {
+      "pages": "54",
+      "title": "Mandarin collar and two-piece shirt collar",
+      "status": "read",
+      "summary": "A mandarin collar needs a little extra neck ease, so the centre front is dropped by about 1 cm. Two-piece shirt collars use a separate collarstand; the buttonstand needs extra length for the button and buttonhole.",
+      "principles": [
+        "myop-collar-neck-ease"
+      ]
+    },
+    {
+      "pages": "55",
+      "title": "Notched collar",
+      "status": "read",
+      "summary": "A notched collar is a collar plus a separate revers (lapel), used mostly for jackets. The shoulder is extended for the collarstand, and a roll line is set and the pattern folded along it. The collar covers the back neck seam, so a back neck facing is optional; if used, shoulder widths must match.",
+      "principles": [
+        "myop-notched-collar-roll-line"
+      ]
+    },
+    {
+      "pages": "56",
+      "title": "Shawl collar",
+      "status": "read",
+      "summary": "A shawl collar can be cut with the front or separately, and can be rounded, pointed or notched. A notched shawl gives a similar look to a notched collar with fewer steps.",
+      "principles": []
     }
   ],
-  "principle_count": 26,
+  "principle_count": 36,
   "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
 }

@@ -3022,6 +3022,67 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-halter-replace-waist-darts",
+      "statement": "On a halter neck, waist darts can be replaced with ease, and the centre front cut on the fold.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "50"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-flat-collar-shoulder-overlap",
+      "statement": "A flat collar sits over the neck seam when the shoulder seams are overlapped slightly, producing a small roll.",
+      "applies_to": [
+        "collared"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "51"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-collar-neck-ease",
+      "statement": "A mandarin collar needs extra neck ease; dropping the centre front about 1 cm gives it.",
+      "applies_to": [
+        "collared"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "54"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-notched-collar-roll-line",
+      "statement": "A notched collar is built from a roll line; the shoulder and collarstand are set from it, and matched shoulder widths are needed if a back facing is used.",
+      "applies_to": [
+        "collared",
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "55"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
