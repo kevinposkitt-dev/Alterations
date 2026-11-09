@@ -766,13 +766,89 @@
       "fabric_requirement": "Larger leg circumference needs more fabric width below the hipline on the back and front of the trousers. Larger trouser legs let the upper trouser area lower to the correct position, and the bloused appearance disappears. The larger leg areas relax over the figure and hang free. Purchasing a larger size makes adjustment simpler; reduce the waistline instead (see 4 Small Waist).",
       "change_required": "Widen the back and front trouser legs.",
       "methods": {
-        "slash": "Near the midfront and midback of each trouser leg, cut along the lengthwise grain from the hem through the hipline. Insert fabric strips. From the hemline to the kneeline, spread the cut edges evenly to relax the fabric and restore the ease; taper to nothing at the hipline. On the pattern, one fourth of the increase should be added at each (continues on p. 199).",
+        "slash": "Near the midfront and midback of each trouser leg, cut along the lengthwise grain from the hem through the hipline. Insert fabric strips. From the hemline to the kneeline, spread the cut edges evenly to relax the fabric and restore the ease; taper to nothing at the hipline. On the pattern, one fourth of the increase should be added at each.",
+        "seam": null,
+        "pivot": "Release the crotch seam across the inseam allowances; release the inseams from crotch to kneeline; release the side seams from hem to hipline. From hemline to kneeline let out front and back side seam allowances evenly until the fabric relaxes and the ease is restored; blend the side seam adjustments into the original seamline at the hipline. Let out the inseam evenly to the knee and taper to the crotch, decreasing to one half the amount at the crotchline. Pattern note: add one fourth of the increase at each side seam and inseam to keep the trouser leg balanced."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "198-199"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-32-thin-legs",
+      "area": "leg",
+      "number": 32,
+      "name": "Thin legs",
+      "figure_analysis": "The leg bones may be smaller than average. The muscles and other soft tissues are firmer or less developed than average. The smaller development may occur along the entire leg or only over the upper or lower portion. The angularity of the ankle bone is usually quite apparent.",
+      "fitting_analysis": [
+        "Trousers primarily: the whole trouser leg area is loose and appears too large; fabric hangs in slight vertical folds",
+        "Looseness begins at the hipline but is most apparent from crotch to kneeline",
+        "Closely fitted trousers and straight or extremely full skirts emphasise the thinness of the lower leg"
+      ],
+      "fabric_requirement": "Smaller leg circumference needs less fabric width below the hipline on back and front of the trousers. Narrower leg areas lie closer to the leg and improve the proportion between garment and wearer.",
+      "change_required": "Narrow the back and front trouser legs.",
+      "methods": {
+        "slash": "Fitting garment only. Along each creaseline of both trouser legs, form a parallel tuck from the hem to the crotchline. Adjust the tuck widths as needed to remove the excess fabric; taper to nothing at the hipline. On the pattern, remove one fourth of the total decrease at each side seam and inseam to keep the legs balanced.",
+        "seam": null,
+        "pivot": "Release the crotch seam across the inseam allowances; release the inseams from crotch to kneeline. Along both side seams and inseams, take in the back and front trouser area evenly from hem to kneeline to remove the excess fabric. Blend the side seam adjustments into the original seamline at the hipline. Keep the inseam adjustment even to the knee, then taper to the crotchline. Remove the original stitching on the adjusted areas of the side seams and the remainder of the inseam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "200-201"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "neck-33-high-neck-base-at-sides",
+      "area": "neck",
+      "number": 33,
+      "name": "High neck base at sides",
+      "figure_analysis": "There is less than average angularity where the neck edges meet the shoulders. The heavier muscles and body tissues that fill this area create an illusion of sloping shoulders.",
+      "fitting_analysis": [
+        "Front neckline uncomfortably tight; diagonal wrinkles pull from the neckline toward the armscyes",
+        "A loose horizontal fold may form across the base of the neck",
+        "Back neckline may rise at centre back; strain makes the armscye edges ripple and look too large",
+        "Chest and blade fitting lines rise at body centres; a centre-front opening will not close properly at the neckline"
+      ],
+      "fabric_requirement": "Neck fullness needs longer front neckline extensions and more length at upper centre back. Back and front necklines should be widened. The larger garment area relieves tightness at the front neck and lets the back neckline and armscyes relax and align with the body; chest and blade lines become level.",
+      "change_required": "Lengthen the front neckline extensions and the upper centre back area; increase the neckline width.",
+      "methods": {
+        "slash": "Fitting garment only. Garment front: slash through the neck seam allowance near each shoulder seam, continuing across to each armscye seamline. Insert fabric strips and spread each set of cut edges equally at the neckline until the fabric relaxes. Garment back: slash across the upper blade area from shoulder tip to shoulder tip; insert a fabric strip; spread the cut edges evenly below the neckline until the tightness is relieved and both fitting lines are level; taper the adjustments to nothing at the armscyes; widen the neckline opening at the shoulder area as needed.",
+        "seam": null,
+        "pivot": "Release the shoulder seams. At the neckline, let out the front and back seam allowances equally to relieve tightness and straighten the chest and blade fitting lines; taper to nothing at the armscyes. Across centre back, raise the neckline seam by the amount of the change at the shoulders; blend into the original at the new shoulder seamline; widen the neckline opening at the shoulder area as needed."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "204-205"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "neck-34-shallow-neck-base-at-sides",
+      "area": "neck",
+      "number": 34,
+      "name": "Shallow neck base at sides",
+      "figure_analysis": "A definite angle is defined where the neck edges meet the shoulders. The shallowness, caused by lighter than average muscle development and smaller deposits of soft tissue, creates an illusion of square shoulders.",
+      "fitting_analysis": [
+        "Neckline loose at the shoulder area and may appear too low at centre front",
+        "A loose horizontal fold may sag across centre front and centre back near the neckline",
+        "Chest and blade fitting lines remain level"
+      ],
+      "fabric_requirement": "Shallow neck areas need shorter front neckline extensions and less length at upper centre back. Back and front neckline width may require adjustment. The smaller garment areas lie smoothly against the neck base at the back and front.",
+      "change_required": "Shorten the front neckline extensions and the upper centre back area; decrease the neckline width.",
+      "methods": {
+        "slash": "Fitting garment only. Garment front: form a tuck through the neck seam allowance near each shoulder seam. Keep the shoulderline in the correct position. Adjust the tuck widths until the excess fabric is removed at the neckline; taper to nothing at each armscye. Below the back neckline, form a parallel tuck across the centre back area; adjust its width until the fabric lies smoothly against the body; taper to nothing at each armscye. Narrow the neckline opening at the shoulderline as needed.",
         "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "198 (pattern note continues p. 199)"
+        "pages": "208 (pivot continues on p. 209)"
       },
       "status": "draft",
       "reviewer": null
