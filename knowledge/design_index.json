@@ -243,6 +243,58 @@
         "pockets"
       ],
       "status": "draft"
+    },
+    {
+      "category": "Fitting methods",
+      "term": "Pinned pattern: overlap seam allowances on matching stitch lines; never pin them outward or inward",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "71"
+      },
+      "affects": [
+        "pinned-pattern",
+        "ease"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Fitting methods",
+      "term": "Trial garment (muslin): plain-weave medium fabric; mark centre lines and crosswise lines; fit units simple to complex",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "74-78"
+      },
+      "affects": [
+        "trial-garment",
+        "grainline"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Fitting methods",
+      "term": "Fitting bands at scye, waist and fullest hip; centre marks on bands align to centre front and back",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "73"
+      },
+      "affects": [
+        "centre-lines",
+        "fit-order"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Fitting methods",
+      "term": "Judge total fit by moving through the motions the garment will be worn in",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "70"
+      },
+      "affects": [
+        "ease",
+        "fit-check"
+      ],
+      "status": "draft"
     }
   ]
 }

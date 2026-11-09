@@ -1136,6 +1136,306 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "fit-by-moving-through-motion",
+      "statement": "Evaluate the total fit by moving as the garment will be worn: stand, sit, walk, bend, stoop and raise the arms. The garment should return to a correct position without help.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "70"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "garment-change-mirrors-pattern-change",
+      "statement": "Alter the pattern with the same method used on the garment: slash, pivot, or seam (moving the seam allowance).",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "70"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "pinned-pattern-overlap-not-wings",
+      "statement": "In the pinned pattern method, do not pin seam allowances facing each other outward (the body looks larger) or turned toward the body (the pattern looks tighter). Overlap the allowances with stitching lines coinciding, or turn one under along the non-darted curve.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "71"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "paper-rigidity-reads-as-tight",
+      "statement": "Paper patterns are semi-rigid. A larger figure makes the pattern look tight and the edge ripple, rather than letting the grain bow as fabric does. Judge fabric fit with a fabric check, not paper alone.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "72"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "pinned-unit-fit-bands-at-marks",
+      "statement": "For each unit, place narrow fitting bands at the scye, waist and fullest hip, mark centre front and back on the bands, and pin the pattern's centre lines to those marks.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "73"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-pinned-on-relaxed-arm",
+      "statement": "Fit the sleeve last: keep the bodice pinned, slide the sleeve onto a relaxed arm, and match the cap to the armscye at the notches before pinning the top to the shoulder line.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "74"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "slash-nearest-affected-seamline",
+      "statement": "When cutting to adjust, slash as near the closest affected seamline as possible, and note the location and amount.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "74"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hemlines-coordinated-across-units",
+      "statement": "Evaluate hem position at an attractive place on the figure and coordinate hems on all pinned units so the proportions are related.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "74"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "dartline-stops-short-of-fullest",
+      "statement": "Dart lines should point toward the bulge and stop about 1 inch (2.5 cm) short of its fullest part, with centres on body centres and tissue smooth.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "74"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "reinforce-opened-slash-with-backing",
+      "statement": "Pin strips of tissue or lightly fuse backing under slashed-and-spread areas so the opening holds its shape.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "74"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trial-garment-plain-muslin",
+      "statement": "For learning to fit, use a plain-weave muslin of medium weight with balanced threads, pliable but firm enough to resist distortion.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "74-75"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trial-garment-basic-unadjusted-first",
+      "statement": "Cut the basic trial garment without adjustment to find body variations; the adjusted basic then becomes part of the pattern for every later garment.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "75"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trial-garment-mark-crosswise-lines",
+      "statement": "On a trial garment, mark all stitching lines, centre front and back, and crosswise lines at the hip, chest, blade and sleeve cap, so left and right amounts can be compared.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "75-76"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "baste-with-care-no-machine-push",
+      "statement": "Pin-baste for the first fit of simple styles and hand-baste complex ones. Do not let the machine push or feed the fabric; long threads and sharp needles keep the grain true.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "75"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "press-basted-garment-for-refitting",
+      "statement": "Press the basted trial garment and keep it together for later fittings.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "75"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trial-fabric-shows-grain-faults",
+      "statement": "On a trial garment, figure variations show as tilted, bowed, sagging or strained grain, which reveals what needs changing.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "77"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "trial-cut-apart-must-be-grain-aligned",
+      "statement": "If a trial garment is cut apart to make a pattern, align each piece on the grain before copying, or the copy will distort.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "77"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "block-fabric-on-grain-before-cutting",
+      "statement": "Block fabric so the yarns cross at 90 degrees, fold lengthwise, match edges and selvages at right angles, and press along the lengthwise grain. Pin the pattern on grain, cut smoothly, and transfer grain and fitting lines.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "77-78"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fit-unit-before-joining",
+      "statement": "Fit the simplest unit first, refine it, then join it to the next unit. Join pieces exactly on stitching lines and press darts and seams before crossing them.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "78"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "plan-centre-front-opening-for-fitting",
+      "statement": "If possible, plan a centre-front opening for fitting, so the garment can be put on and taken off without disturbing basting.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "78"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
