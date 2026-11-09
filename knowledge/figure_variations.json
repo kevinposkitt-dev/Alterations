@@ -1155,6 +1155,129 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "rib-47-prominent-sternum-rounded-chest",
+      "area": "rib cage",
+      "number": 47,
+      "name": "Prominent sternum / rounded chest",
+      "figure_analysis": "The upper portion of the sternum is larger than average and protrudes beyond the surface of the ribs. When a rounded chest is present, the chest wall curves outward along the upper centre front. Both reasons for fullness increase the length from the neck to the scyeline area; the width across the chest may increase.",
+      "fitting_analysis": [
+        "Fabric taut at the upper centre front, pulling into diagonal wrinkles from the armscyes to the neckline",
+        "Armscyes on a sleeveless dress may ripple at the edges of the chest",
+        "Chest fitting line rises at the centre"
+      ],
+      "fabric_requirement": "Fullness at the centre of the chest needs more fabric length at the upper centre front. The longer garment area relieves strain at the neckline; the fabric relaxes and the chest fitting line becomes level. More width may be needed at chest level. Armscyes relax and align with the body contours.",
+      "change_required": "Lengthen and widen the upper centre front.",
+      "methods": {
+        "slash": "Slash across the garment front from one armscye to the other, 2 inches (5 cm) below the neckline, following the crosswise grain. Insert a fabric strip. To increase length, spread the cut edges evenly until the chest fitting line is level; taper to nothing at each armscye. If the fabric is taut across the armscyes, follow the pivot method.",
+        "seam": null,
+        "pivot": "Release the shoulder seams. To increase length, let out the front shoulder seam allowances equally at the neckline until the chest fitting line is level; taper to nothing at each armscye. Raise the neck seamline across the centre front area to restore neckline circumference; blend into the original near each shoulder; restitch the shoulder seams. Check the armscye seamline positions: if they pull toward centre front, let out the armscye seam allowances equally across the chest area to form a straighter armscye line; taper into the original near each shoulder and arm hinge; attach the sleeves using the new armscye seamlines."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "250-251"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-48-hollow-chest",
+      "area": "rib cage",
+      "number": 48,
+      "name": "Hollow chest",
+      "figure_analysis": "The chest wall is flat or concave. Chest muscle development and soft tissue deposits are minimal. Arm joints appear larger than average; bust curvature appears smaller and lower. The length decreases from the neck to the scyeline area. The width across the chest contour may increase between the shoulder tips. A hollow chest is often combined with a rounded upper back (see 49).",
+      "fitting_analysis": [
+        "Fabric sags into diagonal wrinkles from the shoulder tips to the centre of the chest",
+        "Chest fitting line droops at the centre front"
+      ],
+      "fabric_requirement": "Shortness of the chest needs less fabric length at the upper centre front. This lets the garment lie smoothly against the chest, and the chest fitting line becomes level.",
+      "change_required": "Shorten the upper centre front area; widen the area at the shoulder tips.",
+      "methods": {
+        "slash": "Below the front neck area, form a parallel tuck wide enough to remove the excess fabric and lift the chest fitting line to a level position. Follow the crosswise grain. Taper to nothing at each armscye.",
+        "seam": null,
+        "pivot": "Release the shoulder seams. Clip the neck seam allowance across the centre front area. To decrease garment length, take up the front shoulders equally at the neckline until the chest fitting line is level; taper to nothing at each armscye. To restore the neckline, mark a new neckline position across the centre front area; blend into the original near the shoulders. Stitch the shoulder seams using the new front shoulder seamlines."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "252-253"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-49-rounded-upper-back",
+      "area": "rib cage",
+      "number": 49,
+      "name": "Rounded upper back",
+      "figure_analysis": "The upper portion of the spine curves outward more than average. The head may rest forward of the central body axis. The length increases from the neck to the mid-blade area. This variation is often combined with a hollow chest (see 48).",
+      "fitting_analysis": [
+        "Fabric taut at the back neckline; strain pulls the neckline below the centre of the neck vertebra",
+        "Diagonal wrinkles pull from the armscyes to the upper centre back",
+        "Strain pulls the blade fitting line and waistline up at their centres; front neckline may appear too tight"
+      ],
+      "fabric_requirement": "The outward contour of the spine needs more fabric length and more fabric shaping at the upper centre back. This relieves strain at the necklines; the blade fitting line and the waistline become level.",
+      "change_required": "Lengthen the upper centre back area.",
+      "methods": {
+        "slash": "Slash across the garment back from one shoulder tip to the other, following the crosswise grain. Insert a fabric strip. To increase garment length at the neckline, spread the cut edges evenly until the blade fitting line is level; taper to nothing at each armscye.",
+        "seam": null,
+        "pivot": "Release the shoulder seams. Let out the back shoulder seam allowances equally at the neckline until the blade fitting line is level; taper to nothing at the armscyes. This lengthens the shoulder seamline. Widen the shoulder darts to increase garment shaping and restore shoulder seamline length. Draw new shoulder seamlines in straight lines across the widened darts. Mark a new back-neck seamline above the original at centre back equal to the adjustment of the shoulder seamlines. Stitch the shoulder seams using the new back shoulder seamlines."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "254-255"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-50-erect-upper-back",
+      "area": "rib cage",
+      "number": 50,
+      "name": "Erect upper back",
+      "figure_analysis": "The upper portion of the spine curves less than average. The head may rest back of the central body axis. The length decreases from the neck to the mid-blade area. This may result from overly erect posture, and is often combined with a prominent bust or rounded chest (see 64 or 47).",
+      "fitting_analysis": [
+        "Fabric loose over the shoulder blades, sagging into horizontal folds across centre back",
+        "Blade fitting line droops at centre back"
+      ],
+      "fabric_requirement": "The straighter spine needs less fabric length and less shaping at the upper centre back. This lets the garment lie smoothly against the upper back, and the blade fitting line becomes level.",
+      "change_required": "Shorten the upper centre back area.",
+      "methods": {
+        "slash": "Form a parallel tuck wide enough to lift the blade fitting line to a level position. Follow the crosswise grain. Taper to nothing at each armscye.",
+        "seam": null,
+        "pivot": "Release the shoulder seams. Take up the shoulder area equally at the back neckline until the blade fitting line is level. Let out the shoulder darts to restore the shoulder seam length. Draw each new shoulder seamline in a straight line across the narrowed dart. Taper to nothing at the armscyes. Mark the lowered neck seamline across centre back equal to the adjustment at the shoulders; blend into the original near each shoulder; trim the excess width from the neckline contour; stitch the shoulder seams using the new back shoulder seamlines."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "256-257"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-51-prominent-shoulder-blades",
+      "area": "rib cage",
+      "number": 51,
+      "name": "Prominent shoulder blades",
+      "figure_analysis": "The shoulder blades are larger and protrude more than average. Upper back muscle development and soft tissue deposits may be minimal. The body is recessed along the upper area of the spine. The length and width increase from the centre of each shoulder seamline to the blade line and from armscye to armscye. Asymmetrical figures may have one prominent and one flat blade.",
+      "fitting_analysis": [
+        "Angularity of the shoulder blades pulls tight horizontal wrinkles into the fabric between the blades",
+        "Sleeveless armscyes ripple; diagonal wrinkles radiate toward the armscyes at each blade",
+        "Sleeve caps pull toward the back; blade fitting line rises"
+      ],
+      "fabric_requirement": "Fullness of the shoulder blades needs more fabric width and length and increases shaping. Wider darts result. This relieves strain and lets the armscyes and sleeves align over the arm joints; the blade fitting line becomes level. Armscye size and sleeve need no adjustment.",
+      "change_required": "Widen and lengthen the area over the blades.",
+      "methods": {
+        "slash": "Slash diagonally from each neckline extension to the corresponding armscye at the arm hinge area. Insert fabric strips. To increase width and length, spread the cut edges equally at the dart tips to relax the fabric and restore the ease; taper to nothing at the neckline and the armscyes.",
+        "seam": null,
+        "pivot": null
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "258 (pivot continues on p. 259)"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
