@@ -12,6 +12,8 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { loadMeasurementSet, getMeasurement } from './measurements.js';
 import { resolveSeamlyBinary, exportPattern } from './seamly.js';
+import { buildSmisXml } from './smis.js';
+import { mkdir, writeFile } from 'node:fs/promises';
 
 export function resolveInWorkspace(root, relPath) {
   const absRoot = path.resolve(root);
@@ -62,6 +64,31 @@ export function createServer({ workspace = process.env.SEWING_WORKSPACE || proce
         const set = await loadMeasurementSet(resolveInWorkspace(workspace, file));
         const lines = Object.entries(set.measurements).map(([k, v]) => `${k}: ${v} ${set.units}`);
         return textResult(`${set.name}\n${lines.join('\n')}`);
+      } catch (err) {
+        return textResult(err.message, true);
+      }
+    },
+  );
+
+  server.registerTool(
+    'create_measurement_file',
+    {
+      description:
+        'Write a SeamlyMe measurement file (.smis) from measurements given in chat. ' +
+        'Names are lowercase with underscores, e.g. width_bust.',
+      inputSchema: {
+        file: z.string().regex(/\.smis$/).describe('Output path ending in .smis, relative to the workspace'),
+        unit: z.enum(['cm', 'in']).describe('Measurement unit'),
+        measurements: z.record(z.string(), z.number()).describe('Map of measurement name to value'),
+      },
+    },
+    async ({ file, unit, measurements }) => {
+      try {
+        const target = resolveInWorkspace(workspace, file);
+        const xml = buildSmisXml({ unit, measurements });
+        await mkdir(path.dirname(target), { recursive: true });
+        await writeFile(target, xml, 'utf8');
+        return textResult(`wrote ${file} with ${Object.keys(measurements).length} measurements`);
       } catch (err) {
         return textResult(err.message, true);
       }
