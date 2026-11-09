@@ -1963,6 +1963,276 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "pattern-flat-no-puckers-after-change",
+      "statement": "A pattern must lie flat after any alteration, with no puckers, puffiness or wrinkles. If it does not, the change is wrong or the edge has not been trued.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "100"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "centre-edge-change-even-near-centre",
+      "statement": "When a centre line's length changes, keep the change even for about 3 to 4 inches (7.5 to 10 cm) from the centre so the centre line stays straight.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "100"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "dart-change-fold-closed-then-cut",
+      "statement": "When a dart changes in length, position or size, fold it closed and cut along the pattern edge. The dart base then takes its correct shape.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "100"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "slash-line-through-area-of-change",
+      "statement": "For the slash method, cut through the interior in the area that the body needs changed. An even change runs across the whole area; a change on one seamline runs to where the variation tapers; an interior-only change runs from one stitching line to another, through the dart centres.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "101"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "slash-hinge-clip-without-cutting-stitch",
+      "statement": "Clip across the seam allowance to create hinges, but do not cut the stitching line; the hinges let the pattern lie flat.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "101"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "alteration-move-even-slide-uneven-pivot",
+      "statement": "Move alterations by type: slide or overlap parallel for an even change; pivot the edge away from the interior to increase an uneven change, and onto the interior to decrease it.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "101-105"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "even-then-pivot-for-mixed-change",
+      "statement": "For a change that is both even and uneven, make the even part first, then pivot the remaining section until the edges align.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "101-105"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "slash-distortion-grows-with-distance",
+      "statement": "The slash method distorts more the further the cut is from the pattern edge, and uneven slashes distort dart size and edge shape. Plan the cut near the edge that needs change.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "100-101"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "seam-method-cut-near-stitch",
+      "statement": "In the seam method, free the seam allowance from the point where the variation starts, keep the interior uncut, and move the allowance to make the change.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "103-104"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "seam-method-pivot-at-change-points",
+      "statement": "In the seam method, place pivot points at the point of greatest variation, where the variation falls to nothing, where an even change becomes uneven, at the base of affected darts, and at affected corners.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "103"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "seam-method-preferred-for-many-changes",
+      "statement": "The seam method keeps the grainline, darts and tucks undisturbed, distorts least, and suits several variations on one piece.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "103"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "pivot-method-trace-and-retrace",
+      "statement": "In the pivot method, trace the affected area and edge, move the duplicate by its pivot points, then trace the new cutting line in a contrasting colour. Match the first trace to the original cutting line, then true the edges.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "105-107"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "pivot-method-contrast-cutting-line",
+      "statement": "When pivoting, draw the new cutting line in a colour that contrasts with the original, to avoid cutting the old line.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "105"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "asymmetric-each-half-tapers-to-centre",
+      "statement": "For asymmetric figures, alter each half of the pattern to its own needs. The changes taper into each other at centre back or centre front, so the centre line stays straight.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "107"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "dart-tips-level-both-sides",
+      "statement": "On both sides of a front or back pattern, keep the dart tips at the same height from the floor and at the same distance from centre, unless one breast or shoulder blade is significantly different.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "107"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "related-alterations-waist-hip",
+      "statement": "A waist height change may be needed when a high hip is added at the side seam, and a bodice side seam may need to shorten to match.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "107"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "illusion-of-symmetry-goal",
+      "statement": "For asymmetric figures, the aim is an illusion of symmetry, using style lines to camouflage changes that cannot be avoided.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "107"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "multiple-variations-prefer-seam-or-pivot",
+      "statement": "Several variations on one piece are best handled by the seam or pivot method, because slashes overlap and distort when combined.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "100-105"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

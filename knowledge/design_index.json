@@ -362,6 +362,58 @@
         "trousers"
       ],
       "status": "draft"
+    },
+    {
+      "category": "Alteration methods",
+      "term": "Slash: cut the interior, spread or overlap; uneven changes distort the edge and dart size",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "100-102"
+      },
+      "affects": [
+        "slash-method",
+        "darts"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Alteration methods",
+      "term": "Seam: free the seam allowance, pivot at change points, keep the interior uncut",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "103-104"
+      },
+      "affects": [
+        "seam-method",
+        "seam-allowance"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Alteration methods",
+      "term": "Pivot: trace the duplicate, move it by pivot points, retrace in a contrasting colour",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "105-107"
+      },
+      "affects": [
+        "pivot-method"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Alteration methods",
+      "term": "Asymmetric figures: alter each half; taper to centre; keep dart tips level on both sides",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "107"
+      },
+      "affects": [
+        "asymmetry",
+        "darts",
+        "centre-lines"
+      ],
+      "status": "draft"
     }
   ]
 }
