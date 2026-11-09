@@ -921,22 +921,69 @@
       "id": "arm-80-large-upper-arms",
       "name": "Large upper arms",
       "area": "arm",
-      "pages": "328 (pivot on p. 329, not yet read)",
+      "pages": "328-329",
       "has_slash": true,
-      "has_pivot": false,
-      "flags": [
-        "pages pending"
-      ],
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 81,
+      "id": "elbow-81-large-elbows",
+      "name": "Large elbows",
+      "area": "arm",
+      "pages": "330-331",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 82,
+      "id": "arm-82-large-forearms",
+      "name": "Large forearms",
+      "area": "arm",
+      "pages": "332-333",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 83,
+      "id": "arm-83-inward-rotation-of-elbow",
+      "name": "Inward rotation of the elbow",
+      "area": "arm",
+      "pages": "334-335",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 84,
+      "id": "wrist-84-large-wrists",
+      "name": "Large wrists",
+      "area": "arm",
+      "pages": "336-337",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 85,
+      "id": "wrist-85-small-wrists",
+      "name": "Small wrists",
+      "area": "arm",
+      "pages": "338-339",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
       "status": "draft"
     }
   ],
-  "figures_not_yet_recorded": [
-    81,
-    82,
-    83,
-    84,
-    85
-  ],
+  "figures_not_yet_recorded": [],
   "principle_count": 173,
   "principles": [
     {

@@ -1979,11 +1979,131 @@
       "methods": {
         "slash": "If the garment armscye was increased at the underarm or shoulder, adjust the upper sleeve width to correspond to this alteration before attaching sleeves to the garment; follow the pivot method. If the sleeves are attached and the armscye size is correct, adjust only the sleeve: release the top of the cap and slash from the cap edge to the elbow line over the affected area, following the lengthwise grain; insert fabric strips; separate the cut edges enough at the capline to relax the fabric and restore the ease; taper as needed at the top of the cap.",
         "seam": null,
-        "pivot": null
+        "pivot": "If the garment armscye was increased at the underarm or shoulder, adjust the sleeve width evenly before attaching. If the sleeves are attached and the armscye is correct, remove the sleeves, release the underarm seams from the cap to the elbow, and let out the underarm seam allowance to add circumference. To restore the armscye size, widen each side of the cap by a quarter of the total width increase and decrease the cap height by half of it."
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "328 (pivot on p. 329, not yet read)"
+        "pages": "328-329"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "elbow-81-large-elbows",
+      "area": "arm",
+      "number": 81,
+      "name": "Large elbows",
+      "figure_analysis": "The bone and ligament structures at the elbow are heavier than average, and soft tissue may gather there. If the elbow does not straighten as far as average when relaxed, the semi-bent joint keeps a larger circumference.",
+      "fitting_analysis": [
+        "The sleeve pulls taut around the elbow and limits bending",
+        "Diagonal wrinkles run toward the front of the sleeve; a horizontal wrinkle crosses the front at elbow level",
+        "The strain lifts the wristline, so the sleeve looks short and the wrist opening looks small"
+      ],
+      "fabric_requirement": "A larger elbow needs more width and length over the elbow. Longer, wider darts result. The added shaping and sleeve area relieve strain, and the wristline lowers to a comfortable level.",
+      "change_required": "Widen and lengthen the sleeve at the elbow.",
+      "methods": {
+        "slash": "Fold the arms against the front of the body and mark each elbow tip. On the back of the sleeve, slash from the armscye extension diagonally to the elbow mark and continue back to the wristline end. Insert fabric strips and separate the cut edges enough to relax the elbow and let the sleeve slide. Taper to nothing at the scyeline and the wristline.",
+        "seam": null,
+        "pivot": "Release the underarm seams and the darts on both sleeves. Let out the back seam allowance at elbow level enough to relax the fabric and restore the ease. Blend into the original at the capline and wristline. Extend the new back seamline into the wrist seam allowance to restore the length, and taper the new wristline into the original near the front."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "330-331"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-82-large-forearms",
+      "area": "arm",
+      "number": 82,
+      "name": "Large forearms",
+      "figure_analysis": "The bone, muscle and soft tissue of the forearm are larger than average, increasing its circumference.",
+      "fitting_analysis": [
+        "The lower sleeve pulls taut below the elbow and forms tight horizontal wrinkles",
+        "The strained fabric pulls the darted area down and stops the arm bending freely; the area above the elbow can wrinkle vertically"
+      ],
+      "fabric_requirement": "A larger forearm needs more width below the elbow. The added circumference relieves strain; the fabric slides along the arm, and the sleeve shaping lines up with the elbow point.",
+      "change_required": "Widen the lower sleeve.",
+      "methods": {
+        "slash": "Slash from the back quarter at the wristline up to the capline, parallel to the underarm seam. Insert fabric strips and separate the cut edges along the lower sleeve enough to let it slide over the arm. Taper to nothing at the capline.",
+        "seam": null,
+        "pivot": "Release the underarm seams and the darts on both sleeves. Let out the front and back seam allowances evenly along the forearm to restore the ease and let the sleeve slide over the arm. Taper to nothing at the capline. Narrow the darts, shorten the back seamline at the wrist to restore the length, and blend the new wristline into the original near the front."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "332-333"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-83-inward-rotation-of-elbow",
+      "area": "arm",
+      "number": 83,
+      "name": "Inward rotation of the elbow",
+      "figure_analysis": "When the arms hang relaxed with palms forward, the arm curves toward the body at the elbow more than average, and the hand sits farther from the body.",
+      "fitting_analysis": [
+        "A long sleeve twists when the arms are relaxed: the underarm seam moves toward the thumb side instead of the centre of the inside wrist",
+        "The sleeve pulls taut across the elbow; the finished edge lifts at the wristbone"
+      ],
+      "fabric_requirement": "The greater inward curve at the elbow needs more length and width over the elbow and a repositioned underarm seam at the wrist. This gives longer, wider elbow darts and more curved underarm seamlines.",
+      "change_required": "Lengthen and widen the elbow area; move the underarm seam toward the back at the wrist.",
+      "methods": {
+        "slash": "Mark the seam so it lines up with the centre of the inside wrist. Remove the sleeves and release the underarm stitching from the wrist past the darted area. At the elbow, slash across the sleeve from the back seam to the front seam and insert fabric strips. Spread the back seam by the amount needed at the front wristline, taper to nothing at the front edge, and open the back seam at the dart area until the fabric relaxes over the elbow. Increase the darts to restore the underarm length, then stitch the darts and underarm seams.",
+        "seam": null,
+        "pivot": "Mark the position so it aligns with the centre of the inside wrist. Remove the sleeves and release the underarm seam from the wrist past the darted area. At the wrist, let the front seam out by the marked amount and taper to nothing at the elbow. Increase the darts by the forward adjustment at the wrist, dividing the increase between them. Adjust the elbow width until the fabric relaxes over the joint. Restore the wrist circumference and the underarm length, close the darts, and draw the new hem from the elbow line; face the edge if there is too little hem width."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "334-335"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "wrist-84-large-wrists",
+      "area": "arm",
+      "number": 84,
+      "name": "Large wrists",
+      "figure_analysis": "The bone and ligament structures at the wrist are heavier than average, and soft tissue may concentrate there, increasing wrist circumference.",
+      "fitting_analysis": [
+        "The sleeve lacks ease at the wristline and pulls taut around the wrist",
+        "When the arm bends the sleeve slides up and binds; after straightening, the wristline stays too high"
+      ],
+      "fabric_requirement": "A larger wrist needs more fabric width at the wristline. To avoid enlarging the sleeve at the elbow, part of the elbow darting can move to the wristline and be released.",
+      "change_required": "Widen the sleeve at the wristline.",
+      "methods": {
+        "slash": "Mark the back quarter of the sleeve at the wristline. Slash from the wrist to the tips of the elbow dart and cut parallel to the underarm seam. Insert fabric strips and separate the cut edges at the wristline until the sleeve moves freely and the wristline lowers to the wristbone when the arm is straightened. Taper to nothing at the elbow mark.",
+        "seam": null,
+        "pivot": "Release the underarm seam from the wrist to the elbow line. Let out the back seam allowance at the wristline until the sleeve lowers and aligns with the wrist when the bent arm is straightened. Blend into the original at the elbow line. If the variation is extreme or a looser sleeve is wanted, see 82 Large Forearms."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "336-337"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "wrist-85-small-wrists",
+      "area": "arm",
+      "number": 85,
+      "name": "Small wrists",
+      "figure_analysis": "The bone and ligament structures at the wrist are lighter than average, with minimal soft tissue. This decreases wrist circumference.",
+      "fitting_analysis": [
+        "The wristline is too loose to look good; the wide wrist opening makes the sleeve look too narrow at elbow level"
+      ],
+      "fabric_requirement": "A smaller wrist needs less fabric width at the wristline. To avoid narrowing the sleeve at the elbow, some wristline width can move into the elbow darting; existing darts can widen or a new dart can be added.",
+      "change_required": "Narrow the sleeve at the wristline.",
+      "methods": {
+        "slash": "Form a tuck along the back quarter of the wristline and adjust its width to remove the looseness while keeping the ease. The sleeve should lower and align with the wrist when the arm is bent and straightened. Taper the tuck to nothing at the elbow tip. This increases the darting at the elbow.",
+        "seam": null,
+        "pivot": "Release the underarm seam from the wrist to the elbow line. Take up the back sleeve area at the wrist to remove the excess looseness, keeping the ease. Blend the new seamline into the original at the elbow area."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "338-339"
       },
       "status": "draft",
       "reviewer": null

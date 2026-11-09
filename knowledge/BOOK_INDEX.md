@@ -95,8 +95,13 @@ Summaries and page references only. Status: read / approx / pending.
 | 77 | Forward arm joints (sleeves) | shoulder | 322-323 |  |
 | 78 | Large arms | arm | 324-325 |  |
 | 79 | Thin arms | arm | 326-327 |  |
-| 80 | Large upper arms | arm | 328 (pivot on p. 329, not yet read) | pages pending |
+| 80 | Large upper arms | arm | 328-329 |  |
+| 81 | Large elbows | arm | 330-331 |  |
+| 82 | Large forearms | arm | 332-333 |  |
+| 83 | Inward rotation of the elbow | arm | 334-335 |  |
+| 84 | Large wrists | arm | 336-337 |  |
+| 85 | Small wrists | arm | 338-339 |  |
 
-Figures not yet recorded: 81, 82, 83, 84, 85
+Figures not yet recorded: none
 
 Principles recorded: 173 (see knowledge/principles.json for statements).
