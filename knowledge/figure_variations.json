@@ -844,11 +844,113 @@
       "methods": {
         "slash": "Fitting garment only. Garment front: form a tuck through the neck seam allowance near each shoulder seam. Keep the shoulderline in the correct position. Adjust the tuck widths until the excess fabric is removed at the neckline; taper to nothing at each armscye. Below the back neckline, form a parallel tuck across the centre back area; adjust its width until the fabric lies smoothly against the body; taper to nothing at each armscye. Narrow the neckline opening at the shoulderline as needed.",
         "seam": null,
+        "pivot": "Release the shoulder seams. At the neckline take up the back and front seam allowances equally to remove the excess fabric; taper to nothing at the armscyes. Across centre back, lower the neckline seam by the amount of the change at the shoulders; blend into the original at the new shoulder seamline. Narrow the neckline opening at the shoulderline as needed."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "208-209"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "neck-35-large-neck",
+      "area": "neck",
+      "number": 35,
+      "name": "Large neck",
+      "figure_analysis": "The neck circumference is larger than average, because the neck muscles are heavier and the neckbones and concentration of other soft tissues may be larger. The muscles and soft tissues may also lack tone.",
+      "fitting_analysis": [
+        "When the closure is forced shut, the back neckline rises; the front neckline tightens uncomfortably and a circular wrinkle forms below it",
+        "Front armscye edges may ripple and look too large; lower armscye areas on the front pull against the arm hinges and cause discomfort",
+        "Chest and blade fitting lines rise at the body centres"
+      ],
+      "fabric_requirement": "A larger neck circumference needs a neckline opening that is wider at the sides and lower at centre front. The larger opening relieves the tightness so the fabric lies smoothly against the neck; chest and blade fitting lines become level.",
+      "change_required": "Widen the back and front neckline; lower the front neckline.",
+      "methods": {
+        "slash": "Fitting garment only. Garment front: clip through the neckline seam allowance at ½ inch (1.2 cm) intervals across the centre front area; extend the cuts into the bodice area deep enough to relieve the tightness; continue clipping to the same depth around the entire front neckline. Clip the back neckline seam allowance as needed near each shoulder seam. Draw the new neck seamline along the line formed by the ends of the clips; blend the new line into the original near centre back. If only the front is tight, see 37 Forward Neck.",
+        "seam": null,
+        "pivot": "Proceed as stated in the slash method."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "212-213"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "neck-36-thin-neck",
+      "area": "neck",
+      "number": 36,
+      "name": "Thin neck",
+      "figure_analysis": "The neck circumference is smaller than average because the neck muscles are lighter, and the neck bones and concentration of other soft tissues may be smaller.",
+      "fitting_analysis": [
+        "The garment neckline area is smooth but does not reach the base of the neck at the sides or at centre front",
+        "Poor proportion between the larger neckline opening and the smallness of the neck",
+        "Chest and blade fitting lines remain level"
+      ],
+      "fabric_requirement": "A smaller neck circumference needs a neckline opening that is narrower at the sides and higher at centre front. The smaller opening aligns with the base of the neck and improves the proportion between opening and neck.",
+      "change_required": "Narrow the back and front neckline; raise the neckline as needed at the body contours.",
+      "methods": {
+        "slash": "Leave the neckline seam allowance extended toward the neck, or lay the front neckline over a fabric insert. Align the grain of both fabrics. Across centre front, raise the seamline by the desired amount. Continue marking the new neckline along the base of the neck. At the shoulderline, begin to blend the new line into the original near centre back.",
+        "seam": null,
+        "pivot": "Proceed as stated in the slash method."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "214-215"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "neck-37-forward-neck",
+      "area": "neck",
+      "number": 37,
+      "name": "Forward neck",
+      "figure_analysis": "The head may tilt forward more than average and rest in front of the central axis of the body. The forward thrust of the head sharpens the angle where the neck meets the chest. This increases front neck depth and lengthens the upper centre back area. Front neck depth also increases from prominent neck tendons or excess soft tissue.",
+      "fitting_analysis": [
+        "With a basic jewel neckline, strain tightens the front neckline and forms a fold of fabric below it",
+        "Shoulder lines pull forward at the edges of the neck",
+        "Back neckline tightens or may rise; blade fitting line rises across centre back; chest fitting line remains level",
+        "A neckline worn open or designed lower at centre front does not require alteration"
+      ],
+      "fabric_requirement": "The fuller front neck area needs a deeper front neckline. The length adjustments relieve the strain and let the fabric lie smoothly below the neckline, so it can align with the neck base; the blade fitting line becomes level.",
+      "change_required": "Lower the front neckline.",
+      "methods": {
+        "slash": "Garment front: clip through the neckline seam allowance at ½ inch (1.2 cm) intervals across the centre front area. Extend the cuts into the bodice area deep enough to relieve tightness and to let the shoulder seam align with the shoulder. Continue with shorter clips toward the shoulderline as needed. Draw the new front neck seamline along the line formed by the ends of the clips; blend into the original seamline near the shoulder.",
+        "seam": null,
+        "pivot": "Proceed as for the slash method."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "216-217"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "neck-38-dowager-hump",
+      "area": "neck",
+      "number": 38,
+      "name": "Dowager hump",
+      "figure_analysis": "An enlargement of the bone structure and other tissues develops high on the spine. The width and length of the upper centre back area increase. This creates the illusion of rounded shoulders and is usually accompanied by a forward head position and/or a hollow chest.",
+      "fitting_analysis": [
+        "The garment pulls taut across the back of the neck",
+        "Back armscye edges ripple and appear too large",
+        "The strain tightens the front neckline and causes a fold of fabric below it",
+        "Blade fitting line and back waistline rise at the body centres"
+      ],
+      "fabric_requirement": "Fullness over the spine needs more fabric length and width at the upper centre back. Neck darts are needed to shape the fabric. The longer, more shaped garment area relieves strain and lets back and front lie smoothly; chest and blade fitting lines and waistline become level.",
+      "change_required": "Lengthen and widen the upper centre back area.",
+      "methods": {
+        "slash": "Slash through the back neck seam allowance at both mid-back areas. Cut at a slight diagonal toward the blade fitting line, then continue over to the armscye seamlines. Insert fabric strips from each armscye to the blade line. Spread each set of cut edges evenly until the armscyes align with the body contour and the blade fitting line becomes level. Slash from one shoulder dart tip to the other following the crossgrain; insert a fabric strip; lift the neckline section evenly until the neckline rises to a comfortable and attractive position; taper to nothing at the dart tips. Near the neckline slashes, form darts of equal widths to remove the excess fabric and create the shaping for the body contour. (Continues on p. 219.)",
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "208 (pivot continues on p. 209)"
+        "pages": "218 (continues p. 219)"
       },
       "status": "draft",
       "reviewer": null
