@@ -2475,6 +2475,157 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "sloper-from-marked-fitting-sections",
+      "statement": "A sloper can be cut from the separated sections of an adjusted fitting garment. Mark seams, darts, centres and hems first, cut on the marks without stretching, and label each section with its changes.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "119-120"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sloper-sections-leave-small-gap",
+      "statement": "When sloper sections are separated, leave a gap of about 1/16 inch (2 mm) between them, and tape both sides of each join so the sloper folds without tearing.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "119"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sloper-darts-straight-lines",
+      "statement": "Cut dart interiors with straight lines on a sloper, because curved lines cannot be folded during design; curved darts can be stitched as curves later.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "119"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fashion-same-brand-same-adjustment",
+      "statement": "If a fashion pattern is the same brand, size and figure type as the basic, make the same adjustments to it, so the designer's fullness and design lines are kept.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "120"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fashion-neckline-may-cancel-alteration",
+      "statement": "A lowered or widened neckline can remove the need for a low-neck-base or high-neck-base change. Check the design edges before altering.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "120"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "lowered-armscye-check-cap-and-bust",
+      "statement": "If the armscye is lowered, check the sleeve cap and the bodice bust width for enough ease.",
+      "applies_to": [
+        "sleeved",
+        "sleeveless"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "120"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-tip-width-check-puff-sleeve",
+      "statement": "If the shoulder tip looks too narrow or too wide against the basic, check the design for puffed sleeves or an extended shoulder line before altering.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "120"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fashion-match-centre-and-waist",
+      "statement": "To compare fashion and basic, match bodices at centre front, centre back and natural waist; match skirts the same way; match sleeve cutting lines at the underarm extension and the sleeve centre.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "120"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "fashion-at-least-basic-size-areas",
+      "statement": "A fashion pattern must be at least as large as the basic in these areas: shoulder width and slope, chest and blade width, bust length and width, armhole depth and width, back and front waist lengths, waist, hip, crotch, thigh, skirt and trouser length, elbow dart position and long sleeve length.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "122"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "pretest-design-small-scale",
+      "statement": "Pretest a new design as a small-scale pattern and garment on a mannequin. A disappointing design is cheaper to correct at small scale.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "122"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

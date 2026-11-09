@@ -1,0 +1,57 @@
+{
+  "schema": "figure variation: id, area, number, name, figure_analysis, fitting_analysis (symptoms), fabric_requirement, change_required, methods {slash, seam, pivot} (each may be null), source {book, pages}, status, reviewer. Summaries in own words.",
+  "variations": [
+    {
+      "id": "hip-01-long-lower-torso",
+      "area": "hip",
+      "number": 1,
+      "name": "Long lower torso",
+      "figure_analysis": "Pelvic cradle is longer than average, so the distance from waist to fullest buttock is longer. Bone structure does not change the abdomen curve.",
+      "fitting_analysis": [
+        "Fabric loose above the hipline at the side seams and below the back dart tips",
+        "Skirt hip fitting line stays level",
+        "Trousers: hip fitting line bows downward across the centre because fabric binds at the crotch; fabric pulls into the crotch crease or forms diagonal wrinkles from crotch to hip bones and buttocks",
+        "Hem may ride too high"
+      ],
+      "fabric_requirement": "More length from waist to buttocks and longer back darts. Garment shaping must follow the body curve.",
+      "change_required": "Increase length above the hipline, or lower the curvature on the side seams.",
+      "methods": {
+        "slash": "Fitting garment only. Cut around the garment below the front dart tips, parallel to the waistline. Insert a strip and spread evenly until the shape follows the body. Adjust hem.",
+        "seam": null,
+        "pivot": "Release side seams from waist to hipline. Take in equal amounts at back and front above the hipline. Blend into the original seamline toward waist and hip. Mark longer back dart tips. For a fitting garment, mark the new hipline. Trousers: lower the crotch seamline by a parallel new stitching line across the inseam, blend near the hip, and trim the widened seam allowance. Adjust hem."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "126-127"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-02-short-lower-torso",
+      "area": "hip",
+      "number": 2,
+      "name": "Short lower torso",
+      "figure_analysis": "Pelvic cradle is shorter than average, so the distance from waist to fullest buttock is shorter. Bone structure does not change the abdomen curve.",
+      "fitting_analysis": [
+        "Fabric snug at the hipline along the side seams and across the back darts",
+        "Buttocks may lift the fabric into a horizontal fold across the back darts",
+        "Hip fitting line rises across centre back; side seams slant toward the back at the hem",
+        "Trousers: crotch seam sits below body level, inhibiting walking and straining the crotch stitching"
+      ],
+      "fabric_requirement": "Less length from waist to buttocks and shorter back darts. Garment shaping must follow the body curve so the hip line stays level.",
+      "change_required": "Shorten evenly above the hipline, or raise the curvature on the side seams.",
+      "methods": {
+        "slash": "Fitting garment only. Form a parallel tuck around the whole garment below the front dart tips. Adjust tuck width evenly until the shape follows the body. Adjust hem.",
+        "seam": null,
+        "pivot": null
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "128"
+      },
+      "status": "draft",
+      "reviewer": null
+    }
+  ]
+}

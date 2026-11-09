@@ -442,6 +442,20 @@
         "armscye"
       ],
       "status": "draft"
+    },
+    {
+      "category": "Figure variations",
+      "term": "Hip area catalogue begins: 1 long lower torso (longer back darts, length above hipline); 2 short lower torso (shorten above hipline or raise side curve)",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "125-128"
+      },
+      "affects": [
+        "hip",
+        "darts",
+        "hemline"
+      ],
+      "status": "draft"
     }
   ]
 }
