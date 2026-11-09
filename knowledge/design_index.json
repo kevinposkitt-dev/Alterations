@@ -414,6 +414,34 @@
         "centre-lines"
       ],
       "status": "draft"
+    },
+    {
+      "category": "Finished-pattern checks",
+      "term": "Right angles at hems and neck; straight centres; equal dart lengths; smooth joins at waist, neck, shoulder, armscye",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116-118"
+      },
+      "affects": [
+        "checks",
+        "joins",
+        "darts"
+      ],
+      "status": "draft"
+    },
+    {
+      "category": "Finished-pattern checks",
+      "term": "Allowances at joins: waist ¼ inch larger than waistband; sleeve underarm ⅛ to ⅜ inch larger; cap ¾ to 1 inch larger (metric conversion to confirm)",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116"
+      },
+      "affects": [
+        "sleeve",
+        "waistband",
+        "armscye"
+      ],
+      "status": "draft"
     }
   ]
 }

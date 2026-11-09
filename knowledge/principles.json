@@ -2233,6 +2233,248 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "dart-base-level-when-dart-changes",
+      "statement": "When a dart base changes, level the pattern across it so that corresponding dartline lengths stay equal.",
+      "applies_to": [
+        "darted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "109"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "asymmetric-blend-to-nothing-at-centre",
+      "statement": "Blend asymmetric alterations to nothing at the pattern centre, and keep waist dart tips the same height from the floor on both sides.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "110"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "personal-basic-pattern-record",
+      "statement": "A personalised basic pattern records one person's measurements, shape and minimum ease, and is used to compare and alter fashion patterns.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "111,116"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "alteration-order-even-uneven-combined",
+      "statement": "Make the length changes in this order: even, uneven, then combined. Make width changes in the same order.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "111"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hem-change-by-method",
+      "statement": "A hem length change is made by slashing below the hipline, by moving the hem allowance up to meet the alteration line, or by pivoting a new parallel hem. Keep centre lines straight and true the side seam across the hem.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "111-112"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "waist-dart-widths-keep-circumference",
+      "statement": "When the waistline has an even-then-uneven change, adjust the dart widths so the waist circumference stays the same. Taper the change to nothing at the termination point.",
+      "applies_to": [
+        "darted",
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "113"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-width-even-then-taper-to-nothing",
+      "statement": "When the hip width changes evenly then unevenly, spread evenly at the hip and taper to nothing at the termination point on the side seam, then true the hem corner.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "114-115"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "asymmetric-cut-larger-side-trim-smaller",
+      "statement": "When cutting an asymmetric garment, cut the duplicate pieces to the larger side and mark and trim the smaller side to its own pattern.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "115"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "finished-pattern-right-angles-at-hem-neck",
+      "statement": "On a finished pattern, centre back, centre front and side seams meet the hemlines at right angles, and necklines and waistlines meet the centre lines at right angles.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116-117"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "finished-pattern-centres-straight",
+      "statement": "The whole centre back and centre front edges must be straight, and the skirt side edges below the bulge must be straight.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116-117"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "finished-pattern-flare-matches-back-front",
+      "statement": "The flare on skirt side seams below the fullest bulge must be the same on back and front.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "finished-pattern-joins-smooth",
+      "statement": "Waistlines meet side seams, necklines meet shoulders, and armscyes meet the underarm and shoulder, each in a continuous smooth line.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116-118"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "waistband-allowance-quarter-inch",
+      "statement": "A skirt or trouser waist edge is about ¼ inch (6 mm) larger than the waistband it attaches to.",
+      "applies_to": [
+        "skirted",
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-underarm-space-eighth-to-three-eighths",
+      "statement": "The sleeve underarm seam spaces should be about ⅛ to ⅜ inch (3 to 9 mm) larger than the corresponding bodice armscye areas.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "sleeve-cap-larger-than-armscye",
+      "statement": "Back and front sleeve cap seams should each be about ¾ to 1 inch larger than the corresponding bodice armscye areas. The book's metric conversion does not match, so confirm before use.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "preserve-paper-pattern-dry-iron",
+      "statement": "Press paper patterns with a warm dry iron, because steam shrinks paper and excess heat shrinks backing; keep the iron off tape.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "116"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
