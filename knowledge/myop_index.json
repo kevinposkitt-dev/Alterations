@@ -2,16 +2,220 @@
   "book": "Make Your Own Patterns (René Bergh)",
   "schema": "Index of the MYOP text: sections with page ranges, short rule summaries, and principle ids. Summaries only; no book text. Source text: 60577b04-Make_Your_Own_Patterns.txt (5,490 lines, pages about 12-126).",
   "status": "in progress",
-  "read_to_line": 1196,
+  "read_to_line": 2125,
   "sections": [
-    {"pages": "6-20", "title": "Terms, draft conventions, measuring the body, dress bodice, back and front bodice steps, sleeve steps", "status": "read (see notes_make_your_own_patterns_part1.md)"},
-    {"pages": "20-22", "title": "Sleeve cap and sleeve crown drafting; sleeve crown alteration", "status": "read", "summary": "The sleeve cap is drafted from the armhole so the sleeve and armhole match. Check the sleeve fits the bodice armhole before notching. A flatter crown needs less ease than a high crown; about 1-2 cm of ease at the top of the crown is enough. A crown can be flattened by overlapping panels or raised by spreading them, and widening the armhole needs matching sleeve width.", "principles": ["myop-sleeve-fits-armhole-before-notching", "myop-sleeve-crown-ease"]},
-    {"pages": "23", "title": "Jacket", "status": "read", "summary": "Jackets need extra ease at bust, waist, hip, neck and arm so they can be worn over blouses or dresses. Build the jacket from the blouse hip foundation, or from the dartless shirt for a dartless jacket. Lowering the neck, dropping the armhole, adding shoulder width and bust and hip ease are the usual changes; a double-breasted front needs more overlap than a single-breasted one. A raised, widened sleeve crown with a wider sleeve hem follows the armhole change.", "principles": ["myop-jacket-extra-ease", "myop-double-breasted-overlap"]},
-    {"pages": "24", "title": "Darted blouse", "status": "read", "summary": "The darted blouse hip foundation is slim-fitting: about 10 cm of ease at the bust and 2.5 cm at the waist. The waist dart is made by pivoting from the bust point, and the back is lengthened and squared to match the bust width.", "principles": ["myop-darted-blouse-ease"]},
-    {"pages": "25", "title": "Dartless shirt", "status": "read", "summary": "The dartless shirt is drafted from the hip foundation by slashing from the neck and armhole to the bust point and closing the side dart. It works only for looser garments or knit fabric. The sleeve cap grows with the armhole.", "principles": ["myop-dartless-shirt-loose-only"]},
-    {"pages": "26-27", "title": "Skirt", "status": "read", "summary": "The skirt is built from the waist and hip measures with about 1.25 cm of ease at each, plus a sweep at the hem. A small optional centre-waist dart can replace the waistband ease. Cutting the skirt on the bias softens its fall. Hip fullness is best spread over several back darts rather than one.", "principles": ["myop-skirt-hip-and-waist-ease", "myop-skirt-bias-softens-fall", "myop-multiple-darts-spread-fullness"]},
-    {"pages": "28-29", "title": "Trousers", "status": "read", "summary": "Trousers start from the outside leg, the crotch depth plus about 2.5 cm of ease, and a hip measure with about 2 cm of ease. The waist is reduced to fit with darts; the reduction figures are guidelines to be checked against the actual waist. A slimmer leg is made by taking up the inside and outside seams in steps, more at the hem than at the knee.", "principles": ["myop-trouser-hip-and-crotch-ease", "myop-waist-reduction-guideline", "myop-trouser-leg-slimming"]}
+    {
+      "pages": "6-20",
+      "title": "Terms, draft conventions, measuring the body, dress bodice, back and front bodice steps, sleeve steps",
+      "status": "read (see notes_make_your_own_patterns_part1.md)"
+    },
+    {
+      "pages": "20-22",
+      "title": "Sleeve cap and sleeve crown drafting; sleeve crown alteration",
+      "status": "read",
+      "summary": "The sleeve cap is drafted from the armhole so the sleeve and armhole match. Check the sleeve fits the bodice armhole before notching. A flatter crown needs less ease than a high crown; about 1-2 cm of ease at the top of the crown is enough. A crown can be flattened by overlapping panels or raised by spreading them, and widening the armhole needs matching sleeve width.",
+      "principles": [
+        "myop-sleeve-fits-armhole-before-notching",
+        "myop-sleeve-crown-ease"
+      ]
+    },
+    {
+      "pages": "23",
+      "title": "Jacket",
+      "status": "read",
+      "summary": "Jackets need extra ease at bust, waist, hip, neck and arm so they can be worn over blouses or dresses. Build the jacket from the blouse hip foundation, or from the dartless shirt for a dartless jacket. Lowering the neck, dropping the armhole, adding shoulder width and bust and hip ease are the usual changes; a double-breasted front needs more overlap than a single-breasted one. A raised, widened sleeve crown with a wider sleeve hem follows the armhole change.",
+      "principles": [
+        "myop-jacket-extra-ease",
+        "myop-double-breasted-overlap"
+      ]
+    },
+    {
+      "pages": "24",
+      "title": "Darted blouse",
+      "status": "read",
+      "summary": "The darted blouse hip foundation is slim-fitting: about 10 cm of ease at the bust and 2.5 cm at the waist. The waist dart is made by pivoting from the bust point, and the back is lengthened and squared to match the bust width.",
+      "principles": [
+        "myop-darted-blouse-ease"
+      ]
+    },
+    {
+      "pages": "25",
+      "title": "Dartless shirt",
+      "status": "read",
+      "summary": "The dartless shirt is drafted from the hip foundation by slashing from the neck and armhole to the bust point and closing the side dart. It works only for looser garments or knit fabric. The sleeve cap grows with the armhole.",
+      "principles": [
+        "myop-dartless-shirt-loose-only"
+      ]
+    },
+    {
+      "pages": "26-27",
+      "title": "Skirt",
+      "status": "read",
+      "summary": "The skirt is built from the waist and hip measures with about 1.25 cm of ease at each, plus a sweep at the hem. A small optional centre-waist dart can replace the waistband ease. Cutting the skirt on the bias softens its fall. Hip fullness is best spread over several back darts rather than one.",
+      "principles": [
+        "myop-skirt-hip-and-waist-ease",
+        "myop-skirt-bias-softens-fall",
+        "myop-multiple-darts-spread-fullness"
+      ]
+    },
+    {
+      "pages": "28-29",
+      "title": "Trousers",
+      "status": "read",
+      "summary": "Trousers start from the outside leg, the crotch depth plus about 2.5 cm of ease, and a hip measure with about 2 cm of ease. The waist is reduced to fit with darts; the reduction figures are guidelines to be checked against the actual waist. A slimmer leg is made by taking up the inside and outside seams in steps, more at the hem than at the knee.",
+      "principles": [
+        "myop-trouser-hip-and-crotch-ease",
+        "myop-waist-reduction-guideline",
+        "myop-trouser-leg-slimming"
+      ]
+    },
+    {
+      "pages": "31",
+      "title": "Bodice details (introduction)",
+      "status": "read",
+      "summary": "Details in this chapter apply to blouses, shirts, dresses and jackets, whichever basic pattern is used. Yokes with gathers, tucks or pleats are the best way to add fullness; panelling gives a closer, slimmer fit.",
+      "principles": [
+        "myop-yoke-gathers-add-fullness"
+      ]
+    },
+    {
+      "pages": "32",
+      "title": "Double shoulder tucks",
+      "status": "read",
+      "summary": "The bust dart is moved into shoulder tucks, which keeps the fit of the basic pattern. More fullness needs a slash through to the hem and a spread. Stop each cut just short of its end so the pieces stay joined.",
+      "principles": [
+        "myop-bust-dart-to-tucks"
+      ]
+    },
+    {
+      "pages": "33",
+      "title": "Gathers at the neck",
+      "status": "read",
+      "summary": "The bust dart is moved into neck gathers. The gathered edge is normally about twice the length of the edge it fits; less gives a looser gather, more gives extra fullness. Neck shape changes are made before the dart is moved.",
+      "principles": [
+        "myop-gathered-edge-length-ratio"
+      ]
+    },
+    {
+      "pages": "34",
+      "title": "Bib-shaped yoke",
+      "status": "read",
+      "summary": "The waist dart is shifted to the yoke, keeping it parallel to the original dart. Cross-marks are made where panels meet so they can be matched when sewing.",
+      "principles": [
+        "myop-crossmark-panel-joins"
+      ]
+    },
+    {
+      "pages": "35",
+      "title": "V-crossover yoke",
+      "status": "read",
+      "summary": "A crossover yoke gives free movement across the chest. The neckline may be shortened slightly to avoid gaping. The yoke is cut as four pieces on the double.",
+      "principles": []
+    },
+    {
+      "pages": "36",
+      "title": "Yokes with gathers and shoulder yokes",
+      "status": "read",
+      "summary": "Gathers from a yoke soften the look, and the dart can be moved into them to keep the original fit. Yokes with checks are best cut on the bias; striped fabric on the cross grain. Gathers can be replaced with tucks.",
+      "principles": [
+        "myop-yoke-bias-for-checks"
+      ]
+    },
+    {
+      "pages": "37",
+      "title": "Round (hound) yoke",
+      "status": "read",
+      "summary": "A round yoke suits maternity styles because it allows fullness over the bust and stomach. The fuller the gathers, the softer the fabric should be.",
+      "principles": [
+        "myop-fuller-gathers-softer-fabric"
+      ]
+    },
+    {
+      "pages": "38",
+      "title": "Panelled bodice: straight and curved princess lines",
+      "status": "read",
+      "summary": "Princess lines slim the figure. The straight line suits dresses and tailored jackets; the curved line accentuates the bust more. For a closer fit, reshape the panels under the bust curve.",
+      "principles": [
+        "myop-princess-line-slims",
+        "myop-princess-panels-reshape-under-bust"
+      ]
+    },
+    {
+      "pages": "39",
+      "title": "Loose-fitting princess line",
+      "status": "read",
+      "summary": "A princess line can be made loose by moving the panel seams and rounding the side panel at the bust and at the back dart point. Seams are added to all panels.",
+      "principles": []
+    },
+    {
+      "pages": "41",
+      "title": "Necklines: introduction",
+      "status": "read",
+      "summary": "Neckline measurements must stay in proportion with the rest of the style. Necklines that go over the head (boat, V, scoop) need no opening, though this depends on the fit of the garment. A deep scoop is mostly used for vests.",
+      "principles": [
+        "myop-neckline-proportion"
+      ]
+    },
+    {
+      "pages": "42",
+      "title": "Boat, V and deep scoop necklines; facings",
+      "status": "read",
+      "summary": "Each neckline is marked from the armhole or neck and curved to the centre front. Scoop necklines are reduced for a closer fit, and a deep scoop is reduced at the centre front by about 1 cm to avoid gaping. A sleeveless armhole is narrowed at the shoulder and reshaped. Facings run parallel to the neckline, usually 4-6 cm wide, or the edge can be bound on the bias.",
+      "principles": [
+        "myop-scoop-neck-reduce-to-avoid-gaping"
+      ]
+    },
+    {
+      "pages": "44",
+      "title": "Crossover neckline with tucks",
+      "status": "read",
+      "summary": "A wrap top uses a curved neckline reduced at the centre front, with tucks taken from the side seam into the dart. Ties go through an opening in the side seam. The grain is best on the bias.",
+      "principles": []
+    },
+    {
+      "pages": "44",
+      "title": "Cowl with triple drape",
+      "status": "read",
+      "summary": "A soft cowl needs a knitted or very supple fabric. The V-neck is drafted in panels that are spread for drape. The centre front is extended slightly so the hem squares with it. Darts are shortened, and the centre front is cut on the fold with the grain on the bias. Pleats can be made from tucks on the shoulder seam for a deeper drape.",
+      "principles": [
+        "myop-cowl-needs-supple-fabric"
+      ]
+    },
+    {
+      "pages": "45",
+      "title": "Ties and jabot",
+      "status": "read",
+      "summary": "Ties are sized from the neck measure plus an allowance for the knot and length. A firm fabric suits a tie that keeps its shape; a soft flowing fabric suits a jabot, which is drafted on the fold because of its curve.",
+      "principles": [
+        "myop-tie-fabric-choice"
+      ]
+    },
+    {
+      "pages": "46",
+      "title": "Gathered frill",
+      "status": "read",
+      "summary": "A gathered frill at the neck is sized from the neck measure: the frill is about twice the length it is gathered onto. The softer the fabric, the fuller the frill must be. The centre back is left open for the zip.",
+      "principles": [
+        "myop-softer-fabric-fuller-frill"
+      ]
+    },
+    {
+      "pages": "47",
+      "title": "Flared frill",
+      "status": "read",
+      "summary": "A flared frill is cut as a circle by slashing from the outer edge toward the neck and spreading. Flared frills tend to twist, so the hem is kept narrow, bound, or faced; the centre seams are cut on the bias.",
+      "principles": []
+    },
+    {
+      "pages": "48",
+      "title": "Off-the-shoulder neckline",
+      "status": "read",
+      "summary": "A décolleté neckline can be finished with frills, thin straps, or be strapless. It suits the slimmer figure. The front is dropped and the centre front reduced; sleeveless armholes are narrowed at the shoulder and raised, as for other sleeveless armholes.",
+      "principles": [
+        "myop-off-shoulder-suits-slim"
+      ]
+    }
   ],
-  "principle_count": 12,
+  "principle_count": 26,
   "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
 }

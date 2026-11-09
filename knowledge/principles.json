@@ -2807,6 +2807,221 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-yoke-gathers-add-fullness",
+      "statement": "Gathers, tucks or pleats in a yoke are the best way to add fullness to a bodice; panelling gives a slimmer fit.",
+      "applies_to": [
+        "top",
+        "dress",
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "31"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-bust-dart-to-tucks",
+      "statement": "Moving the bust dart into shoulder tucks keeps the basic fit; more fullness needs a slash through to the hem and a spread. Stop cuts short of their ends so the pieces stay joined.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "32"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-gathered-edge-length-ratio",
+      "statement": "A gathered edge is normally about twice the length of the edge it fits; less gives a looser gather, more gives extra fullness.",
+      "applies_to": [
+        "top",
+        "dress"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "33"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-crossmark-panel-joins",
+      "statement": "Make cross-marks where panels meet, so the joins can be matched after the panels are separated or spread.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "34"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-yoke-bias-for-checks",
+      "statement": "Yokes in checked fabric look best cut on the bias; striped fabric is cut on the cross grain.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "36"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-fuller-gathers-softer-fabric",
+      "statement": "The fuller the gathers, the softer the fabric should be.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "37"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-princess-line-slims",
+      "statement": "Princess lines give a slimming effect; the straight line suits dresses and tailored jackets, and the curved line accentuates the bust more.",
+      "applies_to": [
+        "dress",
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "38"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-princess-panels-reshape-under-bust",
+      "statement": "For a closer fit on a princess-line garment, reshape the panels, especially under the bust curve.",
+      "applies_to": [
+        "dress",
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "38"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-neckline-proportion",
+      "statement": "A neckline must stay in proportion with the rest of the garment and with any collar or tie added to it.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "41"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-scoop-neck-reduce-to-avoid-gaping",
+      "statement": "Reduce a scoop neckline at the centre front by about 1 cm so it does not gape; scoops are reduced for a closer fit in general.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "42"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-cowl-needs-supple-fabric",
+      "statement": "A cowl neck drapes only in a knit or a supple woven fabric.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "44"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-tie-fabric-choice",
+      "statement": "A firm fabric suits a tie that keeps its shape; a soft fabric suits a jabot.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "45"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-softer-fabric-fuller-frill",
+      "statement": "The softer the fabric, the fuller a frill must be.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "46"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-off-shoulder-suits-slim",
+      "statement": "An off-the-shoulder neckline is best suited to a slimmer figure.",
+      "applies_to": [
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "48"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
