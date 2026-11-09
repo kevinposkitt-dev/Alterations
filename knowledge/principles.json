@@ -3613,6 +3613,51 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-shorts-thigh-comfort",
+      "statement": "Short shorts should fit across the thigh without constriction and end at a flattering point on the leg.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "109"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-quarter-scale-times-four",
+      "statement": "To scale a quarter-scale pattern up to full size, multiply each distance from the bust point by four.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "111"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-quarter-scale-add-seams",
+      "statement": "Quarter-scale patterns have no seams or hems; add these after the pattern is complete.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "111"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

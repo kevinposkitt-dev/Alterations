@@ -1,8 +1,8 @@
 {
   "book": "Make Your Own Patterns (René Bergh)",
   "schema": "Index of the MYOP text: sections with page ranges, short rule summaries, and principle ids. Summaries only; no book text. Source text: 60577b04-Make_Your_Own_Patterns.txt (5,490 lines, pages about 12-126).",
-  "status": "in progress",
-  "read_to_line": 5003,
+  "status": "complete (read to end of text, about p. 127)",
+  "read_to_line": 5490,
   "sections": [
     {
       "pages": "6-20",
@@ -615,8 +615,41 @@
       "principles": [
         "myop-track-pants-fullness-for-fleece"
       ]
+    },
+    {
+      "pages": "109",
+      "title": "Running shorts",
+      "status": "read",
+      "summary": "Running shorts start from the slim trouser front and back. The waist elastic width is doubled into the crotch and side seams, the side seam is straightened upward, and the thigh can be reduced by overlapping a slash. Shorts must sit comfortably across the thigh and end at a flattering point on the leg.",
+      "principles": [
+        "myop-shorts-thigh-comfort"
+      ]
+    },
+    {
+      "pages": "109",
+      "title": "Walking shorts",
+      "status": "read",
+      "summary": "Walking shorts are tailored, cut to the knee, with waist tucks. The trouser front and back are traced to the shorts length, the tucks are slashed from waist to hem and spread, and the pleated trouser steps are followed for the rest of the construction.",
+      "principles": []
+    },
+    {
+      "pages": "111-112",
+      "title": "Quarter-scale patterns: how to scale up",
+      "status": "read",
+      "summary": "The quarter-scale patterns are drawn at one quarter of full size, with ease included and no seams or hems. To scale up, mark scale lines from the bust point through points on the outline and multiply each distance from that point by four; the neck and armhole are divided into equal parts and scaled the same way. Darts are carried through to the new outline, and sleeves, trousers and skirts are scaled with the same method. The pieces are then altered to the wearer's own measurements.",
+      "principles": [
+        "myop-quarter-scale-times-four",
+        "myop-quarter-scale-add-seams"
+      ]
+    },
+    {
+      "pages": "113-126",
+      "title": "Quarter-scale pattern pieces (index of sheets)",
+      "status": "read",
+      "summary": "The quarter-scale sheets are: dress bodice back (114), dress sleeve (115), blouse front (116) and back (117), cuff (118), jacket top sleeve (119), jacket front (120) and back (121), skirt front (122) and back (123), dress front (124), and trouser front (126). Grain lines are marked on each sheet. Pieces are used as a starting point for the basic patterns in earlier chapters.",
+      "principles": []
     }
   ],
-  "principle_count": 65,
-  "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
+  "principle_count": 68,
+  "next": "Index complete. Next: trim pass across both indexes (fitting book and MYOP) before any further recording."
 }
