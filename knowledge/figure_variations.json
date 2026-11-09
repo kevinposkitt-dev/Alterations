@@ -1071,11 +1071,12 @@
       "methods": {
         "slash": "If sleeves are attached, see 73 Long Arm Joints (sleeves) and follow that procedure. If sleeves have not been attached, use the pivot method below.",
         "seam": null,
-        "pivot": "Pivot method (for sleeves not yet attached): see the pivot procedure in 42 Sloping Shoulders and 41 Square Shoulders for lowering or raising the armscye. Lower the armscye seamline under the arm to lengthen the armscye depth."
+        "pivot": null,
+        "pivot_note": "Pivot procedure is on p. 239, not yet read. Do not fill from cross-references."
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "238-239 (continues)"
+        "pages": "238 (pivot on p. 239 pending)"
       },
       "status": "draft",
       "reviewer": null
