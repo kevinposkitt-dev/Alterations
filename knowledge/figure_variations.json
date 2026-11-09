@@ -342,11 +342,110 @@
       "methods": {
         "slash": "Place one trouser leg inside the other so the garment is wrong side out; match and pin the inseams together from the crotch to the knee line. About 2 inches (5 cm) from the inseam, cut vertically through the back crotch extension and follow the grain to the inseams. Turn right side out and separate the legs. To increase width, lay each set of cut edges over a fabric insert and spread equally at the crotch to relax the fabric; taper to nothing at the inseams. On the trouser pattern, follow the same process but add one third of the adjustment at the front inseam and two thirds at the back inseam.",
         "seam": null,
-        "pivot": null
+        "pivot": "Release the crotch seam across the inseam allowances; release both inseams from crotch to kneeline. To increase width at the crotchline, let out the back inseam by two thirds of the needed amount; let out the new front inseam by one half of the back adjustment. Blend into the original seamline near the kneeline; restitch the crotch seam."
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "158"
+        "pages": "158-159"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-15-flattened-oval-torso-hip-area",
+      "area": "hip",
+      "number": 15,
+      "name": "Flattened oval-shaped torso (hip area)",
+      "figure_analysis": "The bone structure forming the pelvic cradle is more oval than average. The torso is wider from side to side and shallower from centre front to centre back.",
+      "fitting_analysis": [
+        "Usually affects the fit only of trousers",
+        "Fabric between the legs hangs in loose vertical folds; the excess is an annoyance and restricts walking and stooping"
+      ],
+      "fabric_requirement": "Shallower body profile needs narrower crotch extensions. The smaller garment area prevents bagginess between the legs.",
+      "change_required": "Narrow the back and front crotch extensions.",
+      "methods": {
+        "slash": "Release the seam along the back crotch curve. On each trouser leg, form a vertical tuck at the back crotch curve to remove the excess width, following the lengthwise grain and tapering to nothing at the inseam. On the trouser pattern, follow the same process but subtract one third of the adjustment at the front inseam and two thirds at the back inseam.",
+        "seam": null,
+        "pivot": "Release the crotch seam across the inseam allowances; release both inseams from crotch to kneeline. At the crotch, take in the back inseam area to remove two thirds of the excess fabric; take in the front inseam by one half of the back adjustment. Blend into the original seamline near the kneeline; trim the widened allowances; true the front crotch curve; restitch the crotch seam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "160-161"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-16-high-buttocks-contour",
+      "area": "hip",
+      "number": 16,
+      "name": "High buttocks contour",
+      "figure_analysis": "Muscle development across the centre back waist area is slight. The muscles forming the buttocks curve are taut and develop higher than average, so the buttocks contour is prominent where shallow and full areas meet abruptly. Distance decreases from the waist straight to the fullest part of the buttocks. When extreme, the depth increases from the fullest buttock to the central axis, so the hip fitting line drops at centre back.",
+      "fitting_analysis": [
+        "Skirts and trousers: fabric near the dart tips, or below the yoke, forms a loose horizontal fold across centre back; hip fitting line stays level",
+        "Extreme: trousers bind at the crotch and wrinkles slant from the buttocks toward the inseams"
+      ],
+      "fabric_requirement": "Shorter upper centre back needs less length above the hipline, so back darts shorten. Extreme variation needs a wider back crotch extension. A well-fitted girdle can minimise adjustment in most clothing.",
+      "change_required": "Shorten the upper centre back area; widen the back crotch extension if necessary.",
+      "methods": {
+        "slash": "On both skirts and trousers, form a parallel tuck across centre back just above the dart tips to remove the excess length; taper to nothing at the side seams. For an extreme variation, widen the back crotch extension: place one trouser leg inside the other wrong side out and match and pin the inseams from crotch to kneeline; about 2 inches (5 cm) from the inseam, cut vertically through the back crotch extension and follow the grain to the inseams; turn right side out and separate the legs; lay each set of cut edges over a fabric insert and spread equally at the crotch to relax the fabric and raise the hip fitting line to level; taper to nothing at the inseams.",
+        "seam": null,
+        "pivot": "Release the back waistline seam; lift the waistline evenly across centre back to remove the excess length; blend into the original seamline at the side seams; increase the back dart width to restore waist circumference; trim the widened waist seam allowance. For an extreme variation, let out the back crotch extensions: release stitching across the inseams and both inseams from crotch to kneeline; increase the width of the back extensions at the crotch as needed; blend into the original seamline at the knee."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "162-163"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-17-drooped-buttocks",
+      "area": "hip",
+      "number": 17,
+      "name": "Drooped buttocks",
+      "figure_analysis": "The buttocks contour is less prominent than average because the muscles and connective tissue lose their tone and the flaccid tissue droops. This increases the crotch length below the hipline.",
+      "fitting_analysis": [
+        "Trousers only",
+        "Fabric forms horizontal wrinkles below the buttocks and may pull into the crotch crevice",
+        "Waistline and hip fitting line drop across centre back"
+      ],
+      "fabric_requirement": "Lowered buttock contour needs a deeper back crotch curve, and a less curved front crotch seam so that a peak does not form at the inseam. The deeper back curve lets the fabric rise and lie smoothly under the buttocks.",
+      "change_required": "Deepen the curve on the back crotch seamline; flatten the curve on the front crotch seamline.",
+      "methods": {
+        "slash": "Pin a horizontal tuck at the wrinkled area to indicate the amount of adjustment.",
+        "seam": null,
+        "pivot": "Place one trouser leg inside the other wrong side out; match and pin the inseams from crotch to kneeline. Along the back crotch seam, mark the midpoint between the hipline and the inseam, and repeat for the front. Below this point on the back curve, mark ½ inch (1.2 cm) into the trouser area. At the midpoint on the front, mark into the seam allowance enough to form a smooth curve. Begin the new seam near the hipline at the back; stitch a smooth curve through the back adjustment mark and the original crotch-inseam intersection; continue through the front adjustment mark and slope back to the original seamline at the hipline. Clip the widened seam allowance. Try on and repeat until the fabric lies smooth under the buttocks; trim. If the back legs tighten across the inside thigh, see 14 Cylindrical-shaped Torso and let out only the back inseam allowance."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "164-165"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-18-large-buttocks",
+      "area": "hip",
+      "number": 18,
+      "name": "Large buttocks",
+      "figure_analysis": "The muscles and soft tissues forming the buttocks are more developed than average and may lack tone. Hip circumference increases; the distance from the fullest buttock to the central axis and to the waist increases.",
+      "fitting_analysis": [
+        "Basic garment pulls taut over the buttocks; fabric cups under the abdomen",
+        "Side seams curve toward the back at the hipline; diagonal wrinkles radiate from the buttocks to each side seam",
+        "Skirts: hip fitting line and hemline rise and the hem protrudes at centre back",
+        "Trousers: waistband and hip fitting line drop across centre back because fabric binds at the crotch"
+      ],
+      "fabric_requirement": "Larger tissue needs more fabric length at the upper centre back and more width across the buttocks; back darts become wider and longer. Trousers need a wider back crotch extension for the greater back profile depth. Adjustments relax the fabric; hip line and hemline become level; the waistband aligns with the body waist.",
+      "change_required": "Widen the back at the hipline; lengthen the upper centre back area; widen the back crotch extensions.",
+      "methods": {
+        "slash": "Release the back waistline seam near the side seams. Skirts: cut the back from the edge of the waistline seam allowance downward through the hem edge, following the lengthwise grain; trousers: cut from the waistline to the kneeline. Insert fabric strips. On skirts spread the cut edges evenly along the entire slash to increase width; on trousers spread them from waistline to crotchline, tapering to nothing at the kneeline. Increase back dart widths on both garments to restore waistline circumference. To widen the trouser back crotch extension, cut about 2 inches (5 cm) from the inseam through the back extension as described for high buttocks, and spread the edges at the crotch. To lengthen centre back, cut across the entire back just below the back dart tips, insert a strip, spread between the dart tips until the hip fitting line is level, taper near each side seam, and reposition and lengthen the back darts as needed.",
+        "seam": null,
+        "pivot": "Skirts: release the back waistline seam and side seams. Trousers: release the side seams and inseams to the kneeline. On either garment, increase width by letting out both back allowances of the side seams evenly at the hipline; let out an even amount from waist to hem on a skirt, or from waist to crotchline on trousers, and blend into the original seamline at the kneeline. Increase back dart widths to restore waistline circumference; lengthen darts if needed. To increase back crotch ease on trousers, release the crotch seam across the inseam allowances, release the inseam from crotch to kneeline, let out the back inseam allowances equally at the crotch to relieve strain, and blend above the knee. To lengthen centre back, let out the waist seam allowance evenly across centre back until the hip fitting line is level, and blend into the original seamline at each side seam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "166-168"
       },
       "status": "draft",
       "reviewer": null
