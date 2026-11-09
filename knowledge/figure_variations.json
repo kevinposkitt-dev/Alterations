@@ -524,6 +524,133 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "leg-22-long-legs",
+      "area": "leg",
+      "number": 22,
+      "name": "Long legs",
+      "figure_analysis": "The leg bones are longer than average. The additional length may occur above or below the knee, or be distributed equally.",
+      "fitting_analysis": [
+        "Hem position is too high on the leg for pleasing proportions",
+        "Closely fitted garments that flare near the knee: the flare origin may be too far above the knee",
+        "Long tapered trousers: hem circumference may look too small because it pulls taut against the leg",
+        "Hip fitting line remains level"
+      ],
+      "fabric_requirement": "Additional leg length needs longer fabric below the thighline. For closely fitted garments that flare or taper near the knee, the extra length may go above or below the kneeline or be distributed equally. Ruffles, kick pleats and similar details may need more length in the garment area, in the detail, or both.",
+      "change_required": "Lengthen skirt and trousers evenly below the thighline.",
+      "methods": {
+        "slash": "Fitting garment only. Cut around the entire skirt or both trouser legs below the thighline or above the design detail. Insert fabric strips. To increase length, separate the cut edges evenly. Observe the proportions of the body, garment and detail, and adjust each garment area to enhance the garment and wearer.",
+        "seam": null,
+        "pivot": "Release the hem and press it flat; mark the new hemline. If the resulting hem width is too narrow for the style, fabric or wearer, face the hem edge: narrow hems look skimpy and remodelled. Trousers may taper ½ inch (1.2 cm) higher at the front crease to prevent excess break above the instep; trim the hem to an even width after tapering. For closely fitted garments that begin to flare, mark the place on the side and inseams where the flare begins; stitch new seams from the original seamlines at the hem to the adjustment marks near the kneeline; blend into the original seamline in a slight curve. Skirt length may also be added by restyling with a yoke: lower the waistline and add a yoke wide enough to correct the total length. To adjust garment width at the yokeline, narrow and shorten the darts, convert them to ease, or eliminate them; adjust side seam allowances as necessary."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "180-181"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-23-short-legs",
+      "area": "leg",
+      "number": 23,
+      "name": "Short legs",
+      "figure_analysis": "The leg bones are shorter than average. The shorter length may occur above or below the knee, or be distributed equally.",
+      "fitting_analysis": [
+        "Hem position is too low on the leg for pleasing proportions",
+        "Trouser hems that touch the floor fray quickly, hide the feet and are dangerous",
+        "Closely fitted garments that flare near the knee: the flare origin may be too far below the knee for walking comfort or proportion",
+        "Hip fitting line remains level"
+      ],
+      "fabric_requirement": "Decreased leg length needs shorter fabric below the thighline. For closely fitted garments that flare near the knee, the length may need reducing above or below the kneeline or distributed equally. Ruffles, kick pleats and similar details may need less length in the garment area, the detail, or both.",
+      "change_required": "Shorten the skirt or trousers evenly below the thighline.",
+      "methods": {
+        "slash": "Form a parallel tuck around the garment below the thighline or above the design detail, to adjust for the total appropriate length. Observe the proportions of the body, garment and detail for a fashion garment, and adjust each garment area to enhance the garment and wearer.",
+        "seam": null,
+        "pivot": "Release the hem and press it flat; mark the new hemline. Check the resulting hem width and remove the excess: hems that are too wide for the fabric, style or wearer look bulky and heavy. Trousers may taper upward ½ inch (1.2 cm) at the front crease to prevent excess break above the instep; trim the hem to an even width after tapering. For closely fitted garments that begin to flare or taper above the knee, mark the place on the side and inseams where the flare begins, for both fit and walking comfort; stitch new seams from the original seamlines at the new hemline to the adjustment marks near the kneeline; blend into the original seamline in a slight curve. If a style detail is at the skirt hem, reduce length at the waistline instead: release the waist seam and lift the garment evenly until the hem position is correct; restore waist circumference by forming new darts, widening and lengthening the original darts, or converting the extra width to gathers or tucks; adjust side seams to remove excess fullness."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "182-183"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-24-large-thighs-at-inside",
+      "area": "leg",
+      "number": 24,
+      "name": "Large thighs at inside",
+      "figure_analysis": "The muscles and soft tissues forming the inner thigh contour are more developed than average. The inner surfaces of the legs may touch when the wearer stands, and rub together as the person walks.",
+      "fitting_analysis": [
+        "Trousers only",
+        "Fabric taut across the upper inseam and may rise to form tight horizontal wrinkles below the crotch",
+        "When walking, the fabric on the back leg pulls forward between the legs"
+      ],
+      "fabric_requirement": "Fuller thighs need a wider front crotch extension and a straighter front inseam from crotch to knee. Excessive wear occurs on the fabric at the inseam area; stable, closely woven fabrics are more durable and comfortable. Use a shorter stitch or double stitching on the crotch and upper inseams.",
+      "change_required": "Widen the front crotch extensions.",
+      "methods": {
+        "slash": "Place one trouser leg inside the other wrong side out; match and pin the inseams from crotch to kneeline. About 1 inch (2.5 cm) from the inseam, cut vertically through the front extension and follow the lengthwise grain to the inseams. Turn right side out and separate the legs. Lay each slashed area over a fabric insert; spread equally at the crotch as needed to relax the fabric; taper to nothing at the knee. If the seamline along the upper inseam forms a curve, draw a new, straighter inseam seamline beginning at the crotch/inseam intersection and tapering to nothing at the knee.",
+        "seam": null,
+        "pivot": "Release the crotch seamline across the inseam allowances; release the inseams from crotch to kneeline. To increase width at the crotch, let out the front inseam allowances equally to relieve the strain. Form the new inseam seamline as a rather straight line. Blend into the original seamline above the kneeline. Check for fit and comfort; repeat for the back crotch extension if necessary."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "184-185"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-25-shallow-thighs-at-inside",
+      "area": "leg",
+      "number": 25,
+      "name": "Shallow thighs at inside",
+      "figure_analysis": "The muscles and soft tissues forming the inner thigh contour are less developed than average. When the person stands, there is a definite, visible space between the legs from the crotch nearly to the knee.",
+      "fitting_analysis": [
+        "Trousers only",
+        "Fabric loose along the upper inseam and hangs in loose vertical folds"
+      ],
+      "fabric_requirement": "A flatter inner thigh needs a narrower front crotch extension, which produces a more vertical inseam.",
+      "change_required": "Narrow the front crotch extensions.",
+      "methods": {
+        "slash": "Release the seam along the front crotch curve. To remove the excess fabric width, form a vertical tuck on each crotch extension about 1 inch (2.5 cm) from the inseam. Follow the lengthwise grain, tapering the tuck to nothing at the inseams just above the knee.",
+        "seam": null,
+        "pivot": "Release the crotch seamline across the inseam allowances; release the inseams from crotch to kneeline. To remove the excess fabric at the crotch, take up the front inseam areas equally as needed. Blend into the original centre front at the hipline. Form a new inseam seamline as a rather straight line; blend into the original seamline near the kneeline."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "186-187"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-26-large-thighs-at-front",
+      "area": "leg",
+      "number": 26,
+      "name": "Large thighs at front",
+      "figure_analysis": "The thigh muscles across the front of the legs are fuller than average. This creates the illusion that the groin recess is deeper than average.",
+      "fitting_analysis": [
+        "Fabric pulls taut across the front of the upper thighs and cups under the buttocks",
+        "Side seams curve toward the front",
+        "Skirts: when the wearer walks, the front fabric rises to form a horizontal fold at the groin, and the hemline rises across centre front",
+        "Trousers: horizontal folds form across each inseam near the crotch, may cause the front creaselines to curve toward each other at the thigh, and hang toward each other at the hem"
+      ],
+      "fabric_requirement": "Thigh fullness needs more fabric width at the midfront areas. On a skirt, transfer the front dart to the hem edge to place the flare over the thigh; the wider garment area relaxes and hangs smoothly below the hipline. A-line, circular and gathered skirts already include more fullness at thigh level and may need no alteration. On trousers the dart transfer also widens the area from the front creaseline to the crotch extension.",
+      "change_required": "Widen the midfront areas.",
+      "methods": {
+        "slash": "Skirts: slash halfway between each side seam and centre front, from hem to waistline, following the lengthwise grain. Insert fabric strips. To increase width, spread the cut edges evenly from the hem to the thighline. Taper to nothing at the dart tip area or at the waistline as the body requires. Trousers: place one leg inside the other wrong side out, match and pin the inseams from crotch to kneeline, and about 1 inch (2.5 cm) from the inseam cut through the front extension as for large thighs at inside (see continuation on p. 189).",
+        "seam": null,
+        "pivot": null
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "188 (pivot for trousers continues on p. 189)"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
