@@ -365,6 +365,83 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "ease-depends-on-fabric",
+      "statement": "Ease depends on the fabric. A design made for stretch fabric has some ease removed, and the same design in woven fabric will be too tight at bust, upper arm and hip.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": "ease_matches_fabric",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "12"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "layers-nest",
+      "statement": "Each outer layer (interlining, lining, outer garment) is cut slightly larger than the layer beneath, so the layers lie smoothly over one another.",
+      "applies_to": [
+        "jackets",
+        "coats",
+        "layered-garments"
+      ],
+      "operation": null,
+      "check": "layer_order_sizes",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "13"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bulky-fabric-more-ease",
+      "statement": "Heavier, bulkier fabric needs more ease than light fabric in the same style.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": "ease_matches_fabric",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "12"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "balance-both-sides",
+      "statement": "A garment must look balanced both side to side and top to bottom. Symmetrical balance is equal on each side of the centre line; asymmetrical balance needs equal visual weight.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "14"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "single-dominant-emphasis",
+      "statement": "A garment should have one dominant point of interest, with others subordinate. Attention can be moved away from a figure variation by a stronger detail.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "17-18"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
