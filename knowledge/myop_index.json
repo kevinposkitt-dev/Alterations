@@ -2,7 +2,7 @@
   "book": "Make Your Own Patterns (René Bergh)",
   "schema": "Index of the MYOP text: sections with page ranges, short rule summaries, and principle ids. Summaries only; no book text. Source text: 60577b04-Make_Your_Own_Patterns.txt (5,490 lines, pages about 12-126).",
   "status": "in progress",
-  "read_to_line": 4533,
+  "read_to_line": 5003,
   "sections": [
     {
       "pages": "6-20",
@@ -552,8 +552,71 @@
       "status": "read",
       "summary": "An empire line dress has its seam just under the bust and a squared neckline. The hip-length pattern is traced, the sleeveless armhole and neck are adjusted as for other bodices, and the bodice length is set from the bust level.",
       "principles": []
+    },
+    {
+      "pages": "98-99",
+      "title": "Empire line dress (skirt construction)",
+      "status": "read",
+      "summary": "The empire bodice is cut at the empire line and the skirt panels are slashed and spread. The bust point is dropped about 3 cm for the vertical dart, the zip is set in the centre back, and the centre front, bodice and skirt are cut on the fold. Facings are about 5 cm at the centre front and side seams and 15 cm at the centre back.",
+      "principles": [
+        "myop-empire-bust-drop"
+      ]
+    },
+    {
+      "pages": "100",
+      "title": "Princess line dress",
+      "status": "read",
+      "summary": "A princess-line dress extends the panelled bodice past the waist. Style A flares from the waist; Style B keeps the panels parallel to the centre. The centre back zip ends about 18-20 cm below the waistline, and the centre front is cut on the fold.",
+      "principles": [
+        "myop-dress-zip-end-point"
+      ]
+    },
+    {
+      "pages": "101",
+      "title": "Combining dress details (peasant, shirtwaister, halter)",
+      "status": "read",
+      "summary": "Dress styles combine bodice and skirt details. The bodice and skirt waists must correspond after gathering, darting or easing. A peasant dress extends the bodice to the hip with elastic at the waist and a frilled hem. A shirtwaister uses a notched collar, pleated or knife-pleated skirt and a button front. A halter dress uses a circle skirt on the fold.",
+      "principles": [
+        "myop-bodice-skirt-waists-must-match"
+      ]
+    },
+    {
+      "pages": "103",
+      "title": "Trousers: introduction",
+      "status": "read",
+      "summary": "Trousers suit most people. A bell-bottom flares the leg from the knee down; jodhpurs widen the outside thigh and tighten below the knee. With checks or stripes, the grainline must stay perpendicular to the hem and the checks should match on the outside seams. Side seams can be cut on the fold with a waist dart for shaping.",
+      "principles": [
+        "myop-trouser-checks-match-outside-seam"
+      ]
+    },
+    {
+      "pages": "104-105",
+      "title": "Pleated trousers",
+      "status": "read",
+      "summary": "Pleated trousers have tucks at the waist. The pocket and its facing run through to the fly to hold the pleats flat over the tummy. The front is traced and slashed to spread the tucks, the left front gets extra crotch width for the zip, and the fly facing and placket are cut as separate pieces. The pocket is drafted from the fitted front. Pleated trousers can have a slimming effect.",
+      "principles": [
+        "myop-pleats-held-by-pocket-extension"
+      ]
+    },
+    {
+      "pages": "106-107",
+      "title": "Jeans: slim-fitting and regular-fit",
+      "status": "read",
+      "summary": "Jeans are built from the basic trouser front and back. The inner and outer seams are trimmed for a slim fit, the back dart is closed through the yoke, and the pockets and back patch pockets are drafted separately. Calico is recommended for pocket facings to reduce bulk over the tummy with denim.",
+      "principles": [
+        "myop-calico-pocket-facings-for-denim"
+      ]
+    },
+    {
+      "pages": "108",
+      "title": "Track pants",
+      "status": "read",
+      "summary": "Track pants come with or without side seams. Without side seams, the front and back are traced together and the waist elastic width is doubled into the crotch. With side seams, the legs are tapered and the crotch and side seams lengthened by twice the elastic width. Knitted fleece tends to bag at the knee, so more fullness is added for a looser fit.",
+      "principles": [
+        "myop-track-pants-fullness-for-fleece"
+      ]
     }
   ],
-  "principle_count": 58,
+  "principle_count": 65,
   "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
 }

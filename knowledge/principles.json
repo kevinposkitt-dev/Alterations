@@ -3508,6 +3508,111 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-empire-bust-drop",
+      "statement": "On an empire dress, drop the bust point about 3 cm to create the vertical dart, then slash and spread the skirt panels.",
+      "applies_to": [
+        "dress"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "98"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-dress-zip-end-point",
+      "statement": "A dress's centre-back zip should end about 18-20 cm below the waistline.",
+      "applies_to": [
+        "dress"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "100"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-bodice-skirt-waists-must-match",
+      "statement": "After gathering, darting or easing, the bodice and skirt waists must correspond when joined.",
+      "applies_to": [
+        "dress"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "101"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-trouser-checks-match-outside-seam",
+      "statement": "With checks or stripes, keep the trouser grainline perpendicular to the hem and match the checks on the outside seams.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "103"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-pleats-held-by-pocket-extension",
+      "statement": "Extending the pocket through to the fly holds waist pleats flat over the tummy.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "104"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-calico-pocket-facings-for-denim",
+      "statement": "Use calico for pocket facings in denim to reduce bulk over the tummy.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "107"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-track-pants-fullness-for-fleece",
+      "statement": "Knitted fleece track pants tend to bag at the knee, so add fullness to the pattern.",
+      "applies_to": [
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "108"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
