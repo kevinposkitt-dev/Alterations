@@ -3294,6 +3294,144 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-jacket-interlining-no-stiffness",
+      "statement": "A tailored jacket needs interlining to stop sagging or wrinkling, but it must not be so stiff it is uncomfortable.",
+      "applies_to": [
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "79"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-lining-no-pull",
+      "statement": "A jacket lining must not pull or interfere with the fall of the jacket.",
+      "applies_to": [
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "79"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-lining-shorter-sleeve",
+      "statement": "Shorten the lining sleeve so the lining does not show at the cuff.",
+      "applies_to": [
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "80"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-centre-back-lining-tuck",
+      "statement": "A centre-back tuck in the lining adds comfort and ease.",
+      "applies_to": [
+        "jacket"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "80"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-pocket-flap-wider-than-pocket",
+      "statement": "Cut a pocket flap slightly wider than the pocket so it covers the pocket on both sides.",
+      "applies_to": [
+        "jacket",
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "81"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-pocket-hem-minimum",
+      "statement": "A pocket hem or facing should be at least 2.5 cm wide.",
+      "applies_to": [
+        "jacket",
+        "top"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "81"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-skirt-zip-length",
+      "statement": "A skirt zip is normally 20 cm and a trouser zip 18 cm; the skirt must slip over the hips when the zip is open.",
+      "applies_to": [
+        "skirted",
+        "trousers"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "86"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-narrow-hem-prevents-roping",
+      "statement": "Keep a flared hem narrow, about 1 cm or less, to prevent roping when it is stitched.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "87"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-six-gored-slimming",
+      "statement": "A six-gored skirt with the zip on the side seam is slimming and allows the centre panels to be cut on the fold.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "88"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

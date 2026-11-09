@@ -2,7 +2,7 @@
   "book": "Make Your Own Patterns (René Bergh)",
   "schema": "Index of the MYOP text: sections with page ranges, short rule summaries, and principle ids. Summaries only; no book text. Source text: 60577b04-Make_Your_Own_Patterns.txt (5,490 lines, pages about 12-126).",
   "status": "in progress",
-  "read_to_line": 3565,
+  "read_to_line": 4044,
   "sections": [
     {
       "pages": "6-20",
@@ -409,8 +409,86 @@
       "principles": [
         "myop-neck-at-least-head-circumference"
       ]
+    },
+    {
+      "pages": "79",
+      "title": "Jackets: introduction",
+      "status": "read",
+      "summary": "Jacket length can range from the waist to the knee. The basic jacket is snug, and ease can be added to the width for a looser fit. A tailored jacket must be interlined so it does not sag or wrinkle, without going stiff, and the lining must not pull or interfere with the fall.",
+      "principles": [
+        "myop-jacket-interlining-no-stiffness",
+        "myop-lining-no-pull"
+      ]
+    },
+    {
+      "pages": "80",
+      "title": "Linings and facings for unlined jackets",
+      "status": "read",
+      "summary": "Linings are cut to the pattern width, with a centre-back tuck for comfort and ease; the lining sleeve is shortened so it does not show. For unlined jackets, front facings are about 8-10 cm wide at the hem and curve up toward the armhole. A back facing is optional but adds body to the shoulder and neatens the jacket.",
+      "principles": [
+        "myop-lining-shorter-sleeve",
+        "myop-centre-back-lining-tuck"
+      ]
+    },
+    {
+      "pages": "81",
+      "title": "Pockets",
+      "status": "read",
+      "summary": "Shirt pockets are about 8-14 cm wide and 8-16 cm long, set about 20-25 cm below the shoulder centre and perpendicular to the centre front. Jacket pockets are about 12-16 cm wide and 23 cm deep. Flaps are cut wider than the pocket and sit about 1 cm above it. The pocket hem or facing should be at least 2.5 cm. A pleated pocket is made by splitting the basic pocket and spreading it.",
+      "principles": [
+        "myop-pocket-flap-wider-than-pocket",
+        "myop-pocket-hem-minimum"
+      ]
+    },
+    {
+      "pages": "82",
+      "title": "Combining details (jackets)",
+      "status": "read",
+      "summary": "Jacket variations come from the basic jacket combined with earlier details: a shawl collar, two-piece sleeve, panelled front, pocket, facings and lining. A double-breasted blazer is built from the dartless jacket with its break-point roll line. Seam allowances are about 1 cm, with heavier hems (about 3 cm) for jackets and pockets.",
+      "principles": []
+    },
+    {
+      "pages": "83",
+      "title": "Car coat and bomber jacket",
+      "status": "read",
+      "summary": "A car coat is a long A-line jacket made by slashing and spreading the dartless jacket. A bomber has a band at the hip, cut at double width, with the body hem tucked to fit the band; its sleeve can be raised or shaped to suit.",
+      "principles": []
+    },
+    {
+      "pages": "84",
+      "title": "Skirts: introduction",
+      "status": "read",
+      "summary": "A skirt is classed as slim, full or shaped by how much width it has at the hem and waist. Slim skirts can carry fullness at the waist or pressed pleats; full and shaped skirts get width from panels, gathers, pleats or circles. Culottes are divided skirts built from the same principles.",
+      "principles": []
+    },
+    {
+      "pages": "85-86",
+      "title": "Waistbands and elastic waists; zips",
+      "status": "read",
+      "summary": "A waistband matches the skirt or trouser waist, with a 2.5 cm underlap for the button; seams are 1 cm. The elastic guide gives finished waist and minimum stretch lengths by size for fully, three-quarter and half-elasticated waists, on the same page; check those values there. A skirt zip is normally 20 cm (18 cm on full skirts); a trouser zip is normally 18 cm. The skirt must slip over the hips when the zip is open.",
+      "principles": [
+        "myop-skirt-zip-length"
+      ]
+    },
+    {
+      "pages": "87",
+      "title": "Basic four-panelled flared skirt",
+      "status": "read",
+      "summary": "A four-panel flared skirt is drafted from the waist and hip with about 2.5 cm of hip ease and a sweep at the hem. The side seams are split, the zip is set in the centre back with a larger seam, and the hem is kept narrow to prevent roping. The grainline runs parallel to the side seam.",
+      "principles": [
+        "myop-narrow-hem-prevents-roping"
+      ]
+    },
+    {
+      "pages": "88-89",
+      "title": "Six-gored skirt",
+      "status": "read",
+      "summary": "A six-gored skirt has a hem of about 152 cm (60 in). The zip goes on the left side seam so the centre front and back panels cut on the fold. Its side panels are set from the centre about 10 cm at the hip and 14 cm at the hem, then the waist is taken in on each panel. The method also gives an eight-gored skirt, and it is slimming.",
+      "principles": [
+        "myop-six-gored-slimming"
+      ]
     }
   ],
-  "principle_count": 44,
+  "principle_count": 53,
   "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
 }
