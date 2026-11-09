@@ -19,9 +19,9 @@ test('adds the measurement file with -m when re-measuring', () => {
     outputDir: '/work/out',
     basename: 'block',
     format: 'dxf',
-    measurementPath: '/work/client.vit',
+    measurementPath: '/work/client.smis',
   });
-  assert.deepEqual(args.slice(-2), ['-m', '/work/client.vit']);
+  assert.deepEqual(args.slice(-2), ['-m', '/work/client.smis']);
   assert.equal(args[args.indexOf('-f') + 1], String(FORMATS.dxf));
 });
 

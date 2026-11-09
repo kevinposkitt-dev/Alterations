@@ -73,13 +73,13 @@ export function createServer({ workspace = process.env.SEWING_WORKSPACE || proce
     {
       description:
         'Export a Seamly2D pattern (.sm2d) to PDF, DXF, SVG or PNG with the locally installed Seamly2D. ' +
-        'Optionally re-measure it with a SeamlyMe measurement file (.vit).',
+        'Optionally re-measure it with a SeamlyMe measurement file (.smis).',
       inputSchema: {
         pattern: z.string().describe('Seamly2D pattern file (.sm2d), relative to the workspace'),
         outputDir: z.string().describe('Output folder, relative to the workspace'),
         basename: z.string().regex(/^[\w-]+$/).describe('Output file name without extension'),
         format: z.enum(['pdf', 'pdf-tiled', 'dxf', 'svg', 'png']).describe('Export format'),
-        measurements: z.string().optional().describe('Optional measurement file (.vit), relative to the workspace'),
+        measurements: z.string().optional().describe('Optional measurement file (.smis), relative to the workspace'),
       },
     },
     async ({ pattern, outputDir, basename, format, measurements }) => {
