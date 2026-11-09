@@ -449,6 +449,81 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "hip-19-flat-buttocks",
+      "area": "hip",
+      "number": 19,
+      "name": "Flat buttocks",
+      "figure_analysis": "The muscles and soft tissues forming the buttocks are less developed than average. This decreases the hip circumference. The distance decreases from the fullest part of the buttocks to the central axis and to the waist.",
+      "fitting_analysis": [
+        "Garment loose across the buttocks; loose diagonal wrinkles droop from the upper side seam areas toward the buttocks",
+        "Hip fitting line drops across centre back",
+        "Trousers: loose diagonal wrinkles droop from the side seams and inseams toward the creaselines on each leg"
+      ],
+      "fabric_requirement": "Less fabric length at the upper centre back and less width across the buttocks; back darts narrower and shorter. A more shallow back profile needs a narrower back crotch extension. Adjustments smooth the fabric and bring the hip fitting line level.",
+      "change_required": "Narrow the back at the hipline; shorten the upper centre back area; narrow the back crotch extensions.",
+      "methods": {
+        "slash": "Release the back waistline seam near the side seams. To remove the excess fabric on the back, form a parallel vertical tuck from the waistline toward the hem, following the lengthwise grain. End at the hem on skirts; on trousers begin at the crotchline and taper to nothing at the kneeline. Decrease dart widths to restore waistline circumference and shorten darts as needed for the smaller curvature. To narrow the trouser back crotch extension, release the stitching along the back crotch curve, form a vertical tuck at the crotch on each leg to remove the excess width following the lengthwise grain, and taper to nothing at the inseam. To shorten centre back, form a horizontal parallel tuck across the garment between the back dart tips to lift the hip fitting line to level; taper to nothing at the side seams.",
+        "seam": null,
+        "pivot": "Release the back waist seam and back waist darts. Skirts: release the side seams. Trousers: release side seams to the kneeline. To narrow, take in the back side seam evenly from waist to hem on a skirt, or from waist to crotchline on trousers; taper the trouser side seam into the original seamline at the kneeline. Decrease dart length and width for the smaller curvature. To reduce back crotch looseness on trousers, release the crotch seam across the inseam allowances, release the inseam from crotch to kneeline, take in the back inseam area equally at the crotch, and taper into the original seamline above the kneeline. To shorten centre back, lift the waistline evenly across centre back until the hip fitting line is level; blend into the original seamline at each side seam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "170-171"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-20-prominent-pubic-area",
+      "area": "hip",
+      "number": 20,
+      "name": "Prominent pubic area",
+      "figure_analysis": "The pubic bone or flesh may be more forward, lower or larger than average. This creates a more abruptly curved contour at the front crotch, and the front surface of the torso is vertical rather than slightly sloped.",
+      "fitting_analysis": [
+        "Trousers only",
+        "Wrinkles follow the front crotch curve, or fabric pulls into the crotch crevice because the front crotch curve is too shallow",
+        "Extreme variation: vertical fitting lines pull toward each other at the front crotchline"
+      ],
+      "fabric_requirement": "A more prominent bone structure needs a more abrupt curve at the front crotch seamline. Extreme variation may need a wider front crotch extension, which increases the crotch length from hipline to inseam.",
+      "change_required": "Deepen the curve on the front crotch.",
+      "methods": {
+        "slash": "Only the angle and curvature of the centre front and the crotch seamline change. Cutting the interior causes unnecessary trueing of sloped and curved edges; follow the pivot method.",
+        "seam": null,
+        "pivot": "Place one trouser leg inside the other wrong side out. Flatten the centre front area of the trousers and align the fabric grain. To relieve the strain at the crotch contour, draw a new, more rounded front crotch seamline beginning at the original centre front/hipline intersection. Blend into the original crotch seamline at the inseam. The back crotch curve may need flattening slightly to prevent a peak at the inseam. Trim the widened seam allowance after stitching."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "174-175"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "hip-21-recessed-pubic-area",
+      "area": "hip",
+      "number": 21,
+      "name": "Recessed pubic area",
+      "figure_analysis": "The pubic bone or flesh may be smaller, or the area may set back more deeply than average. This creates a crotch with a more sloping contour rather than a curved one, and the front surface of the torso slopes noticeably.",
+      "fitting_analysis": [
+        "Trousers only",
+        "Taut horizontal wrinkles pull across the seam at the front crotch area",
+        "Vertical grainlines pull toward each other at the groin"
+      ],
+      "fabric_requirement": "A less prominent bone structure needs a flatter curve in the front crotch seamline.",
+      "change_required": "Flatten the curve on the front crotch seamline.",
+      "methods": {
+        "slash": "Only the angle and curvature of the centre front and the crotch seamline change. Cutting the interior causes unnecessary trueing of sloped and curved edges; follow the pivot method.",
+        "seam": null,
+        "pivot": "Release the lower half of the front crotch seam and put the trousers on. Along the crotch curve, mark where the greatest increase is needed. Remove the trousers, place one leg inside the other wrong side out, and flatten the front area, aligning the grain. To bring the stitching line closer to the body surface, draw a new, less curved front crotch seamline beginning at the centre front/hipline intersection, continue through the adjustment mark, and blend into the original crotch seamline at the inseam. Deepen the back crotch curve slightly to prevent a peak at the inseam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "176-177"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
