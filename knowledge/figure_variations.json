@@ -1783,13 +1783,87 @@
       "fabric_requirement": "A longer upper arm needs more fabric length between the scyeline and the elbow line; a shorter upper arm needs less. A longer lower arm needs more fabric below the elbow; a shorter lower arm needs less. When both areas vary, changes are needed above and below the elbow line. Aligning the centre of the darted area with the elbow permits elbow movement; aligning the hemline with the wristbone gives comfortable proportions.",
       "change_required": "Adjust the lengths of the upper and lower sleeve areas so that the elbow line crosses the elbow point and the wristline is near the wristbone.",
       "methods": {
-        "slash": null,
+        "slash": "Align the centre front and centre back of the garment with the body centres. Fold both arms across the front of the body simultaneously and mark the position of each elbow point on the sleeve. If the elbow is above the centre of the darted area, remove the excess length with a parallel tuck around the upper sleeve, following the crosswise grain, adjusting the tuck width until the darted centre aligns with the elbow point. If the elbow is below the centre of the darted area, slash and spread the upper sleeve evenly over a fabric insert to gain the needed length. With both arms relaxed, check the wristline: if it lies too far above the wristbone, slash and spread the lower area evenly over a fabric insert, cutting parallel to the wristline; if it lies below the wristbone, remove the excess with a parallel tuck around the lower sleeve, parallel to the wristline.",
+        "seam": null,
+        "pivot": "Align the centre front and centre back of the bodice with the body centres. Fold both arms simultaneously across the front and mark each elbow point on the sleeve. Relax both arms, mark each wristbone on the sleeve, or note the additional length needed if the sleeve is too short. If the elbow is above or below the centre of the darted area, release the sleeve underarm seams across the darts and raise or lower the dart markings to align the darted centre with the elbow mark; stitch the new darts and the underarm seam areas if the wrist length needs no change. If the wristbone mark lies above or below the hemline, take up or let out the hem to align the finished hemline with the wristbone mark; mark the new hemline parallel to the original. To restore the wristline circumference, fold one lower sleeve area along the seam, flatten the sleeve, divide the original wrist measurement by two, measure from the fold toward the seam on both sleeves, mark the ends of the adjusted wristline, true the underarm seamlines, and stitch each new seamline in a straight line from elbow level to the end of the new wristline."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "309-310"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-73-long-arm-joints-sleeves",
+      "area": "arm",
+      "number": 73,
+      "name": "Long arm joints (sleeves)",
+      "figure_analysis": "The bones forming the joint structure may be longer than average, or the hinge flesh separating the arm from the rib cage may form farther than average below the joint. Either factor increases the length from the shoulder to the scyeline.",
+      "fitting_analysis": [
+        "Diagonal wrinkles radiate from the top of the sleeve cap toward the armscye seams at back and front",
+        "The horizontal cap fitting line curves upward at the centre",
+        "The lower armscye area cuts against the arm hinges and wrinkles form in both garment and sleeve",
+        "Elbow dart shaping rises above elbow level; on a short sleeve the hemline extends outward from the arm and the sleeve appears too wide"
+      ],
+      "fabric_requirement": "The increased length of the shoulder joint requires a longer sleeve cap and armscye. The increased length relieves strain at the top of the sleeve and underarm; the fabric relaxes and the sleeve shaping aligns with the elbow; the cap fitting line becomes level. To adjust armscye depth on the garment, see 59 Long Upper Rib Cage.",
+      "change_required": "Lengthen the sleeve cap.",
+      "methods": {
+        "slash": "If the garment armscye has been corrected, lengthen the sleeve cap before attaching the sleeve to the garment; follow the pivot method. If sleeves are attached and the armscye is too short, adjust the sleeve cap height and the garment armscye length simultaneously: cut across the sleeve cap about halfway between the arm hinge area and the top of the cap; where the sleeve slash meets the back and front armscye, cut downward into the garment along the lengthwise grain to a point 1 inch (2.5 cm) below the scyeline; cut across the underarm area between the vertical slashes; lap the garment edges below the armscye until the armscye seamline is comfortable; stitch across the lapped fabric; insert a fabric strip under the slashed area of each sleeve and separate the cut edges equal to the width of the lapped area at the underarm; join the vertical slashes with multi-stitch zigzagging or reinforce with fabric strips. This may drop the dart shaping below elbow level; to correct the length, make a parallel tuck completely around the sleeve above the elbow line. If only the cap requires length, see the pivot method.",
+        "seam": null,
+        "pivot": "If the garment armscye depth has been corrected, lengthen the sleeve cap before attaching the sleeves. Across the top of the cap, mark above the seamline at the centre to let out an amount equal to the length adjustment of the garment; blend into the original seamline at the front and back of the armscye; raise the sleeve balance marks equal to the cap height adjustment; attach the sleeves using the new markings. If the sleeves are attached and only the cap needs an alteration in length, remove only the upper part of the sleeves, let out the sleeve cap seam allowance as needed for the arm joint, blend into the original seamline at the balance marks, and stitch the sleeve to the garment. If the sleeves are attached and both the cap and the armscye need alteration, lower the armscye seamline across the underarm area: draw a line parallel to the original seamline below the original armscye to indicate the correct amount of adjustment; blend into the original seamline at the arm hinge areas; trim the widened seam allowances."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "314-315"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-74-short-arm-joints-sleeves",
+      "area": "arm",
+      "number": 74,
+      "name": "Short arm joints (sleeves)",
+      "figure_analysis": "The bones forming the joint structure may be shorter than average, or the hinge flesh separating the arm from the rib cage may form closer to the joint than average. Either factor decreases the length from the shoulder to the scyeline.",
+      "fitting_analysis": [
+        "The seamline at the lower armscye area lies too far below the arm hinges; lifting the arm creates strain on the sleeve and makes it appear too narrow and too tight",
+        "The arm cannot be raised comfortably or very high; the cap fitting lines are not affected"
+      ],
+      "fabric_requirement": "The decreased length of the shoulder joint requires a shorter sleeve cap and armscye. The decreased length brings the armscye seamline closer to the arm hinge and relieves strain on the garment and sleeve, so the arm may be raised comfortably and easily. To adjust armscye depth on the garment, see 60 Short Upper Rib Cage.",
+      "change_required": "Shorten the sleeve cap.",
+      "methods": {
+        "slash": "If the garment armscye has been corrected, shorten the sleeve cap before attaching the sleeve to the garment; follow the pivot method. If the sleeves are attached and the armscye is too long, adjust the sleeve cap height and the garment armscye length simultaneously: cut across the sleeve cap about halfway between the arm hinge area and the top of the cap; where the sleeve slash meets the back and front armscye, cut downward into the garment along the lengthwise grain to a point 1 inch (2.5 cm) below the scyeline; cut across the underarm area between the vertical slashes; lap the cut edges of the sleeve until the lower armscye seamline rises to a comfortable position; insert a fabric strip across the underarm area; separate the cut edges evenly equal to the width of the sleeve adjustment, and stitch. Join the vertical slashes with multi-stitch zigzagging or reinforce with fabric strips; this may raise the dart shaping above the elbow position. To correct the length, slash completely around the sleeve above the elbow line, and separate the cut edges evenly over a fabric insert until the length is correct.",
+        "seam": null,
+        "pivot": "If the garment armscye depth has been corrected, shorten the sleeve cap before attaching the sleeves to the garment. Across the top of the cap, mark below the centre of the seamline to take up an amount equal to the length adjustment of the garment; blend into the original seamline at the front and back of the armscye; lower the sleeve balance marks equal to the cap height adjustment; attach the sleeves using the new markings. If the sleeves are attached and the sleeve length is correct, raise the lower armscye seamline closer to the arm hinges: mark across the underarm seam area above the original armscye seamline to indicate the correct amount of adjustment, blend into the original at the arm hinge areas, and remove the original stitching. If the sleeves are attached and the lower armscye needs no adjustment but the top of the cap is too loose, release the seam across the top of the cap, take in the cap seamline enough to remove the excess fabric, blend into the original seamline at the front and back, and stitch the sleeve to the garment."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "316-317"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-75-large-shoulder-joints",
+      "area": "shoulder",
+      "number": 75,
+      "name": "Large shoulder joints",
+      "figure_analysis": "The bones forming the joint structure are larger than average. The surrounding muscles and other soft tissues may be heavier, which increases the circumference of the shoulder joint. A more cylindrical rib cage may accompany this figure variation.",
+      "fitting_analysis": [
+        "The armscye tightens against the joint; tight horizontal wrinkles form across the armscye seams; arm movement is uncomfortable",
+        "If the sleeves are over-eased or the garment is eased to the sleeve, a similar appearance and discomfort are created, because either reduces the size of the armscye; reset the sleeve properly"
+      ],
+      "fabric_requirement": "The larger joint circumference requires a sleeve cap with more width above the arm hinge. When this variation is combined with a cylindrical torso, wider armscye extensions are required on the garment and the sleeve. See 57 Cylindrical-shaped Torso (rib cage) and 80 Large Upper Arms.",
+      "change_required": "Widen the upper sleeve cap area.",
+      "methods": {
+        "slash": "Before attaching the sleeves, adjust the cap to correspond to the change made in the garment; see the pivot method. If the sleeves are attached, release the armscye seam across the shoulder area; increase the armscye length by slashing from the armscye to, but not through, the neckline near the shoulder seamline; insert fabric strips and spread each set of cut edges equally until the fabric relaxes. Slash the sleeve cap vertically through the centre down to the capline; insert a fabric strip; spread the cut edges to equal the shoulder adjustment; taper to nothing at the capline; stitch the sleeve across the top. If the underarm area is tight, see 57 Cylindrical-shaped Torso (rib cage) and 80 Large Upper Arms.",
         "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "308 (methods on p. 309, not yet read)"
+        "pages": "318 (pivot on p. 319, not yet read)"
       },
       "status": "draft",
       "reviewer": null
