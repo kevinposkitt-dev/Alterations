@@ -1005,6 +1005,80 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "shoulder-41-square-shoulders",
+      "area": "shoulder",
+      "number": 41,
+      "name": "Square shoulders",
+      "figure_analysis": "The collar bones slope less than average because they meet the vertical bone structure of the spine more nearly at 90-degree angles. The distance increases from the waist up to the base of the arm joints. The arm structure is not affected.",
+      "fitting_analysis": [
+        "Tight diagonal wrinkles run from the upper armscye area to the bust, the blade, and the biceps areas",
+        "Sleeves rise and appear too short; ends of the chest and blade fitting lines rise; centres of the cap fitting lines rise"
+      ],
+      "fabric_requirement": "The higher shoulder joint position lifts the armscye farther from the waistline. Side seams lengthen and shoulder seams slope less. The raised armscye aligns with the body contour and relieves strain at the neckline; chest and blade fitting lines become level; sleeves fit without adjustment.",
+      "change_required": "Lengthen each side seam at the armscye to raise the armscye to a higher position.",
+      "methods": {
+        "slash": "Remove the sleeves. Slash across the armscye seam allowances about ½ inch (1.2 cm) below the shoulder seams on both back and front; continue over to the neck seamlines. Insert fabric strips. To increase length, spread each set of cut edges equally at the armscye until the fabric lies smooth; taper each slash to nothing at the neckline. Mark the new higher position of the armscye seamline across the underarm seams to restore armscye depth; blend smoothly into the original seamline at front and back; reattach the sleeves using the new armscye seamline markings.",
+        "seam": null,
+        "pivot": "Remove the sleeves; release the shoulder seams; let out the shoulder seam allowances equally at the armscyes on back and front until the fabric relaxes and the chest and blade fitting lines become level. Raise the lower armscye seamline position to restore armscye depth; blend into the original seamline at the arm hinge area; attach the sleeves using the new armscye seamlines."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "230-233"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "shoulder-42-sloping-shoulders",
+      "area": "shoulder",
+      "number": 42,
+      "name": "Sloping shoulders",
+      "figure_analysis": "The collar bones slope more than average because they meet the vertical bone structure of the spine at wider angles. The distance decreases from the waist up to the base of the arm joints. The arm structure is not affected.",
+      "fitting_analysis": [
+        "Sleeve caps sag off the crest of the shoulder and appear too large",
+        "Fabric along the armscyes sags into diagonal wrinkles from the neckline to the lower armscye areas",
+        "Ends of the chest and blade fitting lines droop; centres of the cap fitting line also droop"
+      ],
+      "fabric_requirement": "The lower shoulder joint position lowers the armscye closer to the waistline. Side seams shorten and shoulder seams slope more. The lowered armscye aligns with the body contour; chest and blade fitting lines become level; sleeves fit without adjustment.",
+      "change_required": "Shorten each side seam at the armscye to drop the armscye to a lower position and increase the slope of the shoulder.",
+      "methods": {
+        "slash": "Remove the sleeves. Clip the lower armscye seam allowance at ½ inch (1.2 cm) intervals to release the tension. Remove the excess armscye length equally with a tuck near the shoulder seams on back and front; taper each tuck to nothing at the neckline. Mark the new lower position of the armscye seamline across the underarm seams to restore armscye depth; blend smoothly into the original seamline at front and back; reattach the sleeves using the new armscye seamlines.",
+        "seam": null,
+        "pivot": "Remove the sleeves. Clip the lower armscye seam allowances at ½ inch (1.2 cm) intervals to release tension. Take in both back and front shoulder seam areas equally at the armscye until the fabric is smooth and the chest and blade fitting lines become level; taper to nothing at the neckline. Mark the new lower position of the armscye seamline to restore armscye depth; blend into the original seamline at the arm hinge areas; attach the sleeves using the new armscye seamlines."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "234-237"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "arm-43-long-arm-joints-bodice",
+      "area": "arm",
+      "number": 43,
+      "name": "Long arm joints (bodice)",
+      "figure_analysis": "The bones forming the joint structure may be longer than average, or the hinge flesh separating the arm from the rib cage may form farther below the joint than average. Either factor increases the length from the shoulder to the scyeline.",
+      "fitting_analysis": [
+        "Lower armscye binds against the arm hinges",
+        "Diagonal wrinkles pull from the blade and chest areas to the underarms; a fold of fabric may form below the scyeline",
+        "Ends of the blade and chest fitting lines may pull downward"
+      ],
+      "fabric_requirement": "Increased length of the shoulder joint area needs a longer armscye. This lowers the armscye seamline under the arm and shortens the side seamline. The armscye contour then sits comfortably near the arm hinges. The sleeve cap height must be lengthened (see 73 Long Arm Joints, sleeves).",
+      "change_required": "Lengthen the depth of the armscye.",
+      "methods": {
+        "slash": "If sleeves are attached, see 73 Long Arm Joints (sleeves) and follow that procedure. If sleeves have not been attached, use the pivot method below.",
+        "seam": null,
+        "pivot": "Pivot method (for sleeves not yet attached): see the pivot procedure in 42 Sloping Shoulders and 41 Square Shoulders for lowering or raising the armscye. Lower the armscye seamline under the arm to lengthen the armscye depth."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "238-239 (continues)"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
