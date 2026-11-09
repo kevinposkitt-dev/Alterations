@@ -1,0 +1,14 @@
+{
+  "book": "Fitting & Pattern Alteration (Liechty, Pottberg, Rasband)",
+  "schema": "Part Three forms: measurement chart and adjustment record. Summaries only; no book text.",
+  "measurement_chart": {
+    "pages": "341",
+    "summary": "A recording sheet for body measurements. Each measurement is taken on the back and front, left and right, and some are marked optional. Several measurements have an ease allowance added in the chart (for example crotch length plus about 1½ inches, bust-level width plus about ¾ inch). Sections: lower torso and leg (centre length, inseam, knee position, side seam, hip depth, crotch length, waist and hip circumference, thigh, knee, calf and instep circumference) and upper torso and arm (centre length, full bodice length, blade and bust height, side seam, shoulder tip width, shoulder slope, chest length and bust contour, shoulder length, width across blade or chest, centre to blade and bust tip, full bodice width, underarm length, elbow position, overarm length, bicep, elbow and wrist circumference, optional hand circumference). The sheet also records pattern size (from bust, waist and hip) and pattern type (from centre back length).",
+    "use_in_knowledge_base": "Matches the measurement inputs the operations layer will need. Ease allowances are added to the body measurement before comparison, as in the fitting book's measurement method (pp. 80-86)."
+  },
+  "adjustment_record": {
+    "pages": "342-344",
+    "summary": "Pattern diagrams (skirt, trouser, bodice, sleeve, quarter scale) with tick marks at the edges and short lines inside the pattern showing where a figure variation may need a change. Procedure: draw an arrow on the line at each place where a personal fitting adjustment is needed, showing whether to increase or decrease and which area to raise or lower; record the amount at each arrow at full scale, marked + or - for the result; draw the new cutting line in red.",
+    "use_in_knowledge_base": "Describes the record format for a personal pattern: location, direction, amount and new cutting line. The operations layer should write its changes in this form."
+  }
+}
