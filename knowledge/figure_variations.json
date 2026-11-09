@@ -641,13 +641,138 @@
       "fabric_requirement": "Thigh fullness needs more fabric width at the midfront areas. On a skirt, transfer the front dart to the hem edge to place the flare over the thigh; the wider garment area relaxes and hangs smoothly below the hipline. A-line, circular and gathered skirts already include more fullness at thigh level and may need no alteration. On trousers the dart transfer also widens the area from the front creaseline to the crotch extension.",
       "change_required": "Widen the midfront areas.",
       "methods": {
-        "slash": "Skirts: slash halfway between each side seam and centre front, from hem to waistline, following the lengthwise grain. Insert fabric strips. To increase width, spread the cut edges evenly from the hem to the thighline. Taper to nothing at the dart tip area or at the waistline as the body requires. Trousers: place one leg inside the other wrong side out, match and pin the inseams from crotch to kneeline, and about 1 inch (2.5 cm) from the inseam cut through the front extension as for large thighs at inside (see continuation on p. 189).",
+        "slash": "Skirts: slash halfway between each side seam and centre front, from hem to waistline, following the lengthwise grain. Insert fabric strips. To increase width, spread the cut edges evenly from the hem to the thighline. Taper to nothing at the dart tip area or at the waistline as the body requires. Trousers: place one leg inside the other wrong side out, match and pin the inseams from crotch to kneeline, and about 1 inch (2.5 cm) from the inseam cut through the front extension as for large thighs at inside .",
+        "seam": null,
+        "pivot": "Skirts: release side seams from hip to hem; mark new side seams parallel to the originals from hem to thigh. To transfer the waist dart to the hem, release the remaining side seam and the waistline to the dart; decrease the side waist dart by half its width (one third if only one dart); lengthen the side seam at the waistline by about half the width change at the thigh; taper back to the original seam at the dart. To restore side length, shorten the new side seam at the hem by the amount it was raised at the waist; pin side seams together up to thigh level, put on the skirt, taper the side seam to the waist, and mark the new front hemline. Trousers: release the side seam from hip to kneeline, the waistline, centre front and the front crotch seam across the inseam allowances; release the inseam from crotch to kneeline; let out front seam allowances of side and inseam as needed so the creases and side seams hang plumb. The longer crotch extension may sag against the groin: raise the waist across centre front to remove the excess, mark a parallel new waistline, taper to the original at the side seam, and flatten the front crotch curve slightly. On the pattern, obtain the midfront width increase by transferring the dart to the centre and inseam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "188-189"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-27-large-thighs-at-sides",
+      "area": "leg",
+      "number": 27,
+      "name": "Large thighs at sides",
+      "figure_analysis": "The muscles and soft tissues across the sides of the legs extend more than average and may lack tone. The greatest width and side curvature are below the hipline.",
+      "fitting_analysis": [
+        "Fabric pulls taut across the side seams at the thighline and cups under the buttocks",
+        "When walking, the garment rises and forms a horizontal wrinkle above each thigh; hip fitting line rises at the sides",
+        "Trousers: fabric pulls taut across the upper inseam; front creaselines curve outward at thigh level and slant away from each other at the hems"
+      ],
+      "fabric_requirement": "Fullness at the sides of the legs needs more fabric width below the hipline. The greatest curvature along the side seam is at thigh level, because the dart concealed in the side seam widens. The wider area relaxes over the thigh and the hip fitting line becomes level. A-line, circular and gathered skirts include more fullness at thigh level and may need no alteration.",
+      "change_required": "Widen the side seam areas at the thighline.",
+      "methods": {
+        "slash": "Adjust both the front and back of a skirt to keep the two widths balanced. Release the waist seam across the side seam areas. On back and front near each side seam, cut from the edges of the waist seam allowance through the hem edge, following the lengthwise grain. Insert fabric strips and spread each set of cut edges evenly along the entire slash to gain the needed width. Take in the side seams equally at the waist to restore waist circumference; taper to nothing just below the hipline.",
+        "seam": null,
+        "pivot": "Skirts: release side seams from the hem past the hipline where tightness begins. At the thighline let out the back and front seam allowances equally until the fabric relaxes; continue the adjustment an even amount through the hem edge; blend into the original seamline above the hipline. Trousers: release side seams from hip to kneeline; let out back and front seam allowances equally at the thighline; blend into the original seamline near the ends of the opened areas."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "190-191"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-28-outward-knee-rotation",
+      "area": "leg",
+      "number": 28,
+      "name": "Outward knee rotation",
+      "figure_analysis": "The legs bow outward, with the greatest curvature at the knee. The toes often point inward to counterbalance the body.",
+      "fitting_analysis": [
+        "Trousers: front creaselines bow outward at the knees and slant inward at the hems",
+        "At the kneeline the fabric is taut along the side seams and loose at the inseams; diagonal wrinkles form across the inseam at the kneeline",
+        "Hemline rises at the sides"
+      ],
+      "fabric_requirement": "Outward curvature of the legs needs more length at the side seams and less at the inseams. The adjusted seam lengths reposition the fabric to relax and lie smoothly. The hemline becomes level. Flared skirts and trousers help camouflage the variation and may need no adjustment.",
+      "change_required": "Lengthen the side seams; shorten the inseams.",
+      "methods": {
+        "slash": "Near the thighline, cut across both side seams. Continue cutting along the crosswise grain to the front and back creases. Insert fabric strips. To increase side seam length, spread each set of edges equally at the side seams until the fabric relaxes and the front creaselines straighten below the knee. To shorten the inseams, continue following the crosswise grain with a tuck across each inseam to remove an amount equal to the side adjustment; taper each adjustment to nothing at the creases. For a slight variation, decrease the inseam length by forming a tuck across each inseam at thigh level; adjust the tuck widths equally until the front creaselines hang plumb; taper each tuck to nothing at the side seams. On the pattern, establish a new grainline parallel to the original creaselines below the knee.",
+        "seam": null,
+        "pivot": "Release the entire waistline; the centre front and back areas require lifting. Clip the crotch seam allowance at ½ inch (1.2 cm) intervals across the inseam area. Put on the trousers; lift the waistline across centre front and back and lower it at the sides until the legs hang smoothly and the front creaselines straighten below the knee. Blend near the sides; clip at the crotch to relieve tightness; stitch the new crotch seamline the book gives as ¼ inch (0.6 mm) below the ends of the clips (likely a typo for 6 mm; confirm before use); taper into the original seamline near the hipline; trim the widened crotch seam allowance. For a slight variation, release the back and front waistline across the side seam areas nearly to the centres, lower the waist at the sides to relieve the strain at the knee, and taper into the original waist seamline near centre front and back."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "192-193"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-29-inward-knee-rotation",
+      "area": "leg",
+      "number": 29,
+      "name": "Inward knee rotation",
+      "figure_analysis": "The legs bow inward, with the greatest curvature at the knee. The toes often point outward to counterbalance the body.",
+      "fitting_analysis": [
+        "Trousers only",
+        "Front creaselines bow inward at the knees and slant outward at the hems",
+        "At the kneeline the fabric is taut along the inseams and loose at the sides; diagonal wrinkles form from the inner edge of each knee upward toward each creaseline",
+        "Hemline rises at the inseams; on tight-legged trousers a loose horizontal fold forms across each side seam at the kneeline"
+      ],
+      "fabric_requirement": "Inward curvature needs more length at the inseams and less at the side seams. The adjusted seam lengths reposition the fabric to relax and lie smoothly. The hemline becomes level. Trousers that flare gently from thigh to hem camouflage the variation.",
+      "change_required": "Shorten the side seams; lengthen the inseams.",
+      "methods": {
+        "slash": "To decrease side seam length, form a tuck across each side seam at thigh level. Adjust the tuck widths equally until the front creaselines hang plumb; taper each tuck to nothing at the inseams. If tightness is present along the inseams at the knee area, release the stitching from the thighline to below the kneeline; let out the seam allowance equally at the knee until the fabric relaxes; taper into the original seamline near the crotch and hemline. Check the hemline position and adjust evenly. On the pattern, establish a new grainline parallel to the original creaselines below the knee.",
+        "seam": null,
+        "pivot": "Release the entire waistline except a short distance across centre front and centre back. Lift the waist at the side seams until the trouser legs hang smoothly and the front creaselines are plumb below the knee. Blend into the original seamline near centre front and centre back."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "194-195"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-30-hyperextended-calves",
+      "area": "leg",
+      "number": 30,
+      "name": "Hyperextended calves",
+      "figure_analysis": "The lower leg bones appear to bow toward the back. The back curvature may result from tense, locked knees, and back muscle development may be involved.",
+      "fitting_analysis": [
+        "Trousers: fabric forms a loose horizontal fold above the calves",
+        "Side seams may curve toward the back at calf level; hip fitting line level; hemline rises slightly across the back"
+      ],
+      "fabric_requirement": "Decreasing the length of fabric across the upper centre back lifts the fabric so it hangs vertically from the buttocks curvature. The variation may need a deeper back crotch curve. Trouser styles with fuller legs camouflage the variation and may need no adjustment.",
+      "change_required": "Shorten the upper centre back area; restore back crotch length by lowering the crotch curve.",
+      "methods": {
+        "slash": "Below the crotchline, form a tuck across the creaseline to lift the fabric until it hangs smoothly and away from the surface of the calves. Taper to nothing at the side seams and inseams.",
+        "seam": null,
+        "pivot": "Release the back waist seam. Before the centre back can be lifted, clip the crotch seam allowance every ½ inch (1.2 cm) along the back crotch curve. Put on the trousers and lift the waistline across centre back by a parallel amount until the fabric hangs smoothly and away from the calves. Blend into the original seamline at the side seams. Continue the clips deep enough to relieve the strain at the crotch. Stitch a new crotch seam the book gives as ¼ inch (0.6 mm) below the ends of the clips (likely a typo for 6 mm; confirm before use). Blend into the original seamline at back and front near the hipline."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "196-197"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "leg-31-large-legs",
+      "area": "leg",
+      "number": 31,
+      "name": "Large legs",
+      "figure_analysis": "The leg bones may be larger than average. The muscles and other soft tissues are more developed and may lack tone. The larger development may occur along the entire leg or only over the upper or lower portion. Excess soft tissue may fill the ankle and conceal the angularity of the bone structure there.",
+      "fitting_analysis": [
+        "Trousers primarily: fabric pulls taut around each leg and forms horizontal wrinkles at the crotchline",
+        "Hemlines rise; upper part of the trousers looks loose and bloused",
+        "Skirts: refer to 12 Broad Hips and 27 Large Thighs at Sides; a slightly flared skirt with the hemline just above the fullest part of the calves camouflages the fullness"
+      ],
+      "fabric_requirement": "Larger leg circumference needs more fabric width below the hipline on the back and front of the trousers. Larger trouser legs let the upper trouser area lower to the correct position, and the bloused appearance disappears. The larger leg areas relax over the figure and hang free. Purchasing a larger size makes adjustment simpler; reduce the waistline instead (see 4 Small Waist).",
+      "change_required": "Widen the back and front trouser legs.",
+      "methods": {
+        "slash": "Near the midfront and midback of each trouser leg, cut along the lengthwise grain from the hem through the hipline. Insert fabric strips. From the hemline to the kneeline, spread the cut edges evenly to relax the fabric and restore the ease; taper to nothing at the hipline. On the pattern, one fourth of the increase should be added at each (continues on p. 199).",
         "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "188 (pivot for trousers continues on p. 189)"
+        "pages": "198 (pattern note continues p. 199)"
       },
       "status": "draft",
       "reviewer": null
