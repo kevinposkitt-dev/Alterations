@@ -1614,11 +1614,85 @@
       "methods": {
         "slash": "Near each side seam, slash the garment front from the armscye to the waistline. Insert fabric strips. To increase width, separate each set of cut edges evenly to relax the fabric and restore the ease at the bustline. Mark new underarm dart tip positions, if necessary. Restore the armscye size with a dart in each lower armscye area; taper to nothing at the new underarm dart tip positions; true the armscye across the adjustment.",
         "seam": null,
+        "pivot": "Adjust for width first. Release the side seams. Let out the front seam allowances equally at the bustline as needed to relax the fabric and restore the ease over the bust. Mark the new side seamline position at the underarm dart. Release the underarm darts and widen them equally at the upper dartline until the fabric lies smooth but relaxed at the edge of the bust area. Draw each new side seamline in a straight line parallel to the original from the waistline to the armscye seam allowances; restore the length of the side seamline by measuring from the waistline into the armscye; mark the ends at the armscyes. Draw new armscye seamlines from the original seamline at the arm hinge area to the end of the new side seamline. To restore the waistline size, release the front waistline and the waistline dart; widen each waistline dart at the side dartline to absorb the width adjustment at the side seam; move the dart tip toward the side by one half the dart width adjustment; stitch the darts; true the waistline across the adjusted darts; stitch the side seamlines and waistline seam. For a C or larger cup, where the centre front is correct but the centre back is too long: shorten only the back. Release the side seams; make a parallel tuck completely across the back area at the bustline to remove the excess length; widen the dart equal to the length adjustment; true side seams in straight lines across the adjustments."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "288-289"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "bust-66-small-bust",
+      "area": "bust",
+      "number": 66,
+      "name": "Small bust",
+      "figure_analysis": "The bust development is less than average (below a B cup); the circumference at the bustline is smaller. There is no relationship between muscle and frame size and bust development.",
+      "fitting_analysis": [
+        "Garment too loose at the bustline, which draws attention to the smallness of the contour",
+        "Loose vertical folds across the underarm dart; bust fitting line may droop at centre front",
+        "Loose horizontal fold may form underneath the bust; lower edges of unfastened closures spread apart; front waist and hemlines droop",
+        "A padded B-cup bra may eliminate the need for garment adjustment"
+      ],
+      "fabric_requirement": "The smaller bust circumference needs less fabric width at the bustline, and less length may be needed at centre front at bust level. Narrower darts result. The smaller garment area lies smoothly against the body; the bust fitting line and lower edges become level; closure edges lie plumb. Armscye size does not decrease although the shape changes; the armscye size is set by arm joint structure and rib cage depth.",
+      "change_required": "Narrow the front at the bustline; shorten the front, if necessary.",
+      "methods": {
+        "slash": "Near each side seam, form a vertical parallel tuck on the garment front. Adjust the tuck widths equally until the fabric is smooth but relaxed at the bustline. Continue the tucks an even width to the armscye and the waistline. Mark new underarm dart tip positions, if necessary. To restore the armscye size, slash through the lower armscye area, continuing to the new tip of each underarm dart; insert fabric strips; separate each set of cut edges equally at the armscye to gain an amount of width equal to the adjustment at the side seam area; true the armscye across the adjustment.",
+        "seam": null,
+        "pivot": "Adjust for width first. Release the side seams. Take in the side seam areas equally at the bustline to remove the excess fabric; retain sufficient ease over the bust. Mark the new side seamline position at the underarm dart. To correct the length, release the underarm darts; narrow both darts equally at the upper dartlines until the fabric lies smooth but relaxed at the armscye areas. Draw each new side seamline in a straight line parallel to the original from the waistline to the armscye seamlines. To restore the waistline size, release the front waistline and the waistline darts; narrow each waistline dart at the side dartlines to let out the width taken up at the side seam; move the dart tip toward the centre by one half the dart width adjustment; stitch the darts; raise the waistline seam if needed; shorten the back an equal amount; true the waistline across the adjusted darts. Restore the length of each side seamline by measuring from the new waistline toward the armscye; mark the end at the armscye areas. Draw new armscye seamlines from the original seamline at the arm hinge area to the end of the new side seamline; stitch the side seams and the waistline seam."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "292-293"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "ribs-67-flared-lower-ribs",
+      "area": "rib cage",
+      "number": 67,
+      "name": "Flared lower ribs",
+      "figure_analysis": "The front of the rib cage slopes outward excessively from the chest to the lower edge. The lower rib contour protrudes more than average and increases the torso circumference at that level. The area over the diaphragm may be recessed.",
+      "fitting_analysis": [
+        "Garment taut across the lower edge of the rib cage; at centre front the fabric forms tight horizontal wrinkles",
+        "Strain causes the waist dartlines to curve toward each other"
+      ],
+      "fabric_requirement": "The fullness at the lower edge of the rib cage needs more fabric width at the midfront areas. The waist darts are sewn in straight rather than curved lines. The increase in garment width relieves the strain and relaxes the fabric.",
+      "change_required": "Release width from the front waistline darts.",
+      "methods": {
+        "slash": "Not appropriate, because only the dartline contours can be adjusted. Use the pivot procedure.",
+        "seam": null,
+        "pivot": "Release the waist seam across the front waistline darts. Put on the garment and let out both darts until the darts and the fabric relax. Stitch the darts and the waistline."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "296-297"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "ribs-68-long-midriff",
+      "area": "rib cage",
+      "number": 68,
+      "name": "Long midriff",
+      "figure_analysis": "The lower ribs and vertebrae may be heavier than average. The spacing between the ribs may be greater, or the spine may be longer than average in the area between the waist and the lower rib cage. These factors increase body length between the waist and the bust and blade areas.",
+      "fitting_analysis": [
+        "Garment taut at the waistline; fabric forms tight horizontal wrinkles because the garment waistline lies above the waist level of the body",
+        "A higher waistline on a jacket or semi-fitted garment cut in one piece with the skirt may create unattractive body proportions"
+      ],
+      "fabric_requirement": "The longer midriff area needs more fabric length between the waistline and the lower edges of the bust and blade contours. The longer garment area lets the fabric relax, and the waistline aligns with the contour of the body at the waist.",
+      "change_required": "Lengthen the midriff.",
+      "methods": {
+        "slash": "Slash around the entire garment near the waistline. Insert fabric strips. To increase length, separate the cut edges evenly around the garment until the waistline aligns with the waist contour.",
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "288 (pivot continues on p. 289, not yet read)"
+        "pages": "298 (pivot on p. 299, not yet read)"
       },
       "status": "draft",
       "reviewer": null
