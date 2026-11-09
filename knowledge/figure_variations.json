@@ -1270,11 +1270,133 @@
       "methods": {
         "slash": "Slash diagonally from each neckline extension to the corresponding armscye at the arm hinge area. Insert fabric strips. To increase width and length, spread the cut edges equally at the dart tips to relax the fabric and restore the ease; taper to nothing at the neckline and the armscyes.",
         "seam": null,
+        "pivot": "Release the shoulder and the back armscye seams above the arm hinge areas. Widen the back darts equally until the garment is smooth but relaxed over the shoulder blades and at the armscye; curve and lengthen the darts as needed. Let out the armscye seam allowances to restore the length of the shoulder seamlines. Blend the new armscye into the original at the arm hinge area. Draw each new shoulder seamline in a straight line across the stitched darts."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "258-259"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-52-flat-shoulder-blades",
+      "area": "rib cage",
+      "number": 52,
+      "name": "Flat shoulder blades",
+      "figure_analysis": "The upper portions of the shoulder blades curve outward less than average; the back may appear erect. The width and length decrease from armscye to armscye and from the centre of each shoulder seamline to the blade line, respectively. Asymmetrical figures may have one prominent and one flat blade.",
+      "fitting_analysis": [
+        "Fabric loose over the shoulder blades and may form loose vertical wrinkles"
+      ],
+      "fabric_requirement": "A less-curved shoulder blade contour needs less fabric width and length and less dart shaping. The shoulder dart becomes narrower. The smaller garment area lies smoothly against the body.",
+      "change_required": "Narrow and shorten the area over the blades.",
+      "methods": {
+        "slash": "To remove the excess fabric at the tips of the back shoulder darts, form diagonal tucks of equal widths that point toward the neck and underarm. Adjust the tuck widths until the fabric lies smooth; retain sufficient ease; taper to nothing at the neckline and armscyes.",
+        "seam": null,
+        "pivot": "Release the shoulder seams, the darts and the back armscye seams above the arm hinge areas. Let out the darts equally until the garment is smooth but relaxed over the shoulder blades. Straighten and shorten the darts as needed. Draw new armscye seamlines in the garment area to restore the length of the shoulder seamlines; blend into the original at the arm hinge area. Draw each new shoulder seamline in a straight line across the stitched darts."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "260-261"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-53-broad-chest-upper-back",
+      "area": "rib cage",
+      "number": 53,
+      "name": "Broad chest / upper back",
+      "figure_analysis": "The upper part of the rib cage is fuller than average. The chest or upper back muscle development and soft tissue deposits may be heavier. This increases the width between the arm joints. The structure of the arm joints and arms is not affected.",
+      "fitting_analysis": [
+        "Fabric taut from armscye to armscye, forming tight horizontal wrinkles",
+        "Sleeve pulls toward the body centres, causing the armscye to cut against the arm hinge",
+        "Vertical fitting line on the sleeve cap bows toward the fullness; chest and blade fitting lines remain level"
+      ],
+      "fabric_requirement": "The increased chest or blade span needs more fabric width at the corresponding scyeline and armscyes. This relieves strain at the underarm and chest (blade); sleeves and armscyes relax and align without adjustment.",
+      "change_required": "Widen the area across the chest or the blades.",
+      "methods": {
+        "slash": "About 1 inch (2.5 cm) from each armscye, slash from the shoulderline to the scyeline along the lengthwise grain. Insert fabric strips. To increase width, separate the cut edges equally at the chest or blade line until the armscye lines move to comfortable and attractive positions. Taper to nothing at the shoulders and the scyeline.",
+        "seam": null,
+        "pivot": "Release the front of the sleeves. Mark the new armscye stitching lines in the seam allowance areas at the edges of the chest (blade) so they lie in comfortable and attractive positions. Taper into the original seamlines near the shoulders and lower armscye curves. Attach the sleeves to the armscyes using the new armscye seamlines."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "262-263"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-54-narrow-chest-upper-back",
+      "area": "rib cage",
+      "number": 54,
+      "name": "Narrow chest / upper back",
+      "figure_analysis": "The upper part of the rib cage is smaller than average. Chest or upper back muscle development and soft tissue deposits are minimal; the back may appear erect. The width decreases between the arm joints. The structure of the arm joints and arms is not affected.",
+      "fitting_analysis": [
+        "Fabric loose along the edges of the chest or the blades and at the underarm areas",
+        "When the arms move forward, the front armscyes cut against the arm hinges",
+        "When the arms are lifted, sleeves pull against the arm and restrict movement; chest and blade fitting lines remain level"
+      ],
+      "fabric_requirement": "A decreased chest or blade span needs less fabric width at the corresponding scyeline and armscyes. This lets the garment lie smoothly and comfortably against the rib cage; sleeves align without adjustment.",
+      "change_required": "Narrow the area across the chest or the blade.",
+      "methods": {
+        "slash": "About 1 inch (2.5 cm) from each armscye, form a vertical tuck to remove the excess fabric. Adjust the widths equally until the garment area is smooth; retain sufficient ease at the blade line. Taper the ends of the tucks to nothing near the shoulders and the scyeline.",
+        "seam": null,
+        "pivot": "Mark new armscye seamlines in the garment area at the edges of the chest (blade) so they lie in comfortable and attractive positions. Taper into the original seamlines near the shoulder and the lower armscye curves. If the sleeves have been set in, release the front (back) areas from the shoulders to the underarm areas and proceed as stated above. Attach the sleeves to the armscyes using the new armscye seamlines."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "264-265"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-55-wide-rib-cage",
+      "area": "rib cage",
+      "number": 55,
+      "name": "Wide rib cage",
+      "figure_analysis": "The midsection of the rib cage is fuller than average and increases the body circumference at the scye line. The side of the rib cage tapers more than average. This lengthens the side of the body between the base of the arm joints and the waist. Chest and blade fitting lines remain level; arm joints and arms are not affected.",
+      "fitting_analysis": [
+        "Fabric taut under each arm, forming tight wrinkles that follow the curves of the armscye seamlines",
+        "Tightness makes the armscyes appear too tight and the bust area of the garment appear too small"
+      ],
+      "fabric_requirement": "The increased rib cage circumference needs more fabric width at the scyeline. This relieves strain and restores ease in the garment at the underarm areas; armscyes align with the body contour. The adjustment may be needed on the back, the front, or both.",
+      "change_required": "Widen the area near the underarm extension.",
+      "methods": {
+        "slash": "Slash from the mid-armscye to the waistline, following the lengthwise grain. Insert fabric strips. To increase width, spread the cut edges equally at the scyeline to relieve the tension and restore the ease. Taper the end of each slash to nothing at the armscye and waistline.",
+        "seam": null,
+        "pivot": "Release the side seams and the lower armscye seams up to the corresponding blade or chest area. Let out the side seam allowances equally at the scyeline to relieve the tension and restore the ease. Restore the armscye seamline from the new side seam position to the original at the blade or chest area. Draw a new side seam in a straight line from the new position at the underarm to the original at the waistline. Repeat on the front as needed."
+      },
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "266-267"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "rib-56-narrow-rib-cage",
+      "area": "rib cage",
+      "number": 56,
+      "name": "Narrow rib cage",
+      "figure_analysis": "The midsection of the rib cage is narrower than average and decreases the body circumference at the scyeline. The upper torso area tapers less than average. This shortens the side of the body between the base of the arm joints and the waist. Chest and blade fitting lines remain level.",
+      "fitting_analysis": [
+        "Fabric near the lower armscye hangs in vertical folds near the armscyes on front and back",
+        "Excess garment width inhibits arm movement; the front armscye cuts against the arm hinge",
+        "Sleeves appear too tight when the arms are lifted"
+      ],
+      "fabric_requirement": "A decreased rib cage circumference needs less fabric width at the scyeline. This permits the armscyes to align with the body contour and the arm to move without constraint or discomfort. The adjustment may be needed on the back, the front, or both.",
+      "change_required": "Narrow the area near the underarm extension.",
+      "methods": {
+        "slash": "Below the vertical portion of the armscyes, form vertical tucks of equal widths at the scyeline. Adjust the widths equally until the excess fabric is removed; retain sufficient ease. Taper the tucks to nothing at the armscye and the waistline.",
+        "seam": null,
         "pivot": null
       },
       "source": {
         "book": "Fitting & Pattern Alteration (Liechty et al.)",
-        "pages": "258 (pivot continues on p. 259)"
+        "pages": "268 (pivot continues on p. 269)"
       },
       "status": "draft",
       "reviewer": null
