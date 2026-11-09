@@ -457,6 +457,51 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "figure-mirror-check",
+      "statement": "Assume each side of the body is a mirror of the other only until measured. Asymmetry is common and must be checked for each area: neck slope, shoulder length and height, back and chest width, bust, waist, hip, and limbs.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": "asymmetry_checked",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "36"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "standard-proportions-reference",
+      "statement": "Standard proportions give a starting reference: back neck-to-waist about equal to shoulder width; hip about equal to or slightly less than shoulder width; bust about equal to hip; waist about ten inches less than bust.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": "proportion_reference",
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "34"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "posture-before-alteration",
+      "statement": "Check posture before altering, because posture can cause many fit problems that correct themselves when posture changes. Rounded upper backs and swayed backs change the length of the back and front.",
+      "applies_to": [
+        "all"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Fitting & Pattern Alteration (Liechty et al.)",
+        "pages": "37-38"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }
