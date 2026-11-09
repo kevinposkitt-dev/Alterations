@@ -1,0 +1,2358 @@
+{
+  "book": "Fitting & Pattern Alteration (Liechty, Pottberg, Rasband)",
+  "schema": "Index of the uploaded book: sections, figure variations 1-85 (as far as read), principles, pending items. Summaries only; no book text.",
+  "sections": [
+    {
+      "part": "Part One",
+      "title": "Equipment, measuring and the standard figure",
+      "pages": "1-48",
+      "status": "approx",
+      "note": "Chapters 1-5; detailed notes in the scratchpad fitting notes file."
+    },
+    {
+      "part": "Part One",
+      "title": "Pattern markings, grainline, balance, basic ease, fitting standards",
+      "pages": "49-68",
+      "status": "read"
+    },
+    {
+      "part": "Part One",
+      "title": "Fitting methods (pinned pattern, trial garment, measurement)",
+      "pages": "69-88",
+      "status": "read"
+    },
+    {
+      "part": "Part One",
+      "title": "Pattern comparison and alteration methods (slash, seam, pivot)",
+      "pages": "89-124",
+      "status": "read"
+    },
+    {
+      "part": "Part Two",
+      "title": "Figure variations (hip, waist, leg, neck, shoulder, arm, rib cage, bust)",
+      "pages": "125-313",
+      "status": "read"
+    },
+    {
+      "part": "Part Three",
+      "title": "Measurement chart",
+      "pages": "341",
+      "status": "read"
+    },
+    {
+      "part": "Part Three",
+      "title": "Adjustment record forms",
+      "pages": "342-344",
+      "status": "read"
+    }
+  ],
+  "figure_variations": [
+    {
+      "number": 1,
+      "id": "hip-01-long-lower-torso",
+      "name": "Long lower torso",
+      "area": "hip",
+      "pages": "126-127",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 2,
+      "id": "hip-02-short-lower-torso",
+      "name": "Short lower torso",
+      "area": "hip",
+      "pages": "128-129",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 3,
+      "id": "waist-03-large-waist",
+      "name": "Large waist",
+      "area": "waist",
+      "pages": "130-131",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 4,
+      "id": "waist-04-small-waist",
+      "name": "Small waist",
+      "area": "waist",
+      "pages": "132-133",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 5,
+      "id": "hip-05-prominent-hip-bones",
+      "name": "Prominent hip bones",
+      "area": "hip",
+      "pages": "134-135",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 6,
+      "id": "abdomen-06-prominent-abdomen",
+      "name": "Prominent abdomen",
+      "area": "abdomen",
+      "pages": "136-137",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 7,
+      "id": "abdomen-07-flat-abdomen",
+      "name": "Flat abdomen",
+      "area": "abdomen",
+      "pages": "138-139",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 8,
+      "id": "hip-08-sway-back",
+      "name": "Sway back",
+      "area": "hip",
+      "pages": "140-143",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 9,
+      "id": "hip-09-pelvis-tilts-toward-back",
+      "name": "Pelvis tilts toward back",
+      "area": "hip",
+      "pages": "144-145",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 10,
+      "id": "hip-10-prominent-upper-hip-curve",
+      "name": "Prominent upper hip curve",
+      "area": "hip",
+      "pages": "146-147",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 11,
+      "id": "hip-11-sloping-upper-hip-curve",
+      "name": "Sloping upper hip curve",
+      "area": "hip",
+      "pages": "148-149",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 12,
+      "id": "hip-12-broad-hips",
+      "name": "Broad hips",
+      "area": "hip",
+      "pages": "150-153",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 13,
+      "id": "hip-13-narrow-hips",
+      "name": "Narrow hips",
+      "area": "hip",
+      "pages": "154-156",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 14,
+      "id": "hip-14-cylindrical-torso-hip-area",
+      "name": "Cylindrical-shaped torso (hip area)",
+      "area": "hip",
+      "pages": "158-159",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 15,
+      "id": "hip-15-flattened-oval-torso-hip-area",
+      "name": "Flattened oval-shaped torso (hip area)",
+      "area": "hip",
+      "pages": "160-161",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 16,
+      "id": "hip-16-high-buttocks-contour",
+      "name": "High buttocks contour",
+      "area": "hip",
+      "pages": "162-163",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 17,
+      "id": "hip-17-drooped-buttocks",
+      "name": "Drooped buttocks",
+      "area": "hip",
+      "pages": "164-165",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 18,
+      "id": "hip-18-large-buttocks",
+      "name": "Large buttocks",
+      "area": "hip",
+      "pages": "166-168",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 19,
+      "id": "hip-19-flat-buttocks",
+      "name": "Flat buttocks",
+      "area": "hip",
+      "pages": "170-171",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 20,
+      "id": "hip-20-prominent-pubic-area",
+      "name": "Prominent pubic area",
+      "area": "hip",
+      "pages": "174-175",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 21,
+      "id": "hip-21-recessed-pubic-area",
+      "name": "Recessed pubic area",
+      "area": "hip",
+      "pages": "176-177",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 22,
+      "id": "leg-22-long-legs",
+      "name": "Long legs",
+      "area": "leg",
+      "pages": "180-181",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 23,
+      "id": "leg-23-short-legs",
+      "name": "Short legs",
+      "area": "leg",
+      "pages": "182-183",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 24,
+      "id": "leg-24-large-thighs-at-inside",
+      "name": "Large thighs at inside",
+      "area": "leg",
+      "pages": "184-185",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 25,
+      "id": "leg-25-shallow-thighs-at-inside",
+      "name": "Shallow thighs at inside",
+      "area": "leg",
+      "pages": "186-187",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 26,
+      "id": "leg-26-large-thighs-at-front",
+      "name": "Large thighs at front",
+      "area": "leg",
+      "pages": "188-189",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 27,
+      "id": "leg-27-large-thighs-at-sides",
+      "name": "Large thighs at sides",
+      "area": "leg",
+      "pages": "190-191",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 28,
+      "id": "leg-28-outward-knee-rotation",
+      "name": "Outward knee rotation",
+      "area": "leg",
+      "pages": "192-193",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 29,
+      "id": "leg-29-inward-knee-rotation",
+      "name": "Inward knee rotation",
+      "area": "leg",
+      "pages": "194-195",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 30,
+      "id": "leg-30-hyperextended-calves",
+      "name": "Hyperextended calves",
+      "area": "leg",
+      "pages": "196-197",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 31,
+      "id": "leg-31-large-legs",
+      "name": "Large legs",
+      "area": "leg",
+      "pages": "198-199",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 32,
+      "id": "leg-32-thin-legs",
+      "name": "Thin legs",
+      "area": "leg",
+      "pages": "200-201",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 33,
+      "id": "neck-33-high-neck-base-at-sides",
+      "name": "High neck base at sides",
+      "area": "neck",
+      "pages": "204-205",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 34,
+      "id": "neck-34-shallow-neck-base-at-sides",
+      "name": "Shallow neck base at sides",
+      "area": "neck",
+      "pages": "208-209",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 35,
+      "id": "neck-35-large-neck",
+      "name": "Large neck",
+      "area": "neck",
+      "pages": "212-213",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 36,
+      "id": "neck-36-thin-neck",
+      "name": "Thin neck",
+      "area": "neck",
+      "pages": "214-215",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 37,
+      "id": "neck-37-forward-neck",
+      "name": "Forward neck",
+      "area": "neck",
+      "pages": "216-217",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 38,
+      "id": "neck-38-dowager-hump",
+      "name": "Dowager hump",
+      "area": "neck",
+      "pages": "218-219",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 39,
+      "id": "shoulder-39-broad-shoulders",
+      "name": "Broad shoulders",
+      "area": "shoulder",
+      "pages": "222-223",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 40,
+      "id": "shoulder-40-narrow-shoulders",
+      "name": "Narrow shoulders",
+      "area": "shoulder",
+      "pages": "226-227",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 41,
+      "id": "shoulder-41-square-shoulders",
+      "name": "Square shoulders",
+      "area": "shoulder",
+      "pages": "230-233",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 42,
+      "id": "shoulder-42-sloping-shoulders",
+      "name": "Sloping shoulders",
+      "area": "shoulder",
+      "pages": "234-237",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 43,
+      "id": "arm-43-long-arm-joints-bodice",
+      "name": "Long arm joints (bodice)",
+      "area": "arm",
+      "pages": "238-239",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 44,
+      "id": "arm-44-short-arm-joints-bodice",
+      "name": "Short arm joints (bodice)",
+      "area": "arm",
+      "pages": "240-241",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 45,
+      "id": "arm-45-forward-arm-joints-bodice",
+      "name": "Forward arm joints (bodice)",
+      "area": "arm",
+      "pages": "242-243",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 46,
+      "id": "neck-46-prominent-collar-bones",
+      "name": "Prominent collar bones",
+      "area": "neck",
+      "pages": "246-247",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 47,
+      "id": "rib-47-prominent-sternum-rounded-chest",
+      "name": "Prominent sternum / rounded chest",
+      "area": "rib cage",
+      "pages": "250-251",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 48,
+      "id": "rib-48-hollow-chest",
+      "name": "Hollow chest",
+      "area": "rib cage",
+      "pages": "252-253",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 49,
+      "id": "rib-49-rounded-upper-back",
+      "name": "Rounded upper back",
+      "area": "rib cage",
+      "pages": "254-255",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 50,
+      "id": "rib-50-erect-upper-back",
+      "name": "Erect upper back",
+      "area": "rib cage",
+      "pages": "256-257",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 51,
+      "id": "rib-51-prominent-shoulder-blades",
+      "name": "Prominent shoulder blades",
+      "area": "rib cage",
+      "pages": "258-259",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 52,
+      "id": "rib-52-flat-shoulder-blades",
+      "name": "Flat shoulder blades",
+      "area": "rib cage",
+      "pages": "260-261",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 53,
+      "id": "rib-53-broad-chest-upper-back",
+      "name": "Broad chest / upper back",
+      "area": "rib cage",
+      "pages": "262-263",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 54,
+      "id": "rib-54-narrow-chest-upper-back",
+      "name": "Narrow chest / upper back",
+      "area": "rib cage",
+      "pages": "264-265",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 55,
+      "id": "rib-55-wide-rib-cage",
+      "name": "Wide rib cage",
+      "area": "rib cage",
+      "pages": "266-267",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 56,
+      "id": "rib-56-narrow-rib-cage",
+      "name": "Narrow rib cage",
+      "area": "rib cage",
+      "pages": "268-269",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 57,
+      "id": "rib-57-cylindrical-torso-rib-cage",
+      "name": "Cylindrical-shaped torso (rib cage)",
+      "area": "rib cage",
+      "pages": "270-271",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 58,
+      "id": "rib-58-oval-torso-rib-cage",
+      "name": "Oval-shaped torso (rib cage)",
+      "area": "rib cage",
+      "pages": "272-273",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 59,
+      "id": "rib-59-long-upper-rib-cage",
+      "name": "Long upper rib cage",
+      "area": "rib cage",
+      "pages": "274-275",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 60,
+      "id": "rib-60-short-upper-rib-cage",
+      "name": "Short upper rib cage",
+      "area": "rib cage",
+      "pages": "276-277",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 61,
+      "id": "bust-61-high-bust-position",
+      "name": "High bust position",
+      "area": "bust",
+      "pages": "278-279",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 62,
+      "id": "bust-62-low-pendulous-bust-position",
+      "name": "Low or pendulous bust position",
+      "area": "bust",
+      "pages": "280-281",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 63,
+      "id": "bust-63-wide-bust-point-span",
+      "name": "Wide bust point span",
+      "area": "bust",
+      "pages": "282-283",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 64,
+      "id": "bust-64-prominent-bust",
+      "name": "Prominent bust",
+      "area": "bust",
+      "pages": "284-287",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 65,
+      "id": "bust-65-large-bust",
+      "name": "Large bust",
+      "area": "bust",
+      "pages": "288-289",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 66,
+      "id": "bust-66-small-bust",
+      "name": "Small bust",
+      "area": "bust",
+      "pages": "292-293",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 67,
+      "id": "ribs-67-flared-lower-ribs",
+      "name": "Flared lower ribs",
+      "area": "rib cage",
+      "pages": "296-297",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 68,
+      "id": "ribs-68-long-midriff",
+      "name": "Long midriff",
+      "area": "rib cage",
+      "pages": "298-299",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 69,
+      "id": "ribs-69-short-midriff",
+      "name": "Short midriff",
+      "area": "rib cage",
+      "pages": "300-301",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 70,
+      "id": "waist-70-large-waist",
+      "name": "Large waist",
+      "area": "waist",
+      "pages": "302-303",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 71,
+      "id": "waist-71-small-waist",
+      "name": "Small waist",
+      "area": "waist",
+      "pages": "304-305",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 72,
+      "id": "arm-72-arm-length-variations",
+      "name": "Arm length variations",
+      "area": "arm",
+      "pages": "309-310",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 73,
+      "id": "arm-73-long-arm-joints-sleeves",
+      "name": "Long arm joints (sleeves)",
+      "area": "arm",
+      "pages": "314-315",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 74,
+      "id": "arm-74-short-arm-joints-sleeves",
+      "name": "Short arm joints (sleeves)",
+      "area": "arm",
+      "pages": "316-317",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 75,
+      "id": "shoulder-75-large-shoulder-joints",
+      "name": "Large shoulder joints",
+      "area": "shoulder",
+      "pages": "318-319",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 76,
+      "id": "arm-76-small-shoulder-joints",
+      "name": "Small shoulder joints",
+      "area": "arm",
+      "pages": "320-321",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 77,
+      "id": "shoulder-77-forward-arm-joints-sleeves",
+      "name": "Forward arm joints (sleeves)",
+      "area": "shoulder",
+      "pages": "322-323",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 78,
+      "id": "arm-78-large-arms",
+      "name": "Large arms",
+      "area": "arm",
+      "pages": "324-325",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 79,
+      "id": "arm-79-thin-arms",
+      "name": "Thin arms",
+      "area": "arm",
+      "pages": "326-327",
+      "has_slash": true,
+      "has_pivot": true,
+      "flags": [],
+      "status": "draft"
+    },
+    {
+      "number": 80,
+      "id": "arm-80-large-upper-arms",
+      "name": "Large upper arms",
+      "area": "arm",
+      "pages": "328 (pivot on p. 329, not yet read)",
+      "has_slash": true,
+      "has_pivot": false,
+      "flags": [
+        "pages pending"
+      ],
+      "status": "draft"
+    }
+  ],
+  "figures_not_yet_recorded": [
+    81,
+    82,
+    83,
+    84,
+    85
+  ],
+  "principle_count": 173,
+  "principles": [
+    {
+      "id": "ease-fixed-amount",
+      "pages": "16",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "jackets"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "side-seams-match",
+      "pages": "16",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "jackets",
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "armhole-drafted-from-points",
+      "pages": "17",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "jackets"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "knit-tops-dartless",
+      "pages": "76",
+      "applies_to": [
+        "tops-knit"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "uneven-side-split",
+      "pages": "89-90",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeveless-side-seam-rise",
+      "pages": "90",
+      "applies_to": [
+        "tops-sleeveless"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "taper-to-nothing",
+      "pages": "189-197",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "width-then-armscye-then-darts",
+      "pages": "289-291",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "jackets"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "back-length-independent",
+      "pages": "289",
+      "applies_to": [
+        "tops",
+        "jackets"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "order-length-then-width",
+      "pages": "111",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "blend-asymmetric-to-centre",
+      "pages": "110",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "dartline-lengths-equal",
+      "pages": "109,116",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "jackets",
+        "skirts",
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "edges-straight-and-square",
+      "pages": "116",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "seams-smooth-at-joins",
+      "pages": "116",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "jackets"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-cap-ease",
+      "pages": "116",
+      "applies_to": [
+        "tops-sleeved",
+        "dresses-sleeved",
+        "jackets"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "prepare-pattern-flat",
+      "pages": "99-100",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "adjoining-edges-equal",
+      "pages": "99",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "centre-lines-straight-and-square",
+      "pages": "100",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "plan-alteration-at-edge",
+      "pages": "101,103",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "hinge-clips-not-through-stitching",
+      "pages": "101,104",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "even-then-uneven",
+      "pages": "103-104",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "duplicate-and-retrace",
+      "pages": "104-106",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "asymmetric-taper-to-centre",
+      "pages": "107",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "ease-depends-on-fabric",
+      "pages": "12",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "layers-nest",
+      "pages": "13",
+      "applies_to": [
+        "jackets",
+        "coats",
+        "layered-garments"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "bulky-fabric-more-ease",
+      "pages": "12",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "balance-both-sides",
+      "pages": "14",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "single-dominant-emphasis",
+      "pages": "17-18",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "choose-style-to-solve-fit",
+      "pages": "19",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "figure-mirror-check",
+      "pages": "36",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "standard-proportions-reference",
+      "pages": "34",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "posture-before-alteration",
+      "pages": "37-38",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "size-by-bust-with-cup",
+      "pages": "41",
+      "applies_to": [
+        "tops",
+        "dresses",
+        "jackets"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "posture-wall-check",
+      "pages": "39",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "company-defaults-differ",
+      "pages": "43-45",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "grainline-perpendicular-at-centre",
+      "pages": "55-58",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "side-seam-slopes-forward",
+      "pages": "55-58",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "dart-ends-short-of-fullest",
+      "pages": "55-58",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "waistline-parallel-to-floor",
+      "pages": "55-58",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "neckline-crosses-at-vertebra",
+      "pages": "55-58",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "shoulder-seam-close-and-straight",
+      "pages": "55-58",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "armscye-half-inch-from-arm",
+      "pages": "55-58",
+      "applies_to": [
+        "sleeveless",
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-edge-half-inch-beyond-armscye",
+      "pages": "55-58",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "underarm-seam-over-wrist",
+      "pages": "55-58",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "ease-depends-on-style",
+      "pages": "54",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "flare-follows-bias-and-grain",
+      "pages": "59",
+      "applies_to": [
+        "flared"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "flare-ripples-equal-and-level",
+      "pages": "59",
+      "applies_to": [
+        "flared"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pleat-lies-flat-with-ease",
+      "pages": "59",
+      "applies_to": [
+        "pleated"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "gathers-fall-free-no-tension",
+      "pages": "59",
+      "applies_to": [
+        "gathered"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "gathers-away-from-body-add-length",
+      "pages": "59-60",
+      "applies_to": [
+        "gathered"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "drape-needs-correct-tension",
+      "pages": "59-60",
+      "applies_to": [
+        "draped"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "darts-smooth-and-multiple-on-large-curve",
+      "pages": "60",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "collar-stand-fits-smoothly",
+      "pages": "60-61",
+      "applies_to": [
+        "collared"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "collar-follows-neckline-and-shoulder",
+      "pages": "61",
+      "applies_to": [
+        "collared"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "rolled-collar-outer-layer-larger",
+      "pages": "61",
+      "applies_to": [
+        "collared",
+        "lapelled"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pocket-placed-at-first-fitting",
+      "pages": "61",
+      "applies_to": [
+        "pocketed"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pocket-ease-over-curve",
+      "pages": "61",
+      "applies_to": [
+        "pocketed"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fitting-space-and-mirror",
+      "pages": "63",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fit-with-final-undergarments-and-shoes",
+      "pages": "63-64",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "standard-seam-allowance-5-8",
+      "pages": "64",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fit-begins-with-basic-pattern",
+      "pages": "64",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "adjoining-length-change-matches",
+      "pages": "65",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fit-simple-to-complex-and-largest-first",
+      "pages": "65-66",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "length-before-circumference",
+      "pages": "66",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "circumference-check-quarter-difference",
+      "pages": "65",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-check-half-difference",
+      "pages": "65",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fit-right-side-out-matched-centres",
+      "pages": "66",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "seamline-move-keeps-total-size",
+      "pages": "66",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "related-variations-counterbalance",
+      "pages": "66",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "wrinkle-direction-diagnosis",
+      "pages": "67",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "no-change-when-garment-matches-body",
+      "pages": "67",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "dart-size-from-bulge-and-slope",
+      "pages": "67",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "describe-change-in-body-terms",
+      "pages": "67",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "alteration-method-by-purpose",
+      "pages": "67",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fit-by-moving-through-motion",
+      "pages": "70",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "garment-change-mirrors-pattern-change",
+      "pages": "70",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pinned-pattern-overlap-not-wings",
+      "pages": "71",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "paper-rigidity-reads-as-tight",
+      "pages": "72",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pinned-unit-fit-bands-at-marks",
+      "pages": "73",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-pinned-on-relaxed-arm",
+      "pages": "74",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "slash-nearest-affected-seamline",
+      "pages": "74",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "hemlines-coordinated-across-units",
+      "pages": "74",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "dartline-stops-short-of-fullest",
+      "pages": "74",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "reinforce-opened-slash-with-backing",
+      "pages": "74",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trial-garment-plain-muslin",
+      "pages": "74-75",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trial-garment-basic-unadjusted-first",
+      "pages": "75",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trial-garment-mark-crosswise-lines",
+      "pages": "75-76",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "baste-with-care-no-machine-push",
+      "pages": "75",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "press-basted-garment-for-refitting",
+      "pages": "75",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trial-fabric-shows-grain-faults",
+      "pages": "77",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trial-cut-apart-must-be-grain-aligned",
+      "pages": "77",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "block-fabric-on-grain-before-cutting",
+      "pages": "77-78",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fit-unit-before-joining",
+      "pages": "78",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "plan-centre-front-opening-for-fitting",
+      "pages": "78",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "finished-fit-checklist",
+      "pages": "79",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "refine-total-then-transfer-to-paper",
+      "pages": "79",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "measure-body-plus-ease-for-moving-areas",
+      "pages": "80",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "measure-consistent-time-and-stance",
+      "pages": "80",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "measure-lower-torso-first",
+      "pages": "80",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "measure-at-stated-level",
+      "pages": "82-83",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "record-back-and-front-separately",
+      "pages": "82-83",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "compare-to-stitching-line-only",
+      "pages": "84",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "skirt-length-from-side-minus-hem",
+      "pages": "84",
+      "applies_to": [
+        "skirted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "hip-depth-marked-7-to-9-inches",
+      "pages": "84",
+      "applies_to": [
+        "skirted",
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "length-change-where-difference-lies",
+      "pages": "85",
+      "applies_to": [
+        "skirted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "width-change-even-at-seam-uneven-at-side",
+      "pages": "85",
+      "applies_to": [
+        "skirted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "prominent-front-thigh-raise-waist-curve",
+      "pages": "85",
+      "applies_to": [
+        "skirted",
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trouser-hip-depth-allowance",
+      "pages": "85-86",
+      "applies_to": [
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trouser-kneeline-keep-hem",
+      "pages": "85",
+      "applies_to": [
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trouser-hem-moved-parallel",
+      "pages": "85",
+      "applies_to": [
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "crotch-extension-thirds",
+      "pages": "89",
+      "applies_to": [
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "trouser-close-fit-even-change",
+      "pages": "90",
+      "applies_to": [
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "bodice-length-from-max-neckline",
+      "pages": "90",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "full-bodice-length-parallel-to-centre",
+      "pages": "90",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "princess-line-near-not-over-bust",
+      "pages": "90",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "outer-garment-lowers-armscye",
+      "pages": "90-91",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "bodice-lengths-change-below-bustline",
+      "pages": "91",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "shoulder-tip-line-square-to-centre",
+      "pages": "91",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "shoulder-pad-added-to-body",
+      "pages": "91",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "bodice-length-which-measure-agrees",
+      "pages": "91-92",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "bodice-length-centre-and-slope",
+      "pages": "92",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "empire-line-change-at-seam",
+      "pages": "91-92",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "jacket-ease-in-width",
+      "pages": "91-92",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "bodice-width-change-place",
+      "pages": "95",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-length-below-elbow-when-both-differ",
+      "pages": "98",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-cap-height-from-overarm",
+      "pages": "98",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-width-jacket-allowance",
+      "pages": "97-98",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-width-change-by-measure",
+      "pages": "98",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "elbow-rotation-forward-swing",
+      "pages": "98",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pattern-flat-no-puckers-after-change",
+      "pages": "100",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "centre-edge-change-even-near-centre",
+      "pages": "100",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "dart-change-fold-closed-then-cut",
+      "pages": "100",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "slash-line-through-area-of-change",
+      "pages": "101",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "slash-hinge-clip-without-cutting-stitch",
+      "pages": "101",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "alteration-move-even-slide-uneven-pivot",
+      "pages": "101-105",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "even-then-pivot-for-mixed-change",
+      "pages": "101-105",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "slash-distortion-grows-with-distance",
+      "pages": "100-101",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "seam-method-cut-near-stitch",
+      "pages": "103-104",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "seam-method-pivot-at-change-points",
+      "pages": "103",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "seam-method-preferred-for-many-changes",
+      "pages": "103",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pivot-method-trace-and-retrace",
+      "pages": "105-107",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pivot-method-contrast-cutting-line",
+      "pages": "105",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "asymmetric-each-half-tapers-to-centre",
+      "pages": "107",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "dart-tips-level-both-sides",
+      "pages": "107",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "related-alterations-waist-hip",
+      "pages": "107",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "illusion-of-symmetry-goal",
+      "pages": "107",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "multiple-variations-prefer-seam-or-pivot",
+      "pages": "100-105",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "dart-base-level-when-dart-changes",
+      "pages": "109",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "asymmetric-blend-to-nothing-at-centre",
+      "pages": "110",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "personal-basic-pattern-record",
+      "pages": "111,116",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "alteration-order-even-uneven-combined",
+      "pages": "111",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "hem-change-by-method",
+      "pages": "111-112",
+      "applies_to": [
+        "skirted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "waist-dart-widths-keep-circumference",
+      "pages": "113",
+      "applies_to": [
+        "darted",
+        "skirted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "hip-width-even-then-taper-to-nothing",
+      "pages": "114-115",
+      "applies_to": [
+        "skirted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "asymmetric-cut-larger-side-trim-smaller",
+      "pages": "115",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "finished-pattern-right-angles-at-hem-neck",
+      "pages": "116-117",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "finished-pattern-centres-straight",
+      "pages": "116-117",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "finished-pattern-flare-matches-back-front",
+      "pages": "116",
+      "applies_to": [
+        "skirted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "finished-pattern-joins-smooth",
+      "pages": "116-118",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "waistband-allowance-quarter-inch",
+      "pages": "116",
+      "applies_to": [
+        "skirted",
+        "trousers"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-underarm-space-eighth-to-three-eighths",
+      "pages": "116",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sleeve-cap-larger-than-armscye",
+      "pages": "116",
+      "applies_to": [
+        "sleeved"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "preserve-paper-pattern-dry-iron",
+      "pages": "116",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sloper-from-marked-fitting-sections",
+      "pages": "119-120",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sloper-sections-leave-small-gap",
+      "pages": "119",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "sloper-darts-straight-lines",
+      "pages": "119",
+      "applies_to": [
+        "darted"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fashion-same-brand-same-adjustment",
+      "pages": "120",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fashion-neckline-may-cancel-alteration",
+      "pages": "120",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "lowered-armscye-check-cap-and-bust",
+      "pages": "120",
+      "applies_to": [
+        "sleeved",
+        "sleeveless"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "shoulder-tip-width-check-puff-sleeve",
+      "pages": "120",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fashion-match-centre-and-waist",
+      "pages": "120",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "fashion-at-least-basic-size-areas",
+      "pages": "122",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pretest-design-small-scale",
+      "pages": "122",
+      "applies_to": [
+        "all"
+      ],
+      "status": "draft"
+    }
+  ]
+}
