@@ -23,5 +23,8 @@ Seamly integration tests run only when Seamly2D is installed:
 SEAMLY_BIN="/path/to/Seamly2D" SEAMLY_TEST_PATTERN="/path/to/test.sm2d" npm run test:seamly
 ```
 
+Exports are written as `<basename>_layout_01.<ext>` in the output folder (verified on macOS).
+A pattern with no pieces exports nothing and Seamly reports "You can't export empty scene."
+
 `SEAMLY_BIN` must point to the executable on that machine. The Seamly export arguments in
 `src/seamly.js` are unverified and must be confirmed against the installed version.

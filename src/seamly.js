@@ -6,7 +6,8 @@
 //
 // Flags come from `seamly2d --help` (Seamly2D on macOS):
 //   <pattern.sm2d>  pattern file (positional)
-//   -b <basename>   enables console export mode and sets the output file name
+//   -b <basename>   enables console export mode. Output is named
+//                   <basename>_layout_01.<ext> (verified on macOS, Seamly2D 2026.11.9)
 //   -d <dir>        output folder
 //   -m <file.vit>   custom measurement file, so the pattern is re-measured
 //   -f <number>     output format number
