@@ -3083,6 +3083,127 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-sleeve-elbow-room",
+      "statement": "A sleeve must leave enough room for the elbow to bend without strain and should hang straight, following the natural curve of the arm.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-sleeve-split-elbow-dart",
+      "statement": "A single elbow dart gives a pointed elbow; dividing it into several darts curves the sleeve more gently.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "58"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-cuff-shortens-gathered-sleeve",
+      "statement": "Adding a cuff to a gathered sleeve shortens the sleeve by about half the cuff width.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "60"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-puff-crown-spread-raise",
+      "statement": "On a puffed sleeve, spreading the crown gives fuller gathers and raising it gives a puffier shape.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "61"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-shirt-sleeve-cuff-length",
+      "statement": "A shirt sleeve with a cuff should be about 1.5 cm longer than the fitted sleeve, so it falls slightly over the cuff.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "62"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-dropped-shoulder-armhole-drop",
+      "statement": "On a dropped shoulder, drop the armhole so the new armhole stays close in length to the regular armhole.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "63"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-two-piece-sleeve-elbow-curve",
+      "statement": "A two-piece sleeve follows the arm's natural curve by moving the hem forward at the elbow and curving the back elbow.",
+      "applies_to": [
+        "jacket",
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "65"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-raglan-two-piece-rigid-fabric",
+      "statement": "Use a two-piece raglan for rigid fabric, where a single dart would form a point; a raglan pad helps keep the shoulder curve.",
+      "applies_to": [
+        "sleeved"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "66"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

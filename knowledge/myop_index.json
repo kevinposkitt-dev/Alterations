@@ -2,7 +2,7 @@
   "book": "Make Your Own Patterns (René Bergh)",
   "schema": "Index of the MYOP text: sections with page ranges, short rule summaries, and principle ids. Summaries only; no book text. Source text: 60577b04-Make_Your_Own_Patterns.txt (5,490 lines, pages about 12-126).",
   "status": "in progress",
-  "read_to_line": 2604,
+  "read_to_line": 3085,
   "sections": [
     {
       "pages": "6-20",
@@ -285,8 +285,79 @@
       "status": "read",
       "summary": "A shawl collar can be cut with the front or separately, and can be rounded, pointed or notched. A notched shawl gives a similar look to a notched collar with fewer steps.",
       "principles": []
+    },
+    {
+      "pages": "57",
+      "title": "Flatter collar stand (slashed collar)",
+      "status": "read",
+      "summary": "For a flatter-fitting collar, the collar is slashed from the outer edge toward the shoulder and spread slightly so it curves. A separate collar is cut along the roll line on the bias at the centre back.",
+      "principles": []
+    },
+    {
+      "pages": "58",
+      "title": "Sleeves: chapter introduction",
+      "status": "read",
+      "summary": "Sleeves fall into three groups: set-in, raglan, and cut in one with the bodice. Sleeves must be comfortable with no strain, the cap must fit smoothly, the elbow must have room to bend, and the sleeve should hang straight, following the natural curve of the arm. A single elbow dart gives a pointed elbow; splitting it into several darts curves the sleeve gently.",
+      "principles": [
+        "myop-sleeve-elbow-room",
+        "myop-sleeve-split-elbow-dart"
+      ]
+    },
+    {
+      "pages": "59-60",
+      "title": "Flared or elasticated sleeve hem",
+      "status": "read",
+      "summary": "A flared sleeve hem is made by slashing from the hem to the cap and spreading the panels, with the hem dropped and curved. Flared hems are seamed or faced to avoid puckering; elasticated hems need extra length for the channel. A cuff on a gathered sleeve shortens the sleeve by about half the cuff width.",
+      "principles": [
+        "myop-cuff-shortens-gathered-sleeve"
+      ]
+    },
+    {
+      "pages": "61",
+      "title": "Gathered or pleated puff crown",
+      "status": "read",
+      "summary": "Puffed sleeves are feminine and suit soft fabric. The crown is slashed into sections and spread; more spreading gives fuller gathers, more raising a puffier shape. A pleated crown is notched at the gaps between pleats, and pleats should face the direction that gives the best fall.",
+      "principles": [
+        "myop-puff-crown-spread-raise"
+      ]
+    },
+    {
+      "pages": "62",
+      "title": "Shirt sleeve with cuff",
+      "status": "read",
+      "summary": "A shirt sleeve has a cuff, pleated or gathered at the wrist. The overarm neck-to-wrist length including cuff is about 1.5 cm longer than the fitted sleeve so the sleeve falls over the cuff. Allow for shoulder pads and style features.",
+      "principles": [
+        "myop-shirt-sleeve-cuff-length"
+      ]
+    },
+    {
+      "pages": "63",
+      "title": "Dropped shoulder",
+      "status": "read",
+      "summary": "A dropped shoulder extends the shoulder seam to form a slight cap, so a sleeveless garment does not show the shoulder. The armhole is dropped to keep the new armhole close to the regular one. Check that corresponding seams match in length.",
+      "principles": [
+        "myop-dropped-shoulder-armhole-drop"
+      ]
+    },
+    {
+      "pages": "65",
+      "title": "Two-piece sleeve",
+      "status": "read",
+      "summary": "A two-piece (tailored) sleeve is used for jackets and tailored dresses. It hangs in a curve following the arm, and fits best with a well-fitting shoulder and pad. The folded sleeve is pivoted at the front elbow line to move the hem forward, the back elbow is curved, and the sleeve is split into top and under sleeves along marked seam lines.",
+      "principles": [
+        "myop-two-piece-sleeve-elbow-curve"
+      ]
+    },
+    {
+      "pages": "66",
+      "title": "Raglan sleeve",
+      "status": "read",
+      "summary": "A raglan sleeve is comfortable and simple to make. The armhole is dropped and extended, the sleeve adjusted to match, and the raglan line drawn on front and back. The sleeve is slashed along the raglan curves, spread at the underarm, and the shoulder dart extended. A two-piece raglan suits rigid fabric, where a dart might form a point.",
+      "principles": [
+        "myop-raglan-two-piece-rigid-fabric"
+      ]
     }
   ],
-  "principle_count": 30,
+  "principle_count": 38,
   "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
 }
