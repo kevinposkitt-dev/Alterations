@@ -3432,6 +3432,82 @@
       },
       "status": "draft",
       "reviewer": null
+    },
+    {
+      "id": "myop-centre-back-vent-depth",
+      "statement": "A centre-back vent is about 3-5 cm deep; the right back takes double the depth for the fold.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "89"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-dirndl-fullness-by-hip-multiple",
+      "statement": "A gathered skirt's fullness is set by the hem length, usually about twice the hip measure, and up to three times for more fullness.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "91"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-circle-radius-from-waist",
+      "statement": "A circular skirt's waistline radius comes from the waist measure, adjusted for the type of circle; the formula is given on page 92.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "92"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-circle-hem-narrow",
+      "statement": "Keep the hem of a circular skirt narrow, about 6 mm, so it does not rope.",
+      "applies_to": [
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "93"
+      },
+      "status": "draft",
+      "reviewer": null
+    },
+    {
+      "id": "myop-culotte-front-shorter-crotch",
+      "statement": "The front crotch of a culotte is shorter than the back, so the front is shortened and the back lengthened by the same amount.",
+      "applies_to": [
+        "trousers",
+        "skirted"
+      ],
+      "operation": null,
+      "check": null,
+      "source": {
+        "book": "Make Your Own Patterns (René Bergh)",
+        "pages": "94"
+      },
+      "status": "draft",
+      "reviewer": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "book": "Make Your Own Patterns (René Bergh)",
   "schema": "Index of the MYOP text: sections with page ranges, short rule summaries, and principle ids. Summaries only; no book text. Source text: 60577b04-Make_Your_Own_Patterns.txt (5,490 lines, pages about 12-126).",
   "status": "in progress",
-  "read_to_line": 4044,
+  "read_to_line": 4533,
   "sections": [
     {
       "pages": "6-20",
@@ -487,8 +487,73 @@
       "principles": [
         "myop-six-gored-slimming"
       ]
+    },
+    {
+      "pages": "89",
+      "title": "Six-gored skirt with inverted pleats",
+      "status": "read",
+      "summary": "Pleats can be added to the gores by extending them, with a pleat facing about double the pleat depth. The same pleat can repeat at the side back. Seams are 1 cm, with heavier hems and a 1.5 cm seam on the zip side.",
+      "principles": []
+    },
+    {
+      "pages": "89",
+      "title": "Centre back vent (pleat with slit)",
+      "status": "read",
+      "summary": "A centre-back vent gives freedom of movement without the exposure of a slit. The vent depth is about 3-5 cm and is added to the left back; the right back takes double that for the fold. The slit can be stitched closed to form a knife pleat.",
+      "principles": [
+        "myop-centre-back-vent-depth"
+      ]
+    },
+    {
+      "pages": "90",
+      "title": "Dirndl skirt",
+      "status": "read",
+      "summary": "A dirndl is gathered onto a waistband. Front and back are divided into four parts and spread for fullness, and the hem and waist are gently curved with the side seams straightened. Tucks can replace gathers, as on the sleeve cap. Knits must be cut with the centre lines on the grain.",
+      "principles": []
+    },
+    {
+      "pages": "91",
+      "title": "Dirndl skirt with basque (hip yoke)",
+      "status": "read",
+      "summary": "A basque is a hip yoke, a close fit over the hip with the full skirt gathered or tucked onto it. The yoke is sized from the lower hip with ease plus the width for an elastic waist. The skirt length is set by the desired length, usually twice the hip measurement for fullness; up to three times for more. Pleats need about three times the hip measure.",
+      "principles": [
+        "myop-dirndl-fullness-by-hip-multiple"
+      ]
+    },
+    {
+      "pages": "92-93",
+      "title": "Circular skirts: full, three-quarter, half and quarter circles",
+      "status": "read",
+      "summary": "Circular skirts are classed by fullness, with a formula for the waistline radius that depends on the circle type. A two-piece skirt is cut from the folded pattern with a zip seam on one side; a one-piece skirt needs a centre-back slit of about 20 cm. Hems are kept narrow, about 6 mm. Most skirts are two-piece because few fabrics are wide enough for a full circle.",
+      "principles": [
+        "myop-circle-radius-from-waist",
+        "myop-circle-hem-narrow"
+      ]
+    },
+    {
+      "pages": "94-95",
+      "title": "Culottes",
+      "status": "read",
+      "summary": "A culotte is a divided skirt cut from front and back shapes, drafted with the crotch depth plus 2.5 cm of ease. The front crotch is shorter than the back, so 2.5 cm taken off the front is added to the back. The zip is at the centre back or the left side. The waistband is the skirt waistband from page 86. A golf style adds inverted pleats front and back; culottes can be lengthened to palazzo pants.",
+      "principles": [
+        "myop-culotte-front-shorter-crotch"
+      ]
+    },
+    {
+      "pages": "96",
+      "title": "Dresses: introduction",
+      "status": "read",
+      "summary": "Dresses suit some occasions better than separates, and princess-line styles slim the figure. The waistline can be raised, lowered or removed, with many silhouettes available.",
+      "principles": []
+    },
+    {
+      "pages": "97",
+      "title": "Empire line",
+      "status": "read",
+      "summary": "An empire line dress has its seam just under the bust and a squared neckline. The hip-length pattern is traced, the sleeveless armhole and neck are adjusted as for other bodices, and the bodice length is set from the bust level.",
+      "principles": []
     }
   ],
-  "principle_count": 53,
+  "principle_count": 58,
   "next": "Read from line 1196 (pp. 29 onward): remaining skirt, trouser, shorts, bodice, sleeve, jacket, shirt, dress and collar sections."
 }
